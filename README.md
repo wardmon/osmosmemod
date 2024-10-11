@@ -1,3 +1,4 @@
+- [【网站自荐】可让前端程序员简单方便地进行 TypeScript 类型体操的小站 · Issue #5250 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5250)
 - [【网站自荐】用中文筛选Hacker News和AI论文 · Issue #5273 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5273)
 - [【开源自荐】联网麻将游戏 · Issue #5247 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5247)
 - [OneIMG](https://oneimgai.com/#1)
