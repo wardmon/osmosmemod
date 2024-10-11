@@ -1,3 +1,4 @@
+- [osmos::feed](https://wardmon.github.io/osmosfeed-demo/)
 - [GitHub - osmoscraft/tundra: Where knowledge grows.](https://kkgithub.com/osmoscraft/tundra)
 - [GitHub - osmoscraft/fjord: Host-free RSS reader in your browser.](https://kkgithub.com/osmoscraft/fjord)
 - [GitHub - chuanqisun/memo: A personal knowledge base, a Today I Learned (TIL) journal, A Second brain. Automated with osmos::memo](https://kkgithub.com/chuanqisun/memo)
