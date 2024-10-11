@@ -1,3 +1,4 @@
+- [【开源自荐】联网麻将游戏 · Issue #5247 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5247)
 - [OneIMG](https://oneimgai.com/#1)
 - [【开源自荐】 文字转图片工具，适合公众号长图和图片社交媒体图片制作 · Issue #5268 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5268)
 - [wardmon/osmosmemod](https://github.com/wardmon/osmosmemod)
