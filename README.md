@@ -1,3 +1,4 @@
+- [Reproduce test failure by running the test in loop Using set, tee](https://www.commandlinefu.com/commands/view/9194/reproduce-test-failure-by-running-the-test-in-loop)
 - [backup all your commandlinefu.com favourites to a plaintext file Using c++, wget](https://www.commandlinefu.com/commands/view/3681/backup-all-your-commandlinefu.com-favourites-to-a-plaintext-file)
 - [Using column to format a directory listing Using column, ls, printf, sed](https://www.commandlinefu.com/commands/view/3731/using-column-to-format-a-directory-listing)
 - [Closures in JavaScript: Why Do We Need Them?](https://blog.bitsrc.io/closures-in-javascript-why-do-we-need-them-2097f5317daf)
