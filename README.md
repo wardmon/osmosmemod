@@ -1,3 +1,4 @@
+- [学习周刊-总第180期-2024年第41周](https://wiki.eryajf.net/pages/6dc85f/)
 - [write text or append to a file Using cat](https://www.commandlinefu.com/commands/view/2620/write-text-or-append-to-a-file)
 - [Run a command when a file is changed](/commands/view/5769/make-or-run-a-script-everytime-a-file-in-a-directory-is-modified)
 - [Echo JS - JavaScript News](https://www.echojs.com/)
