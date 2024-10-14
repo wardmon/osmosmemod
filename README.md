@@ -1,3 +1,4 @@
+- [backup all your commandlinefu.com favourites to a plaintext file Using c++, wget](https://www.commandlinefu.com/commands/view/3681/backup-all-your-commandlinefu.com-favourites-to-a-plaintext-file)
 - [Using column to format a directory listing Using column, ls, printf, sed](https://www.commandlinefu.com/commands/view/3731/using-column-to-format-a-directory-listing)
 - [Closures in JavaScript: Why Do We Need Them?](https://blog.bitsrc.io/closures-in-javascript-why-do-we-need-them-2097f5317daf)
 - [欢迎 | WebFollow - 在线 RSS 阅读器](https://webfollow.cc/welcome)
