@@ -1,3 +1,4 @@
+- [免费的离线下载神器](https://iui.su/2014/)
 - [2024 年 10 月 每日分享](https://iui.su/190/?from=https://www.fre321.com)
 - [GitHub - headllines/hackernews-daily: Hacker News daily top 10 posts](https://kkgithub.com/headllines/hackernews-daily)
 - [How to write in plain English](https://www.plainenglish.co.uk/how-to-write-in-plain-english.html)
