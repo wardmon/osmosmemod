@@ -1,3 +1,4 @@
+- [Echo JS - JavaScript News](https://www.echojs.com/)
 - [GitHub - avinashkranjan/Amazing-Python-Scripts: 🚀 Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts.](https://kkgithub.com/avinashkranjan/Amazing-Python-Scripts)
 - [网盘评测2023计划：PikPak（新加坡）：目前还能白嫖会员](https://www.blueskyxn.com/202312/6935.html)
 - [免费的离线下载神器](https://iui.su/2014/)
