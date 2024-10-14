@@ -1,3 +1,4 @@
+- [Run a command when a file is changed](/commands/view/5769/make-or-run-a-script-everytime-a-file-in-a-directory-is-modified)
 - [Echo JS - JavaScript News](https://www.echojs.com/)
 - [GitHub - avinashkranjan/Amazing-Python-Scripts: 🚀 Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts.](https://kkgithub.com/avinashkranjan/Amazing-Python-Scripts)
 - [网盘评测2023计划：PikPak（新加坡）：目前还能白嫖会员](https://www.blueskyxn.com/202312/6935.html)
