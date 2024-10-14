@@ -1,3 +1,4 @@
+- [write text or append to a file Using cat](https://www.commandlinefu.com/commands/view/2620/write-text-or-append-to-a-file)
 - [Run a command when a file is changed](/commands/view/5769/make-or-run-a-script-everytime-a-file-in-a-directory-is-modified)
 - [Echo JS - JavaScript News](https://www.echojs.com/)
 - [GitHub - avinashkranjan/Amazing-Python-Scripts: 🚀 Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts.](https://kkgithub.com/avinashkranjan/Amazing-Python-Scripts)
