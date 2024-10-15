@@ -1,3 +1,4 @@
+- [Display the standard deviation of a column of numbers with awk Using awk, delta](/commands/view/1661/display-the-standard-deviation-of-a-column-of-numbers-with-awk) #cmdfu
 - [How to Use JavaScript's Spread Operator](https://masteringjs.io/tutorials/fundamentals/spread) 111111111 #2410
 - [How to Use JavaScript's Spread Operator](https://masteringjs.io/tutorials/fundamentals/spread) 111111111 #2410
 - [How to Use JavaScript's Spread Operator](https://masteringjs.io/tutorials/fundamentals/spread) #2410
