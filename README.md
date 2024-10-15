@@ -1,3 +1,4 @@
+- [How to Use JavaScript's Spread Operator](https://masteringjs.io/tutorials/fundamentals/spread)
 - [Prepend string to filename Using ls, mv, read](https://www.commandlinefu.com/commands/view/6330/prepend-string-to-filename)
 - [How to Uppercase Strings in JavaScript](https://masteringjs.io/tutorials/fundamentals/uppercase)
 - [Reproduce test failure by running the test in loop Using set, tee](https://www.commandlinefu.com/commands/view/9194/reproduce-test-failure-by-running-the-test-in-loop)
