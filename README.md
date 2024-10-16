@@ -1,3 +1,4 @@
+- [Zip each file in a directory individually with the original file name Using awk, ls](https://www.commandlinefu.com/commands/view/9895/zip-each-file-in-a-directory-individually-with-the-original-file-name) #cmdfu
 - [urldecoding Using echo, sed, xargs](https://www.commandlinefu.com/commands/view/2285/urldecoding) #cmdfu
 - [Run a command for a given time Using kill, sleep](/commands/view/9721/start-command-and-kill-it-if-still-running-after-5-seconds) #cmdfu
 - [Use socat to emulate an SMTP mail SERVER Using cat, echo, sleep](https://www.commandlinefu.com/commands/view/13871/use-socat-to-emulate-an-smtp-mail-server)
