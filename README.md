@@ -1,3 +1,4 @@
+- [Recover a deleted file Using grep](https://www.commandlinefu.com/commands/view/6371/recover-a-deleted-file) #cmdfu
 - [Convert a string to \"Title Case\" Using echo, sed](/commands/view/7598/convert-a-string-to-title-case)
 - [Zip each file in a directory individually with the original file name Using awk, ls](https://www.commandlinefu.com/commands/view/9895/zip-each-file-in-a-directory-individually-with-the-original-file-name) #cmdfu
 - [urldecoding Using echo, sed, xargs](https://www.commandlinefu.com/commands/view/2285/urldecoding) #cmdfu
