@@ -1,3 +1,4 @@
+- [Use socat to emulate an SMTP mail SERVER Using cat, echo, sleep](https://www.commandlinefu.com/commands/view/13871/use-socat-to-emulate-an-smtp-mail-server)
 - [String Capitalization Using awk, echo, tr](https://www.commandlinefu.com/commands/view/2489/string-capitalization) #cmdfu
 - [watch iptables counters Using watch](/commands/view/3150/watch-iptables-counters)
 - [ls -lR with a full path Using ls, read, tar](https://www.commandlinefu.com/commands/view/3516/ls-lr-with-a-full-path)
