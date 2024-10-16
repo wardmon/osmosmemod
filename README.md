@@ -1,3 +1,4 @@
+- [Convert a string to \"Title Case\" Using echo, sed](/commands/view/7598/convert-a-string-to-title-case)
 - [Zip each file in a directory individually with the original file name Using awk, ls](https://www.commandlinefu.com/commands/view/9895/zip-each-file-in-a-directory-individually-with-the-original-file-name) #cmdfu
 - [urldecoding Using echo, sed, xargs](https://www.commandlinefu.com/commands/view/2285/urldecoding) #cmdfu
 - [Run a command for a given time Using kill, sleep](/commands/view/9721/start-command-and-kill-it-if-still-running-after-5-seconds) #cmdfu
