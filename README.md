@@ -1,3 +1,4 @@
+- [copyparty/docs/versus.md at hovudstraum · 9001/copyparty](https://github.com/9001/copyparty/blob/hovudstraum/docs/versus.md)
 - [Release the sky is the limit · 9001/copyparty](https://github.com/9001/copyparty/releases/tag/v1.15.8)
 - [Release the sky is the limit · 9001/copyparty](https://github.com/9001/copyparty/releases/tag/v1.15.8)
 - [Find removed files still in use via /proc Using grep, ls](/commands/view/2511/find-removed-files-still-in-use-via-proc)
