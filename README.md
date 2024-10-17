@@ -1,3 +1,4 @@
+- [Printable random characters Using tr](https://www.commandlinefu.com/commands/view/210/printable-random-characters)
 - [List files with full path Using find](https://www.commandlinefu.com/commands/view/6244/list-files-with-full-path)
 - [list all file extensions in a directory Using grep, ls, sort](/commands/view/7878/list-all-file-extensions-in-a-directory)
 - [copyparty/docs/versus.md at hovudstraum · 9001/copyparty](https://github.com/9001/copyparty/blob/hovudstraum/docs/versus.md)
