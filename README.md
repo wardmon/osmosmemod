@@ -1,3 +1,4 @@
+- [【工具自荐】Chat100.ai: 免费使用 ChatGPT 4o 和 Claude 3.5 Sonnet · Issue #5322 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5322)
 - [Using an existing JupyterLite deployment — JupyterLite 0.4.3 documentation](https://jupyterlite.readthedocs.io/en/stable/quickstart/using.html)
 - [Deploy your first JupyterLite website on GitHub Pages — JupyterLite 0.4.3 documentation](https://jupyterlite.readthedocs.io/en/stable/quickstart/deploy.html)
 - [Reader API](https://jina.ai/reader/)
