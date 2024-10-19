@@ -1,3 +1,4 @@
+- [Costs of running a Python webapp for 55k monthly users](https://casparwre.de/blog/cost-of-running-webapp/)
 - [NotesHub — Take Notes, Sync and Collaborate](https://www.noteshub.app/notebooks/github/wardmon%2Fnotehubdemo/%2F/1111111.md)
 - [NotesHub — Take Notes, Sync and Collaborate](https://www.noteshub.app/notebooks/github/wardmon%2Fnotehubdemo/%2F/1111111.md)
 - [NotesHub — Take Notes, Sync and Collaborate](https://www.noteshub.app/notebooks/github/wardmon%2Fnotehubdemo)
