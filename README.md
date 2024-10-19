@@ -1,3 +1,4 @@
+- [SQL之母 - 免费SQL自学网站 by 程序员鱼皮](http://sqlmother.yupi.icu/#/learn)
 - [tycrek/degoogle: A huge list of alternatives to Google products. Privacy tips, tricks, and links.](https://github.com/tycrek/degoogle)
 - [prashantgupta24/firewalld-rest: A rest application to update firewalld rules on a linux server](https://github.com/prashantgupta24/firewalld-rest)
 - [degoogle](https://tycrek.github.io/degoogle/)
