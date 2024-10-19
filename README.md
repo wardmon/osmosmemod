@@ -1,3 +1,4 @@
+- [prashantgupta24/firewalld-rest: A rest application to update firewalld rules on a linux server](https://github.com/prashantgupta24/firewalld-rest)
 - [degoogle](https://tycrek.github.io/degoogle/)
 - [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/10.0-rc1/index.html)
 - [熟能生巧 – 刷题的一些技巧的经验之谈](https://justyy.com/archives/44858)
