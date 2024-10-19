@@ -1,3 +1,4 @@
+- [degoogle](https://tycrek.github.io/degoogle/)
 - [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/10.0-rc1/index.html)
 - [熟能生巧 – 刷题的一些技巧的经验之谈](https://justyy.com/archives/44858)
 - [Costs of running a Python webapp for 55k monthly users](https://casparwre.de/blog/cost-of-running-webapp/)
