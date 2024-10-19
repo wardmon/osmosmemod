@@ -1,3 +1,4 @@
+- [tycrek/degoogle: A huge list of alternatives to Google products. Privacy tips, tricks, and links.](https://github.com/tycrek/degoogle)
 - [prashantgupta24/firewalld-rest: A rest application to update firewalld rules on a linux server](https://github.com/prashantgupta24/firewalld-rest)
 - [degoogle](https://tycrek.github.io/degoogle/)
 - [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/10.0-rc1/index.html)
