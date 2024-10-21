@@ -1,3 +1,4 @@
+- [GlazeWM开源项目FAQ及新手指南-CSDN博客](https://blog.csdn.net/gitblog_01238/article/details/143043691)
 - [quickly backup or copy a file with bash Using cp](/commands/view/18/create-a-quick-back-up-copy-of-a-file)
 - [Binary Clock Using watch](https://www.commandlinefu.com/commands/view/3969/binary-clock)
 - [Show apps that use internet connection at the moment. (Multi-Language)](/commands/view/3542/show-apps-that-use-internet-connection-at-the-moment.-multi-language)
