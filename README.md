@@ -1,3 +1,4 @@
+- [Symlink all files from a base directory to a target directory Using ln, ls](/commands/view/12715/symlink-all-files-from-a-base-directory-to-a-target-directory)
 - [Remove blank lines from a file Using sed](https://www.commandlinefu.com/commands/view/1864/remove-blank-lines-from-a-file)
 - [GlazeWM开源项目FAQ及新手指南-CSDN博客](https://blog.csdn.net/gitblog_01238/article/details/143043691)
 - [quickly backup or copy a file with bash Using cp](/commands/view/18/create-a-quick-back-up-copy-of-a-file)
