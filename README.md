@@ -1,3 +1,4 @@
+- [quickly backup or copy a file with bash Using cp](/commands/view/18/create-a-quick-back-up-copy-of-a-file)
 - [Binary Clock Using watch](https://www.commandlinefu.com/commands/view/3969/binary-clock)
 - [Show apps that use internet connection at the moment. (Multi-Language)](/commands/view/3542/show-apps-that-use-internet-connection-at-the-moment.-multi-language)
 - [RunJS - JavaScript Playground | Run JavaScript Online](https://runjs.app/play)
