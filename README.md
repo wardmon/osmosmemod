@@ -1,3 +1,4 @@
+- [Binary Clock Using watch](https://www.commandlinefu.com/commands/view/3969/binary-clock)
 - [Show apps that use internet connection at the moment. (Multi-Language)](/commands/view/3542/show-apps-that-use-internet-connection-at-the-moment.-multi-language)
 - [RunJS - JavaScript Playground | Run JavaScript Online](https://runjs.app/play)
 - [Remote JavaScript Debugger](https://remotejs.com/)
