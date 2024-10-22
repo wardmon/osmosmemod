@@ -1,3 +1,4 @@
+- [print all paragraphs containing string Using cat, sed](https://www.commandlinefu.com/commands/view/7940/print-all-paragraphs-containing-string)
 - [2024 年了，我最近在用什么工具 - Nekonull's Garden](https://nekonull.me/posts/tools-i-use-2024-mid/)
 - [2024 年了，我最近在用什么工具 - Nekonull's Garden](https://nekonull.me/posts/tools-i-use-2024-mid/)
 - [Chatbox AI: Your AI Copilot, Best AI Client on any device, Free Download](https://chatboxai.app/en)
