@@ -1,3 +1,4 @@
+- [Chatbox AI: Your AI Copilot, Best AI Client on any device, Free Download](https://chatboxai.app/en)
 - [Check a server is up. If it isn't mail me. Using echo, mail, ping](/commands/view/3780/check-a-server-is-up.-if-it-isnt-mail-me.)
 - [Symlink all files from a base directory to a target directory Using ln, ls](/commands/view/12715/symlink-all-files-from-a-base-directory-to-a-target-directory)
 - [Remove blank lines from a file Using sed](https://www.commandlinefu.com/commands/view/1864/remove-blank-lines-from-a-file)
