@@ -1,3 +1,4 @@
+- [2024 年了，我最近在用什么工具 - Nekonull's Garden](https://nekonull.me/posts/tools-i-use-2024-mid/)
 - [Chatbox AI: Your AI Copilot, Best AI Client on any device, Free Download](https://chatboxai.app/en)
 - [Check a server is up. If it isn't mail me. Using echo, mail, ping](/commands/view/3780/check-a-server-is-up.-if-it-isnt-mail-me.)
 - [Symlink all files from a base directory to a target directory Using ln, ls](/commands/view/12715/symlink-all-files-from-a-base-directory-to-a-target-directory)
