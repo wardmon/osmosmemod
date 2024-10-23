@@ -1,3 +1,4 @@
+- [Parsing an RSS News Feed with a Bash Script | Linux Journal](https://www.linuxjournal.com/content/parsing-rss-news-feed-bash-script)
 - [Echo JS Feed Preview](https://rss.app/overview-feed-xml)
 - [RSS Feed Viewer](https://rssviewer.app)
 - [Postcat - 个人工作空间](https://postcat.com/en/home/workspace/project/api/http/test?wid=f5b01cd6-59ca-4b6c-9630-f4cb6ac4dc3d&pid=90df0684-ee2f-415a-a23c-833bc9732707&pageID=1729665448504)
