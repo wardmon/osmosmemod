@@ -1,3 +1,4 @@
+- [A simple but well coloured feed reader written in bash / Programming & Scripting / Arch Linux Forums](viewtopic.php?id=146850) #2410#cmdfu
 - [Parsing an RSS News Feed with a Bash Script | Linux Journal](https://www.linuxjournal.com/content/parsing-rss-news-feed-bash-script)
 - [Echo JS Feed Preview](https://rss.app/overview-feed-xml)
 - [RSS Feed Viewer](https://rssviewer.app)
