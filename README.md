@@ -1,3 +1,4 @@
+- [RSS 2 HTML](https://rss2html.net/build_embeds/new)
 - [RSS 2 HTML](https://rss.bloople.net/) #2410
 - [A simple but well coloured feed reader written in bash / Programming & Scripting / Arch Linux Forums](viewtopic.php?id=146850) #2410#cmdfu
 - [Parsing an RSS News Feed with a Bash Script | Linux Journal](https://www.linuxjournal.com/content/parsing-rss-news-feed-bash-script)
