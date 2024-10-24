@@ -1,3 +1,4 @@
+- [论坛无处不在的RSS - 搞七捻三 - LINUX DO](https://linux.do/t/topic/23342)
 - [RSS 2 HTML](https://rss2html.net/build_embeds/new)
 - [RSS 2 HTML](https://rss.bloople.net/) #2410
 - [A simple but well coloured feed reader written in bash / Programming & Scripting / Arch Linux Forums](viewtopic.php?id=146850) #2410#cmdfu
