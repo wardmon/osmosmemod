@@ -1,3 +1,4 @@
+- [KonghaYao/awesome-deno-deploy-script: It's a simple script collection of deno deploy. only one file to be deployed!](https://github.com/KonghaYao/awesome-deno-deploy-script)
 - [denoland/deploy_examples: Examples for Deno Deploy](https://github.com/denoland/deploy_examples)
 - [Deno, the next-generation JavaScript runtime](https://deno.com/)
 - [WebRTC samples](https://webrtc.github.io/samples/)
