@@ -1,3 +1,4 @@
+- [oscarotero/notes: Minimalist notepad for Deno deploy](https://github.com/oscarotero/notes)
 - [GitHub - erfanium/deno-deploy-mongo: A sample project using Deno + Deno Deploy + MongoDB + Oak](https://kkgithub.com/erfanium/deno-deploy-mongo)
 - [justjavac/deno_deploy_examples: Deno Serverless 部署服务](https://github.com/justjavac/deno_deploy_examples)
 - [凡尔赛](https://versailles.deno.dev/)
