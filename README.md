@@ -1,3 +1,4 @@
+- [justjavac/deno_deploy_examples: Deno Serverless 部署服务](https://github.com/justjavac/deno_deploy_examples)
 - [凡尔赛](https://versailles.deno.dev/)
 - [justjavac/deno_deploy_cors_proxy: Deno Deploy CORS Proxy](https://github.com/justjavac/deno_deploy_cors_proxy)
 - [denoland/meet-me: A calendly clone in Deno and hosted on Deno Deploy](https://github.com/denoland/meet-me)
