@@ -1,3 +1,4 @@
+- [useHooks – The React Hooks Library](https://usehooks.com/)
 - [Pastebin](https://paste.c-net.org/)
 - [【开源自荐】优雅摸鱼，时刻关注最新新闻，关注股市和国际局势。 · Issue #5407 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5407)
 - [[工具自荐]一个OCR AI小工具，可以识别图片中的表格并转成可编辑的excel文件 · Issue #5370 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5370)
