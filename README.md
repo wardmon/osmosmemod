@@ -1,3 +1,4 @@
+- [justjavac/deno_deploy_cors_proxy: Deno Deploy CORS Proxy](https://github.com/justjavac/deno_deploy_cors_proxy)
 - [denoland/meet-me: A calendly clone in Deno and hosted on Deno Deploy](https://github.com/denoland/meet-me)
 - [serverless-dns/serverless-dns: The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io](https://github.com/serverless-dns/serverless-dns)
 - [GitHub - localtunnel/localtunnel: expose yourself](https://kkgithub.com/localtunnel/localtunnel)
