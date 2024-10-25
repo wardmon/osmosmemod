@@ -1,3 +1,4 @@
+- [notifier/docs/webhooks_settings.png at main · byodian/notifier · GitHub](https://kkgithub.com/byodian/notifier/blob/main/docs/webhooks_settings.png)
 - [Debugging Till Dawn: How Git Bisect Saved My Demo](https://www.mikebuss.com/posts/debugging-till-dawn)
 - [Obsidian Encrypted Backup - Google Drive, Dropbox, OneDrive - Byte Tank](https://lopespm.com/notes/2024/09/11/obsidian-backup.html)
 - [论坛无处不在的RSS - 搞七捻三 - LINUX DO](https://linux.do/t/topic/23342)
