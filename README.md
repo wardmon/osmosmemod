@@ -1,3 +1,4 @@
+- [【工具推荐】加水印 在线工具：可能是最简单的图片加水印工具，开源共创 · Issue #5395 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5395)
 - [邮件 - null null - Outlook](https://outlook.live.com/mail/0/)
 - [fair-tuna-38 - Deno Playground](https://dash.deno.com/tutorial/tutorial-http)
 - [https://microsoftedge.microsoft.com/addons/detail/modheader-modify-http-h/opgbiafapkbbnbnjcdomjaghbckfkglc](https://microsoftedge.microsoft.com/addons/detail/modheader-modify-http-h/opgbiafapkbbnbnjcdomjaghbckfkglc)
