@@ -1,3 +1,4 @@
+- [serverless-dns/serverless-dns: The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io](https://github.com/serverless-dns/serverless-dns)
 - [GitHub - localtunnel/localtunnel: expose yourself](https://kkgithub.com/localtunnel/localtunnel)
 - [Using SSH and localhost.run to test GitHub webhooks locally](https://andrewlock.net/using-ssh-and-localhost-run-to-test-github-webhooks-locally/)
 - [Appetize.io](https://appetize.io/) 1111111111111https://appetize.io/ #2410
