@@ -1,3 +1,4 @@
+- [Obsidian Encrypted Backup - Google Drive, Dropbox, OneDrive - Byte Tank](https://lopespm.com/notes/2024/09/11/obsidian-backup.html)
 - [论坛无处不在的RSS - 搞七捻三 - LINUX DO](https://linux.do/t/topic/23342)
 - [RSS 2 HTML](https://rss2html.net/build_embeds/new)
 - [RSS 2 HTML](https://rss.bloople.net/) #2410
