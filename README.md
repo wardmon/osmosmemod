@@ -1,3 +1,4 @@
+- [l3onh4rd/deno-webdev-notes-microservice: This is a possible microservice implementation with Deno combining a Deno KV and MongoDB database. It is deployed with Deno Deploy. Contributions are welcome.](https://github.com/l3onh4rd/deno-webdev-notes-microservice)
 - [oscarotero/notes: Minimalist notepad for Deno deploy](https://github.com/oscarotero/notes)
 - [GitHub - erfanium/deno-deploy-mongo: A sample project using Deno + Deno Deploy + MongoDB + Oak](https://kkgithub.com/erfanium/deno-deploy-mongo)
 - [justjavac/deno_deploy_examples: Deno Serverless 部署服务](https://github.com/justjavac/deno_deploy_examples)
