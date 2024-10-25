@@ -1,3 +1,4 @@
+- [K0IN/Notify: A small deno deploy / self hosted solution to send web push notifications with webhooks](https://github.com/K0IN/Notify)
 - [browserless/browserless: Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.](https://github.com/browserless/browserless)
 - [KonghaYao/awesome-deno-deploy-script: It's a simple script collection of deno deploy. only one file to be deployed!](https://github.com/KonghaYao/awesome-deno-deploy-script)
 - [denoland/deploy_examples: Examples for Deno Deploy](https://github.com/denoland/deploy_examples)
