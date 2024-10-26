@@ -1,3 +1,4 @@
+- [Fauna Dashboard](https://dashboard.fauna.com/resources/home?firstsession=true)
 - [Dashboard | Supabase](https://supabase.com/dashboard/projects)
 - [Neon Console](https://console.neon.tech/app/projects)
 - [NotesHub — Take Notes, Sync and Collaborate](https://www.noteshub.app/notebooks/github/wardmon%2Fnotehubdemo)
