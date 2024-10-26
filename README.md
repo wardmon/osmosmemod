@@ -1,3 +1,4 @@
+- [Installation and Basic Configuration of MySQL](https://labex.io/labs/linux-installation-and-basic-configuration-of-mysql-391538?course=quick-start-with-mysql)
 - [MySQL超详细学习教程，2023年硬核学习路线_mysql教程-CSDN博客](https://blog.csdn.net/zhangxia_/article/details/128731415)
 - [FREE AI-Enhanced Online MySQL Compiler - For learning & practice](https://sqlfiddle.com/mysql/online-compiler)
 - [Image to excel - Convert images to excel accurately and free](https://itexcel.izhiyakeji.com/toexcel)
