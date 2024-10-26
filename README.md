@@ -1,3 +1,4 @@
+- [Image to excel - Convert images to excel accurately and free](https://itexcel.izhiyakeji.com/toexcel)
 - [微信公众号文章导出](https://wechat-article-exporter.deno.dev/)
 - [【工具自荐】微信公众号文章在线导出工具 · Issue #5387 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5387)
 - [111](https://nodejson.deno.dev/111)
