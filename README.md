@@ -1,3 +1,4 @@
+- [MySQL超详细学习教程，2023年硬核学习路线_mysql教程-CSDN博客](https://blog.csdn.net/zhangxia_/article/details/128731415)
 - [FREE AI-Enhanced Online MySQL Compiler - For learning & practice](https://sqlfiddle.com/mysql/online-compiler)
 - [Image to excel - Convert images to excel accurately and free](https://itexcel.izhiyakeji.com/toexcel)
 - [微信公众号文章导出](https://wechat-article-exporter.deno.dev/)
