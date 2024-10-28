@@ -1,3 +1,4 @@
+- [Environment Variables and ConfigMaps](https://kubebyexample.com/learning-paths/kubernetes-fundamentals/environment-variables-and-configmaps)
 - [Kubernetes](https://www.tutorialworks.com/kubernetes/)
 - [Kubernetes | TestDome](https://app.testdome.com/screening/challenge/176)
 - [Activate Your Sandbox · KubeCamp](https://kubecamp.kcdlahore.org/kubernetes-basics/introduction/active-your-sandbox)
