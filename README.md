@@ -1,3 +1,4 @@
+- [MySQL](https://panel4.serv00.com/mysql/)
 - [Best Kubernetes Courses Online with Certificates [2024] | Coursera](https://www.coursera.org/courses?query=kubernetes)
 - [Kubernetes Course Labs](https://kubernetes.courselabs.co/)
 - [learnk8s/free-kubernetes: List of Free Trials of Managed Kubernetes Services](https://github.com/learnk8s/free-kubernetes)
