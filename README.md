@@ -1,3 +1,4 @@
+- [learnk8s/free-kubernetes: List of Free Trials of Managed Kubernetes Services](https://github.com/learnk8s/free-kubernetes)
 - [Webkubectl - Running Kubectl Commands from your Web Browser - Civo.com](https://www.civo.com/learn/webkubectl-running-kubectl-commands-from-your-web-browser)
 - [Tutorial Works](https://github.com/tutorialworks)
 - [Environment Variables and ConfigMaps](https://kubebyexample.com/learning-paths/kubernetes-fundamentals/environment-variables-and-configmaps)
