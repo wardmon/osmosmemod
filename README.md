@@ -1,3 +1,4 @@
+- [sixeyed - Repositories](https://github.com/sixeyed?tab=repositories)
 - [DevSecOps Course Labs](https://devsecops.courselabs.co/)
 - [Jira | 事务与项目跟踪软件 | Atlassian](https://www.atlassian.com/zh/software/jira)
 - [App.tsx - Kubernetes-Cheatsheet - CodeSandbox](https://codesandbox.io/p/github/adilshehzad786/Kubernetes-Cheatsheet/main?file=%2Fsrc%2FApp.tsx)
