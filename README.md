@@ -1,3 +1,4 @@
+- [EbookFoundation/free-programming-books: :books: Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
 - [docker/labs: This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.](https://github.com/docker/labs)
 - [MottoX/mysql-replication: Set up MySQL master-slave replication in 30 seconds with docker](https://github.com/MottoX/mysql-replication)
 - [kubernetes/website: Kubernetes website and documentation repo:](https://github.com/kubernetes/website)
