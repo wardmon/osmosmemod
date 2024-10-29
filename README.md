@@ -1,3 +1,4 @@
+- [MottoX/mysql-replication: Set up MySQL master-slave replication in 30 seconds with docker](https://github.com/MottoX/mysql-replication)
 - [kubernetes/website: Kubernetes website and documentation repo:](https://github.com/kubernetes/website)
 - [kubernetes/examples: Kubernetes application example tutorials](https://github.com/kubernetes/examples)
 - [sixeyed - Repositories](https://github.com/sixeyed?tab=repositories)
