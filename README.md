@@ -1,3 +1,4 @@
+- [kubernetes-the-gradual-way/README.md at master · imroc/kubernetes-the-gradual-way](https://github.com/imroc/kubernetes-the-gradual-way/blob/master/README.md)
 - [imroc/k8s_baiduyun_uploader: 下载kubernetes相关文件并上传到百度云](https://github.com/imroc/k8s_baiduyun_uploader)
 - [rootsongjc/kubernetes-handbook: Kubernetes中文指南/云原生应用架构实战手册](https://github.com/rootsongjc/kubernetes-handbook)
 - [GitHub - feiskyer/kubernetes-handbook: Kubernetes Handbook （Kubernetes指南）   https://kubernetes.feisky.xyz](https://kkgithub.com/feiskyer/kubernetes-handbook)
