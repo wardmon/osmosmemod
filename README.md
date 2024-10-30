@@ -1,3 +1,4 @@
+- [imroc/k8s_baiduyun_uploader: 下载kubernetes相关文件并上传到百度云](https://github.com/imroc/k8s_baiduyun_uploader)
 - [rootsongjc/kubernetes-handbook: Kubernetes中文指南/云原生应用架构实战手册](https://github.com/rootsongjc/kubernetes-handbook)
 - [GitHub - feiskyer/kubernetes-handbook: Kubernetes Handbook （Kubernetes指南）   https://kubernetes.feisky.xyz](https://kkgithub.com/feiskyer/kubernetes-handbook)
 - [跟美团API对接，以及生成签名，同步数据到数据库_美团收银api-CSDN博客](https://blog.csdn.net/LoveJavatoo/article/details/90716815)
