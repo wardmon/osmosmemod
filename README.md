@@ -1,3 +1,4 @@
+- [Quick Start | Garage HQ](https://garagehq.deuxfleurs.fr/documentation/quick-start/)
 - [Kill the Newsletter!](https://kill-the-newsletter.com/)
 - [爱享写作 — 想享AI,能说会画](https://want-ai.top/writer)
 - [【工具自荐】爱享写作-日常电脑可用的免费万字长文写作软件，支持中英文 · Issue #5411 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5411)
