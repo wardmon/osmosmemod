@@ -1,3 +1,4 @@
+- [killercoda/scenarios-kubernetes](https://github.com/killercoda/scenarios-kubernetes)
 - [killercoda/scenario-examples: Scenario examples for Killercoda.com](https://github.com/killercoda/scenario-examples)
 - [Killer Shell - Exam Simulators](https://killer.sh/)
 - [使用 Kustomize 对 Kubernetes 对象进行声明式管理](https://kubernetes.io/zh-cn/docs/tasks/manage-kubernetes-objects/kustomization/)
