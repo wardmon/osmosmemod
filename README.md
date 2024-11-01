@@ -1,3 +1,4 @@
+- [Garage - An open-source distributed object storage service](https://garagehq.deuxfleurs.fr/)
 - [【文章自荐】纯 Web 视频剪辑 · Issue #5438 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5438)
 - [Ding Dong Doorbell](https://dingdongdoorbell.com/)
 - [Kubernetes Playgrounds | Killercoda](https://killercoda.com/kubernetes/scenario/kubernetes-dashboard)
