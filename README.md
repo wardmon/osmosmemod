@@ -1,3 +1,4 @@
+- [Killer Shell - Exam Simulators](https://killer.sh/)
 - [使用 Kustomize 对 Kubernetes 对象进行声明式管理](https://kubernetes.io/zh-cn/docs/tasks/manage-kubernetes-objects/kustomization/)
 - [Kubernetes Playgrounds | Killercoda](https://killercoda.com/playgrounds/scenario/kubernetes)
 - [snail007/goproxy: 🔥  Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,黑白名单,限速,限流量,限连接数,跨平台,KCP支持,认证API。](https://github.com/snail007/goproxy)
