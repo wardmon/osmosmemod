@@ -1,3 +1,4 @@
+- [【工具自荐】iCraft Editor : 绘制3D系统架构图的工具 · Issue #5414 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5414)
 - [seaweedfs/seaweedfs: SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.](https://github.com/seaweedfs/seaweedfs)
 - [Garage - An open-source distributed object storage service](https://garagehq.deuxfleurs.fr/)
 - [【文章自荐】纯 Web 视频剪辑 · Issue #5438 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5438)
