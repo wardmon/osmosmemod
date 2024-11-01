@@ -1,3 +1,4 @@
+- [爱享写作 — 想享AI,能说会画](https://want-ai.top/writer)
 - [【工具自荐】爱享写作-日常电脑可用的免费万字长文写作软件，支持中英文 · Issue #5411 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5411)
 - [【工具自荐】bookmarks-artist浏览器插件，一款简洁，高颜值的浏览器书签查看工具 · Issue #5444 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5444)
 - [【工具推荐】 一个能快速生成和在线管理vscode代码片段的工具。 · Issue #5435 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5435)
