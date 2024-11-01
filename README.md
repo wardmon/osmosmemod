@@ -1,3 +1,4 @@
+- [【工具自荐】bookmarks-artist浏览器插件，一款简洁，高颜值的浏览器书签查看工具 · Issue #5444 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5444)
 - [【工具推荐】 一个能快速生成和在线管理vscode代码片段的工具。 · Issue #5435 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5435)
 - [【开源自荐】基于 Cloudflare 的免费网页归档和分享工具 · Issue #5423 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5423)
 - [【工具自荐】iCraft Editor : 绘制3D系统架构图的工具 · Issue #5414 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5414)
