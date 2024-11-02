@@ -1,3 +1,4 @@
+- [Kubernetes Scenarios for CKAD | Killercoda](https://killercoda.com/amitk)
 - [Kubernetes | Killercoda](https://killercoda.com/clarusway)
 - [CKA Scenarios | Killercoda](https://killercoda.com/allen1987)
 - [Cloud Native | Killercoda](https://killercoda.com/spcloud/course/kubernetes)
