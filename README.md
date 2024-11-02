@@ -1,3 +1,4 @@
+- [kelseyhightower/kubernetes-the-hard-way: Bootstrap Kubernetes the hard way. No scripts.](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 - [iam-veeramalla/Docker-Zero-to-Hero: Repo to learn Docker with examples. Contributions are most welcome.](https://github.com/iam-veeramalla/Docker-Zero-to-Hero)
 - [Kubernetes | Killercoda](https://killercoda.com/deepak9976)
 - [11111111111MunGell/awesome-for-beginners: A list of awesome beginners-friendly projects.](https://github.com/MunGell/awesome-for-beginners)
