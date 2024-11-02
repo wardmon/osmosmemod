@@ -1,3 +1,4 @@
+- [Curl the Kubernetes API | Chad M. Crowell | Killercoda](https://killercoda.com/ir4engineer/scenario/tcpdumpnc)
 - [Network Admin Tools](https://www.netadmintools.com/)
 - [Curl the Kubernetes API | Chad M. Crowell | Killercoda](https://killercoda.com/deepak9976/scenario/kubernetes)
 - [xiaopeng163/learn-k8s-from-scratch](https://github.com/xiaopeng163/learn-k8s-from-scratch)
