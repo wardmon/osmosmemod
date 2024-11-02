@@ -1,3 +1,4 @@
+- [chadmcrowell/acing-the-cka-exam: resources from the book Acing the Certified Kubernetes Administrator Exam](https://github.com/chadmcrowell/acing-the-cka-exam)
 - [DevOpsDays Austin](https://github.com/devopsdays-austin)
 - [konstructio/kubefirst: The Kubefirst Open Source Platform](https://github.com/konstructio/kubefirst)
 - [chadmcrowell - Repositories](https://github.com/chadmcrowell?tab=repositories)
