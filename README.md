@@ -1,3 +1,4 @@
+- [chadmcrowell/k8s-from-scratch](https://github.com/chadmcrowell/k8s-from-scratch)
 - [KubeSkills community](https://community.kubeskills.com/home)
 - [chadmcrowell/gitops-template: a template of gitops infrastucture for consumption by kubefirst users](https://github.com/chadmcrowell/gitops-template)
 - [Acing the Certified Kubernetes Administrator Exam](https://www.manning.com/books/acing-the-certified-kubernetes-administrator-exam?utm_source=acingthecka&utm_medium=affiliate&utm_campaign=book_crowell_acing_6_8_22&a_aid=acingthecka&a_bid=5502c16b)
