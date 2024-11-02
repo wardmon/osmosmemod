@@ -1,3 +1,4 @@
+- [arush-sal/cka-practice-environment: A sample lab test environment to help in preparation of CKA certification.](https://github.com/arush-sal/cka-practice-environment)
 - [1111111111111111Pierian-Data/Complete-Python-3-Bootcamp: Course Files for Complete Python 3 Bootcamp Course on Udemy](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp)
 - [diegopacheco/devops-playground: devops-playground: Pocs and fun with automation and cloud.](https://github.com/diegopacheco/devops-playground)
 - [David-VTUK/CKA-StudyGuide: Study guide for the CKA exam](https://github.com/David-VTUK/CKA-StudyGuide)
