@@ -1,3 +1,4 @@
+- [chadmcrowell/CKA-Exercises: Practice for the Certified Kubernetes Administrator (CKA) Exam](https://github.com/chadmcrowell/CKA-Exercises)
 - [Kubernetes | Killercoda](https://killercoda.com/chadmcrowell)
 - [jtleek/datasharing: The Leek group guide to data sharing](https://github.com/jtleek/datasharing)
 - [lizrice/adventofcode: Can't throw them away!](https://github.com/lizrice/adventofcode)
