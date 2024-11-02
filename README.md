@@ -1,3 +1,4 @@
+- [Practical DevOps Learning | Killercoda](https://killercoda.com/techiescamp-playground)
 - [Kubernetes Scenarios for CKAD | Killercoda](https://killercoda.com/amitk)
 - [Kubernetes | Killercoda](https://killercoda.com/clarusway)
 - [CKA Scenarios | Killercoda](https://killercoda.com/allen1987)
