@@ -1,3 +1,4 @@
+- [codefresh-contrib/gitops-certification-examples: GitOps Certification Level 1 examples](https://github.com/codefresh-contrib/gitops-certification-examples)
 - [11111111cse-labs/kubernetes-in-codespaces: Kubernetes development cluster in GitHub Codespaces](https://github.com/cse-labs/kubernetes-in-codespaces)
 - [cse-labs/kubernetes-in-codespaces: Kubernetes development cluster in GitHub Codespaces](https://github.com/cse-labs/kubernetes-in-codespaces)
 - [vdespa/automation-with-postman-course](https://github.com/vdespa/automation-with-postman-course)
