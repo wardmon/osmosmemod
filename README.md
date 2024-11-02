@@ -1,3 +1,4 @@
+- [moabukar/CKS-Exercises-Certified-Kubernetes-Security-Specialist: A set of curated exercises to help you prepare for the CKS exam](https://github.com/moabukar/CKS-Exercises-Certified-Kubernetes-Security-Specialist)
 - [codefresh-contrib/gitops-certification-examples: GitOps Certification Level 1 examples](https://github.com/codefresh-contrib/gitops-certification-examples)
 - [11111111cse-labs/kubernetes-in-codespaces: Kubernetes development cluster in GitHub Codespaces](https://github.com/cse-labs/kubernetes-in-codespaces)
 - [cse-labs/kubernetes-in-codespaces: Kubernetes development cluster in GitHub Codespaces](https://github.com/cse-labs/kubernetes-in-codespaces)
