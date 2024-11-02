@@ -1,3 +1,4 @@
+- [David-VTUK/CKA-StudyGuide: Study guide for the CKA exam](https://github.com/David-VTUK/CKA-StudyGuide)
 - [111111111111111bregman-arie/devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions](https://github.com/bregman-arie/devops-exercises)
 - [moabukar/CKS-Exercises-Certified-Kubernetes-Security-Specialist: A set of curated exercises to help you prepare for the CKS exam](https://github.com/moabukar/CKS-Exercises-Certified-Kubernetes-Security-Specialist)
 - [codefresh-contrib/gitops-certification-examples: GitOps Certification Level 1 examples](https://github.com/codefresh-contrib/gitops-certification-examples)
