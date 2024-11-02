@@ -1,3 +1,4 @@
+- [canthefason/go-watcher: Watch your .Go files and restart your processes without any configuration hassle](https://github.com/canthefason/go-watcher)
 - [mhausenblas/rbac.dev: A collection of good practices and tools for Kubernetes RBAC](https://github.com/mhausenblas/rbac.dev)
 - [lizrice/katacoda-scenarios: Katacoda Scenarios](https://github.com/lizrice/katacoda-scenarios)
 - [testdrivenio/fake-token-api](https://github.com/testdrivenio/fake-token-api)
