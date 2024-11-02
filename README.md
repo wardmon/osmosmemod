@@ -1,3 +1,4 @@
+- [lizrice/dockerregistry: Gets some Docker registry data and has a look at the layers](https://github.com/lizrice/dockerregistry)
 - [canthefason/go-watcher: Watch your .Go files and restart your processes without any configuration hassle](https://github.com/canthefason/go-watcher)
 - [mhausenblas/rbac.dev: A collection of good practices and tools for Kubernetes RBAC](https://github.com/mhausenblas/rbac.dev)
 - [lizrice/katacoda-scenarios: Katacoda Scenarios](https://github.com/lizrice/katacoda-scenarios)
