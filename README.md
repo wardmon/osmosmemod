@@ -1,3 +1,4 @@
+- [chadmcrowell/c9-python-getting-started: Sample code for Channel 9 Python for Beginners course](https://github.com/chadmcrowell/c9-python-getting-started)
 - [grafpoo/MigratingToK8s: Living Project repo](https://github.com/grafpoo/MigratingToK8s)
 - [kubeskills/cheat-sheet: cheat sheet for interacting with Kubernetes clusters (kubeadm included)](https://github.com/kubeskills/cheat-sheet)
 - [kubeskills/k8s-practice: 12 week routine of practice and implementation detail](https://github.com/kubeskills/k8s-practice)
