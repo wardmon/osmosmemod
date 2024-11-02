@@ -1,3 +1,4 @@
+- [chadmcrowell/devops-project-samples: Sample applications for Azure DevOps Project](https://github.com/chadmcrowell/devops-project-samples)
 - [GoogleCloudPlatform/microservices-demo: Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.](https://github.com/GoogleCloudPlatform/microservices-demo)
 - [linuxacademy repositories](https://github.com/orgs/linuxacademy/repositories)
 - [chadmcrowell/c9-python-getting-started: Sample code for Channel 9 Python for Beginners course](https://github.com/chadmcrowell/c9-python-getting-started)
