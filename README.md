@@ -1,3 +1,4 @@
+- [scripts-for-labs/Bash at master · chadmcrowell/scripts-for-labs](https://github.com/chadmcrowell/scripts-for-labs/tree/master/Bash)
 - [chadmcrowell/practice-k8s](https://github.com/chadmcrowell/practice-k8s)
 - [Learn Kubernetes from Scratch](https://learn-k8s-from-scratch.readthedocs.io/en/latest/index.html)
 - [chadmcrowell/scenarios-kubernetes](https://github.com/chadmcrowell/scenarios-kubernetes)
