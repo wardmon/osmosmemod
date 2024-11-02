@@ -1,3 +1,4 @@
+- [kubeskills/cheat-sheet: cheat sheet for interacting with Kubernetes clusters (kubeadm included)](https://github.com/kubeskills/cheat-sheet)
 - [kubeskills/k8s-practice: 12 week routine of practice and implementation detail](https://github.com/kubeskills/k8s-practice)
 - [kubeskills/cka-course: CKA Book Course](https://github.com/kubeskills/cka-course)
 - [scripts-for-labs/Bash at master · chadmcrowell/scripts-for-labs](https://github.com/chadmcrowell/scripts-for-labs/tree/master/Bash)
