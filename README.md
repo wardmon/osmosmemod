@@ -1,3 +1,4 @@
+- [lizrice/katacoda-scenarios: Katacoda Scenarios](https://github.com/lizrice/katacoda-scenarios)
 - [testdrivenio/fake-token-api](https://github.com/testdrivenio/fake-token-api)
 - [arush-sal/cka-practice-environment: A sample lab test environment to help in preparation of CKA certification.](https://github.com/arush-sal/cka-practice-environment)
 - [1111111111111111Pierian-Data/Complete-Python-3-Bootcamp: Course Files for Complete Python 3 Bootcamp Course on Udemy](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp)
