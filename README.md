@@ -1,3 +1,4 @@
+- [cse-labs/kubernetes-in-codespaces: Kubernetes development cluster in GitHub Codespaces](https://github.com/cse-labs/kubernetes-in-codespaces)
 - [vdespa/automation-with-postman-course](https://github.com/vdespa/automation-with-postman-course)
 - [kelseyhightower/kubernetes-the-hard-way: Bootstrap Kubernetes the hard way. No scripts.](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 - [iam-veeramalla/Docker-Zero-to-Hero: Repo to learn Docker with examples. Contributions are most welcome.](https://github.com/iam-veeramalla/Docker-Zero-to-Hero)
