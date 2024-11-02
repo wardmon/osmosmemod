@@ -1,3 +1,4 @@
+- [xiaopeng163/learn-k8s-from-scratch](https://github.com/xiaopeng163/learn-k8s-from-scratch)
 - [getify/You-Dont-Know-JS: A book series on JavaScript. @YDKJS on twitter.](https://github.com/getify/You-Dont-Know-JS)
 - [luksa/kubernetes-in-action: Code from the Kubernetes in Action book](https://github.com/luksa/kubernetes-in-action)
 - [chadmcrowell/devops-project-samples: Sample applications for Azure DevOps Project](https://github.com/chadmcrowell/devops-project-samples)
