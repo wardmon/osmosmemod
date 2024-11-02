@@ -1,3 +1,4 @@
+- [chadmcrowell/practice-k8s](https://github.com/chadmcrowell/practice-k8s)
 - [Learn Kubernetes from Scratch](https://learn-k8s-from-scratch.readthedocs.io/en/latest/index.html)
 - [chadmcrowell/scenarios-kubernetes](https://github.com/chadmcrowell/scenarios-kubernetes)
 - [chadmcrowell/k8s-from-scratch](https://github.com/chadmcrowell/k8s-from-scratch)
