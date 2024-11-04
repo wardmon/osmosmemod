@@ -1,3 +1,4 @@
+- [HuXn-WebDev/MySQL-Complete-Course: MySQL Complete Course ( source code )](https://github.com/HuXn-WebDev/MySQL-Complete-Course)
 - [PacktPublishing/The-Complete-MySQL-Developer-Course: Code repository for The Complete MySQL Developer Course, Published by Packt](https://github.com/PacktPublishing/The-Complete-MySQL-Developer-Course)
 - [cubxxw/awesome-cs-course: 📚awesome: Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C++、mysql、mongodb、golang、blockchain、markdown](https://github.com/cubxxw/awesome-cs-course)
 - [awesome-cs-course/mysql/markdown/10.md at master · cubxxw/awesome-cs-course](https://github.com/cubxxw/awesome-cs-course/blob/master/mysql/markdown/10.md)
