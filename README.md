@@ -1,3 +1,4 @@
+- [awesome-cs-course/mysql/markdown/10.md at master · cubxxw/awesome-cs-course](https://github.com/cubxxw/awesome-cs-course/blob/master/mysql/markdown/10.md)
 - [carlba/mysql-tutorial: https://www.udemy.com/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert](https://github.com/carlba/mysql-tutorial)
 - [SteveSayantan/MySQL-Bootcamp](https://github.com/SteveSayantan/MySQL-Bootcamp)
 - [caveofprogramming/mysql-course: SQL for MySQL from Beginner to Advanced Course](https://github.com/caveofprogramming/mysql-course)
