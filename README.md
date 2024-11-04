@@ -1,3 +1,4 @@
+- [HariSekhon/SQL-scripts: 100+ SQL Scripts - PostgreSQL, MySQL, Oracle, Google BigQuery, MariaDB, AWS Athena. DBA, Analytics, DevOps, performance engineering. Google BigQuery ML machine learning classification.](https://github.com/HariSekhon/SQL-scripts)
 - [slowtech/dba-toolkit: Some useful tools personally written for MySQL Daily Administration](https://github.com/slowtech/dba-toolkit)
 - [abidmunirmalik/mysql-dba-course](https://github.com/abidmunirmalik/mysql-dba-course)
 - [MarkLeith/dbahelper: A collection of scripts to help MySQL DBAs](https://github.com/MarkLeith/dbahelper)
