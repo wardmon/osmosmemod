@@ -1,3 +1,4 @@
+- [zhangdejian/MySQL_Refinement_Resource: MySQL的精进学习资源大全（每天不定时更新）](https://github.com/zhangdejian/MySQL_Refinement_Resource)
 - [CSCI 3410 - Database Systems](https://spots.augusta.edu/caubert/db/ln/CSCI_3410_lecture_notes.html)
 - [CSCI 3410 - Database Systems Lecture Notes](https://spots.augusta.edu/caubert/db/ln/)
 - [XD-DENG/SQL-exercise: Practice with "Real" SQL Problems](https://github.com/XD-DENG/SQL-exercise)
