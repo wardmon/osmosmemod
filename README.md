@@ -1,3 +1,4 @@
+- [ccquach/mysql-bootcamp: Code accompanying the Udemy course, The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert by Colt Steele & Ian Schoonover](https://github.com/ccquach/mysql-bootcamp)
 - [Jeanhwea/mysql-crash-course: 🔎 MySQL必知必会读书笔记](https://github.com/Jeanhwea/mysql-crash-course)
 - [mattfinner/DBA_MySQL: MySQL DBA Scripts](https://github.com/mattfinner/DBA_MySQL)
 - [1newstar/DBA_Mysql: MySQL技术汇总，包含其他技术](https://github.com/1newstar/DBA_Mysql)
