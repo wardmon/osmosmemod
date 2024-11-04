@@ -1,3 +1,4 @@
+- [cubxxw/awesome-cs-course: 📚awesome: Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C++、mysql、mongodb、golang、blockchain、markdown](https://github.com/cubxxw/awesome-cs-course)
 - [awesome-cs-course/mysql/markdown/10.md at master · cubxxw/awesome-cs-course](https://github.com/cubxxw/awesome-cs-course/blob/master/mysql/markdown/10.md)
 - [carlba/mysql-tutorial: https://www.udemy.com/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert](https://github.com/carlba/mysql-tutorial)
 - [SteveSayantan/MySQL-Bootcamp](https://github.com/SteveSayantan/MySQL-Bootcamp)
