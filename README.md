@@ -1,3 +1,4 @@
+- [CSCI 3410 - Database Systems Lecture Notes](https://spots.augusta.edu/caubert/db/ln/)
 - [XD-DENG/SQL-exercise: Practice with "Real" SQL Problems](https://github.com/XD-DENG/SQL-exercise)
 - [Minikube | Saiyam Pathak | Killercoda](https://killercoda.com/saiyampathak/scenario/nix)
 - [devopscube - Repositories](https://github.com/devopscube?tab=repositories)
