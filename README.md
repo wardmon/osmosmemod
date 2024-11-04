@@ -1,3 +1,4 @@
+- [carlba/mysql-tutorial: https://www.udemy.com/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert](https://github.com/carlba/mysql-tutorial)
 - [SteveSayantan/MySQL-Bootcamp](https://github.com/SteveSayantan/MySQL-Bootcamp)
 - [caveofprogramming/mysql-course: SQL for MySQL from Beginner to Advanced Course](https://github.com/caveofprogramming/mysql-course)
 - [ccquach/mysql-bootcamp: Code accompanying the Udemy course, The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert by Colt Steele & Ian Schoonover](https://github.com/ccquach/mysql-bootcamp)
