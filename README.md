@@ -1,3 +1,4 @@
+- [Jeanhwea/mysql-crash-course: 🔎 MySQL必知必会读书笔记](https://github.com/Jeanhwea/mysql-crash-course)
 - [mattfinner/DBA_MySQL: MySQL DBA Scripts](https://github.com/mattfinner/DBA_MySQL)
 - [1newstar/DBA_Mysql: MySQL技术汇总，包含其他技术](https://github.com/1newstar/DBA_Mysql)
 - [HariSekhon/SQL-scripts: 100+ SQL Scripts - PostgreSQL, MySQL, Oracle, Google BigQuery, MariaDB, AWS Athena. DBA, Analytics, DevOps, performance engineering. Google BigQuery ML machine learning classification.](https://github.com/HariSekhon/SQL-scripts)
