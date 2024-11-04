@@ -1,3 +1,4 @@
+- [MySQL-Notes/MySQL.ipynb at main · thevkrant/MySQL-Notes](https://github.com/thevkrant/MySQL-Notes/blob/main/MySQL.ipynb?short_path=27e44a7)
 - [100-Days-of-SQL-Beginner-to-Advance/Log/days/day53 at master · Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day53)
 - [jccccccc16/mysql-advance-shang-gui-gu: 尚硅谷的mysql基础+mysql高级的教程和笔记，用于日常的知识的查找](https://github.com/jccccccc16/mysql-advance-shang-gui-gu)
 - [BoobooWei/booboo_mysql_advance: MySQL 高级教程](https://github.com/BoobooWei/booboo_mysql_advance)
