@@ -1,3 +1,4 @@
+- [abidmunirmalik/mysql-dba-course](https://github.com/abidmunirmalik/mysql-dba-course)
 - [MarkLeith/dbahelper: A collection of scripts to help MySQL DBAs](https://github.com/MarkLeith/dbahelper)
 - [dbatools/mysqlTools at master · xiepaup/dbatools](https://github.com/xiepaup/dbatools/tree/master/mysqlTools)
 - [zhishutech/mysqldba: MySQL DBA用得到的东西](https://github.com/zhishutech/mysqldba)
