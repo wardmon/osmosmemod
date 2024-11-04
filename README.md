@@ -1,3 +1,4 @@
+- [yanghaiji/Advanced-books: Java 核心技术,并发设计模式，数据结构与算法，SpringBoot ,OAuth2.0源码分析，Mysql进阶篇,Git 高级操作，Netty 教程，Redis设计与实战,Flink入门教程，Kafka入门与架构分析,Linux入门与Shell编程,DDD架构设计，ETL Keetle，ElasticSearch 希望更多的小伙伴一起加入共同维护，持续更新中！](https://github.com/yanghaiji/Advanced-books)
 - [Advanced-books/note/mysql/README.md at master · yanghaiji/Advanced-books](https://github.com/yanghaiji/Advanced-books/blob/master/note/mysql/README.md)
 - [HuXn-WebDev/MySQL-Complete-Course: MySQL Complete Course ( source code )](https://github.com/HuXn-WebDev/MySQL-Complete-Course)
 - [PacktPublishing/The-Complete-MySQL-Developer-Course: Code repository for The Complete MySQL Developer Course, Published by Packt](https://github.com/PacktPublishing/The-Complete-MySQL-Developer-Course)
