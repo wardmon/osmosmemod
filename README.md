@@ -1,3 +1,4 @@
+- [slowtech/dba-toolkit: Some useful tools personally written for MySQL Daily Administration](https://github.com/slowtech/dba-toolkit)
 - [abidmunirmalik/mysql-dba-course](https://github.com/abidmunirmalik/mysql-dba-course)
 - [MarkLeith/dbahelper: A collection of scripts to help MySQL DBAs](https://github.com/MarkLeith/dbahelper)
 - [dbatools/mysqlTools at master · xiepaup/dbatools](https://github.com/xiepaup/dbatools/tree/master/mysqlTools)
