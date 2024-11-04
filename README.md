@@ -1,3 +1,4 @@
+- [MarkLeith/dbahelper: A collection of scripts to help MySQL DBAs](https://github.com/MarkLeith/dbahelper)
 - [dbatools/mysqlTools at master · xiepaup/dbatools](https://github.com/xiepaup/dbatools/tree/master/mysqlTools)
 - [zhishutech/mysqldba: MySQL DBA用得到的东西](https://github.com/zhishutech/mysqldba)
 - [DogerRain/awesome-programming-resources: 收集优秀的编程资源（Java为主），涵盖：Java面试、求职、电子书籍、计算机网络、操作系统、前端、 Redis、Mysql、Nginx、ZK、MQ、机器学习、NPL、架构、算法](https://github.com/DogerRain/awesome-programming-resources)
