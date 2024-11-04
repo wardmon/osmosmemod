@@ -1,3 +1,4 @@
+- [dbatools/mysqlTools at master · xiepaup/dbatools](https://github.com/xiepaup/dbatools/tree/master/mysqlTools)
 - [zhishutech/mysqldba: MySQL DBA用得到的东西](https://github.com/zhishutech/mysqldba)
 - [DogerRain/awesome-programming-resources: 收集优秀的编程资源（Java为主），涵盖：Java面试、求职、电子书籍、计算机网络、操作系统、前端、 Redis、Mysql、Nginx、ZK、MQ、机器学习、NPL、架构、算法](https://github.com/DogerRain/awesome-programming-resources)
 - [zhangdejian/MySQL_Refinement_Resource: MySQL的精进学习资源大全（每天不定时更新）](https://github.com/zhangdejian/MySQL_Refinement_Resource)
