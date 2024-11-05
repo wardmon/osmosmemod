@@ -1,3 +1,4 @@
+- [ir4 engineer | Killercoda](https://killercoda.com/ir4engineer/course/workInProgress/Powershell_dotnet)
 - [ir4 engineer | Killercoda](https://killercoda.com/ir4engineer/course/workInProgress)
 - [Sampler Database Tutorial | Stellarise | Killercoda](https://killercoda.com/stellarise/scenario/sampler-database)
 - [DBA_Mysql/Tec2/01.md at master · 1newstar/DBA_Mysql](https://github.com/1newstar/DBA_Mysql/blob/master/Tec2/01.md)
