@@ -1,3 +1,4 @@
+- [LocalStack & Terraform | Aruiseco | Killercoda Aruiseco | Killercoda](https://killercoda.com/aruiseco/scenario/localstack-x-terraform)
 - [Marcelo Guazzardo | Killercoda](https://killercoda.com/tercermundo/scenario/dvwa)
 - [Localstack Tutorial | executable tutorial | Killercoda executable tutorial | Killercoda](https://killercoda.com/joslindk-jkuo/scenario/Localstack)
 - [Setting Up and Using Firecracker | D9e30528 | Killercoda Killercoda Interactive Environments](https://killercoda.com/d9e30528-10a1-4ad6-b5fa-2aa66f099731/scenario/firecracker)
