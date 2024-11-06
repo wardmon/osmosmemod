@@ -1,3 +1,4 @@
+- [Run Tinyllama model using OllamaLinux Admin Adventures | Killercoda](https://killercoda.com/fishermanguybro/scenario/local-llm)
 - [The KIT Data Manager Repository Platform Documentation — Read the Docs Template 1.0 documentation](https://kit-dm-documentation.readthedocs.io/en/latest/index.html)
 - [This is a simple tutorial to get you started with scrapy.Pandian Muninathan | Killercoda](https://killercoda.com/pandianmn/course/scrapy)
 - [Online Marathon | Killercoda](https://killercoda.com/online-marathon/course/DevOps_dev/Setup_LAMP)
