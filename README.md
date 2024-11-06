@@ -1,3 +1,4 @@
+- [Learn to manage dependencies with devbox | Arejula27 | KillercodaArejula27 | Killercoda](https://killercoda.com/arejula27/scenario/devbox-tutorial)
 - [Run Tinyllama model using OllamaLinux Admin Adventures | Killercoda](https://killercoda.com/fishermanguybro/scenario/local-llm)
 - [The KIT Data Manager Repository Platform Documentation — Read the Docs Template 1.0 documentation](https://kit-dm-documentation.readthedocs.io/en/latest/index.html)
 - [This is a simple tutorial to get you started with scrapy.Pandian Muninathan | Killercoda](https://killercoda.com/pandianmn/course/scrapy)
