@@ -1,3 +1,4 @@
+- [ssc-public/Web-Workshop: Angular, Ansible, CI/CD, Flutter, ElasticSearch, Redis, NSQ, RabbitMQ,  Jenkins, Jest, React, Redux, TypeScript, Django, GraphQL, Rest Framework, Docker and Kubernetes Tutorial](https://github.com/ssc-public/Web-Workshop)
 - [remy/jsconsole: Web based console - for presentations and workshops](https://github.com/remy/jsconsole)
 - [Kubernetes In Action Jumpbox Academy | Killercoda](https://killercoda.com/jumpbox/course/kubernetes-in-action)
 - [dhruvvyas90/qemu-rpi-kernel: Qemu kernel for emulating Rpi on QEMU](https://github.com/dhruvvyas90/qemu-rpi-kernel)
