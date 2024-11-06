@@ -1,3 +1,4 @@
+- [mendableai/firecrawl: 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.](https://github.com/mendableai/firecrawl)
 - [schemacrawler/SchemaCrawler-Tutorials: Live online tutorials for SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler-Tutorials)
 - [nektos/act: Run your GitHub Actions locally 🚀](https://github.com/nektos/act)
 - [Learn to manage dependencies with devbox | Arejula27 | KillercodaArejula27 | Killercoda](https://killercoda.com/arejula27/scenario/devbox-tutorial)
