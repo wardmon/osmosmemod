@@ -1,3 +1,4 @@
+- [Kubernetes In Action Jumpbox Academy | Killercoda](https://killercoda.com/jumpbox/course/kubernetes-in-action)
 - [dhruvvyas90/qemu-rpi-kernel: Qemu kernel for emulating Rpi on QEMU](https://github.com/dhruvvyas90/qemu-rpi-kernel)
 - [mediabots/Linux-to-Windows-with-QEMU: One Script for Auto installation of Windows Server into a Linux Server.  Script would install Windows Server 2012 R2 evaluation copy (180 days free trial).  A power shell script to enable Remote Desktop + Firefox installer attached into the CD-ROM.](https://github.com/mediabots/Linux-to-Windows-with-QEMU)
 - [mendableai/firecrawl: 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.](https://github.com/mendableai/firecrawl)
