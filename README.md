@@ -1,3 +1,4 @@
+- [deepak-9976 - Repositories](https://github.com/deepak-9976?tab=repositories)
 - [skopeo/docs/skopeo-copy.1.md at main · containers/skopeo](https://github.com/containers/skopeo/blob/main/docs/skopeo-copy.1.md)
 - [containers/skopeo: Work with remote images registries - retrieving information, images, signing content](https://github.com/containers/skopeo)
 - [将 Docker 镜像编译成独立可移植二进制文件-腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/2416701)
