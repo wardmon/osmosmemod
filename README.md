@@ -1,3 +1,4 @@
+- [Fake Data Generator](https://sqlable.com/generator/)
 - [labring-actions/devbox-runtime](https://github.com/labring-actions/devbox-runtime)
 - [Tutorial | Jetify Devspace](https://auth.jetify.com/devspace/templates/tutorial)
 - [apkcombo repositories](https://github.com/orgs/apkcombo/repositories)
