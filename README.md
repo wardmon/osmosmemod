@@ -1,3 +1,4 @@
+- [containers/skopeo: Work with remote images registries - retrieving information, images, signing content](https://github.com/containers/skopeo)
 - [将 Docker 镜像编译成独立可移植二进制文件-腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/2416701)
 - [NilsIrl/dockerc: container image to single executable compiler](https://github.com/NilsIrl/dockerc)
 - [timoxley/functional-javascript-workshop: A functional javascript workshop. No libraries required (i.e. no underscore), just ES5.](https://github.com/timoxley/functional-javascript-workshop)
