@@ -1,3 +1,4 @@
+- [【开源书籍自荐】《系统设计面试：内幕指南》中文翻译  · Issue #5448 · ruanyf/weekly](https://kkgithub.com/ruanyf/weekly/issues/5448)
 - [Jina Reader](https://tools.simonwillison.net/jina-reader)
 - [Everything I built with Claude Artifacts this week](https://simonwillison.net/2024/Oct/21/claude-artifacts/)
 - [srcbookdev/srcbook: TypeScript-centric app development platform](https://github.com/srcbookdev/srcbook)
