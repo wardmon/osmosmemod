@@ -1,3 +1,4 @@
+- [Maximillian Arruda | Killercoda](https://killercoda.com/maxdearruda)
 - [Online Marathon | Killercoda](https://killercoda.com/online-marathon/course/Golang_fundamentals)
 - [mr. I/O | Killercoda](https://killercoda.com/kodxxl)
 - [Fake Data Generator](https://sqlable.com/generator/)
