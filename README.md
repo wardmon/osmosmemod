@@ -1,3 +1,4 @@
+- [1111111111 Chat Blackbox: AI Code Generation, Code Chat, Code Search](https://www.blackbox.ai/)
 - [1111111111Chat Blackbox: AI Code Generation, Code Chat, Code Search](https://www.blackbox.ai/)
 - [Chat Blackbox: AI Code Generation, Code Chat, Code Search](https://www.blackbox.ai/)
 - [TheR1D/shell_gpt: A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.](https://github.com/TheR1D/shell_gpt)
