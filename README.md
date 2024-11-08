@@ -1,3 +1,4 @@
+- [【开源自荐】5ire, 一款开源大模型桌面客户端， 跨平台，支持本地向量知识库 · Issue #5461 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5461)
 - [【工具自荐】AI Hear 一款完全本地离线运行的实时语音转文字，实时翻译，字幕导出的工具软件。 · Issue #5458 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5458)
 - [【开源自荐】自动化巡检系统 · Issue #5486 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5486)
 - [工具分享：纯前端实现的在线加解密工具，可以断网使用 · Issue #5460 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5460)
