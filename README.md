@@ -1,3 +1,4 @@
+- [【开源自荐】自动化巡检系统 · Issue #5486 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5486)
 - [工具分享：纯前端实现的在线加解密工具，可以断网使用 · Issue #5460 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5460)
 - [【开源自荐】云搭，一款功能强大，支持多端渲染的低代码平台，可以搭建小程序、H5、问卷、图文文章等多种应用 · Issue #5473 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5473)
 - [Flyscrape Proxy](https://app.flyscrape.com/dashboard)
