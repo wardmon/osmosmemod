@@ -1,3 +1,4 @@
+- [Jina Reader](https://tools.simonwillison.net/jina-reader)
 - [Everything I built with Claude Artifacts this week](https://simonwillison.net/2024/Oct/21/claude-artifacts/)
 - [srcbookdev/srcbook: TypeScript-centric app development platform](https://github.com/srcbookdev/srcbook)
 - [【开源自荐】5ire, 一款开源大模型桌面客户端， 跨平台，支持本地向量知识库 · Issue #5461 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5461)
