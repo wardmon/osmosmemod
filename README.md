@@ -1,3 +1,4 @@
+- [Unfaked - AI-Generated Images That Look Almost Real](https://www.gounfaked.com/)
 - [https://google.github.io/magika/](https://google.github.io/magika/)
 - [【开源书籍自荐】《系统设计面试：内幕指南》中文翻译  · Issue #5448 · ruanyf/weekly](https://kkgithub.com/ruanyf/weekly/issues/5448)
 - [Jina Reader](https://tools.simonwillison.net/jina-reader)
