@@ -1,3 +1,4 @@
+- [Serverless Functions with Project Fn | OCI Tutorials | Killercoda](https://killercoda.com/oci-tutorials/scenario/introduction-fn)
 - [Pactflow In-Browser Demos | Killercoda](https://killercoda.com/pactflow)
 - [Maximillian Arruda | Killercoda](https://killercoda.com/maxdearruda)
 - [Online Marathon | Killercoda](https://killercoda.com/online-marathon/course/Golang_fundamentals)
