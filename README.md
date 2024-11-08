@@ -1,3 +1,4 @@
+- [philippta/flyscrape: Flyscrape is a command-line web scraping tool designed for those without advanced programming skills.](https://github.com/philippta/flyscrape)
 - [Serverless Functions with Project Fn | OCI Tutorials | Killercoda](https://killercoda.com/oci-tutorials/scenario/introduction-fn)
 - [Serverless Functions with Project Fn | OCI Tutorials | Killercoda](https://killercoda.com/oci-tutorials/scenario/introduction-fn)
 - [Pactflow In-Browser Demos | Killercoda](https://killercoda.com/pactflow)
