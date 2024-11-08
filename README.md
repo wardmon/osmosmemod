@@ -1,3 +1,4 @@
+- [TheR1D/shell_gpt: A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.](https://github.com/TheR1D/shell_gpt)
 - [【开源自推】APIPark 一款开源的 API 开放门户，帮助开发者探索API 商业化 · Issue #5481 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5481)
 - [GitHub - google/magika: Detect file content types with deep learning](https://kkgithub.com/google/magika)
 - [Unfaked - AI-Generated Images That Look Almost Real](https://www.gounfaked.com/)
