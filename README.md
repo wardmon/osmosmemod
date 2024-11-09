@@ -1,3 +1,4 @@
+- [eg/eg/examples/find.md at master · srsudar/eg](https://github.com/srsudar/eg/blob/master/eg/examples/find.md)
 - [1111111111 视频截图 - 一个工具箱 - 好用的在线工具都在这里！](http://www.atoolbox.net/Tool.php?Id=849#google_vignette)
 - [checkly/headless-recorder: Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.](https://github.com/checkly/headless-recorder)
 - [PhotoFlare/photoflare: Quick, simple but powerful Cross Platform image editor.](https://github.com/PhotoFlare/photoflare)
