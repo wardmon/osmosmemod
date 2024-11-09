@@ -1,3 +1,4 @@
+- [drloring/katacoda-scenarios: Katacoda Scenarios](https://github.com/drloring/katacoda-scenarios)
 - [Red Hat Interactive Learning Portal | Red Hat Developer](https://developers.redhat.com/learn)
 - [simonw - Overview](https://github.com/simonw)
 - [simonw/simonwillisonblog: The source code behind my blog](https://github.com/simonw/simonwillisonblog)
