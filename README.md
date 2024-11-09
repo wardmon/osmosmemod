@@ -1,3 +1,4 @@
+- [Fauna | The Distributed Document-Relational Database](https://fauna.com/)
 - [gnebbia/kb: A minimalist command line knowledge base manager](https://github.com/gnebbia/kb)
 - [[网站推荐]一个可以把URL转换成大模型(LLM)兼容输入的网站 · Issue #5441 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5441)
 - [ityouknow/spring-cloud-examples: Spring Cloud 学习案例，服务发现、服务治理、链路追踪、服务监控等](https://github.com/ityouknow/spring-cloud-examples)
