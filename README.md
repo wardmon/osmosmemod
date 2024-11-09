@@ -1,3 +1,4 @@
+- [/uses](https://uses.tech)
 - [wesbos/awesome-uses: A list of /uses pages detailing developer setups, gear, software and configs.](https://github.com/wesbos/awesome-uses)
 - [How I Built a Serverless Recipes App with FaunaDB and Vue.js](https://ttntm.me/blog/serverless-recipes-app-faunadb-vuejs/)
 - [Fauna | The Distributed Document-Relational Database](https://fauna.com/)
