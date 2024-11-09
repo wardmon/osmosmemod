@@ -1,3 +1,4 @@
+- [Python AttributeError: 模块 ‘attr’ 中没有 ‘s’ 属性|极客笔记](https://deepinout.com/python/python-qa/269_python_attributeerror_module_attr_has_no_attribute_s.html)
 - [srsudar/eg: Useful examples at the command line.](https://github.com/srsudar/eg)
 - [GNU grep cheatsheet](https://devhints.io/grep)
 - [eg/eg/examples/find.md at master · srsudar/eg](https://github.com/srsudar/eg/blob/master/eg/examples/find.md)
