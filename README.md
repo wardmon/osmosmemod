@@ -1,3 +1,4 @@
+- [srsudar/eg: Useful examples at the command line.](https://github.com/srsudar/eg)
 - [GNU grep cheatsheet](https://devhints.io/grep)
 - [eg/eg/examples/find.md at master · srsudar/eg](https://github.com/srsudar/eg/blob/master/eg/examples/find.md)
 - [1111111111 视频截图 - 一个工具箱 - 好用的在线工具都在这里！](http://www.atoolbox.net/Tool.php?Id=849#google_vignette)
