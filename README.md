@@ -1,3 +1,4 @@
+- [checkly/headless-recorder: Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.](https://github.com/checkly/headless-recorder)
 - [PhotoFlare/photoflare: Quick, simple but powerful Cross Platform image editor.](https://github.com/PhotoFlare/photoflare)
 - [/uses](https://uses.tech)
 - [/uses](https://uses.tech)
