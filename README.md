@@ -1,3 +1,4 @@
+- [How I Built a Serverless Recipes App with FaunaDB and Vue.js](https://ttntm.me/blog/serverless-recipes-app-faunadb-vuejs/)
 - [Fauna | The Distributed Document-Relational Database](https://fauna.com/)
 - [gnebbia/kb: A minimalist command line knowledge base manager](https://github.com/gnebbia/kb)
 - [[网站推荐]一个可以把URL转换成大模型(LLM)兼容输入的网站 · Issue #5441 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5441)
