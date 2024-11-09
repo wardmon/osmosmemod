@@ -1,3 +1,4 @@
+- [tools.simonwillison.net](https://tools.simonwillison.net/)
 - [gistpreview/gistpreview.github.io: Gist HTML Preview](https://github.com/gistpreview/gistpreview.github.io)
 - [QR Code Decoder](https://tools.simonwillison.net/qr)
 - [cozmo/jsQR: A pure javascript QR code reading library. This library takes in raw images and will locate, extract and parse any QR code found within.](https://github.com/cozmo/jsQR)
