@@ -1,3 +1,4 @@
+- [PhotoFlare/photoflare: Quick, simple but powerful Cross Platform image editor.](https://github.com/PhotoFlare/photoflare)
 - [/uses](https://uses.tech)
 - [/uses](https://uses.tech)
 - [wesbos/awesome-uses: A list of /uses pages detailing developer setups, gear, software and configs.](https://github.com/wesbos/awesome-uses)
