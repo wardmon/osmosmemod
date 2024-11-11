@@ -1,3 +1,4 @@
+- [kentcdodds/bookshelf: Build a ReactJS App workshop](https://github.com/kentcdodds/bookshelf)
 - [一文玩儿转 Rancher Desktop - RancherLabs - 博客园](https://www.cnblogs.com/rancherlabs/p/15988812.html)
 - [OrbStack · Fast, light, simple Docker & Linux](https://orbstack.dev/)
 - [GitHub - 大同搜索](https://datong.info/ui/search.html?search_lang=zh,en&target_lang=zh&q=GitHub&rid=_iD6HN__NvAedKcahf5Nv)
