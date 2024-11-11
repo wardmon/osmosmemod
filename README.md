@@ -1,3 +1,4 @@
+- [腾讯云国际站提供EdgeOne Pages服务，免费部署网站 - 如有乐享](https://51.ruyo.net/18784.html)
 - [🌤️ wttr.in: 极简主义者的终极天气预报工具!](https://www.huluohu.com/posts/1185/)
 - [11111111111 万字浓缩版，Python 潮流周刊第 1 季的 800 个链接！](https://xiaobot.net/post/78c3d645-86fa-4bd8-8eac-46fb192a339e)
 - [Python AttributeError: 模块 ‘attr’ 中没有 ‘s’ 属性|极客笔记](https://deepinout.com/python/python-qa/269_python_attributeerror_module_attr_has_no_attribute_s.html)
