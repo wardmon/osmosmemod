@@ -1,3 +1,4 @@
+- [GitHub - 大同搜索](https://datong.info/ui/search.html?search_lang=zh,en&target_lang=zh&q=GitHub&rid=_iD6HN__NvAedKcahf5Nv)
 - [下一本读什么|书单推荐、书单集合、年度推荐书单、经典书籍、经典句子、摘抄推荐|文学、社科、经管、少儿、科技、艺术、生活、传记](https://xiayibendushenme.com/randombook)
 - [Web缓存网 - 一个免费、快速、可靠的网站静态加速服务](https://www.webcache.cn/)
 - [【最强无套路脚本】你能看见多少我能下载多少&下载公开免费的PPT、PDF、DOC、TXT等文件](https://greasyfork.org/zh-CN/scripts/486211-%E6%9C%80%E5%BC%BA%E6%97%A0%E5%A5%97%E8%B7%AF%E8%84%9A%E6%9C%AC-%E4%BD%A0%E8%83%BD%E7%9C%8B%E8%A7%81%E5%A4%9A%E5%B0%91%E6%88%91%E8%83%BD%E4%B8%8B%E8%BD%BD%E5%A4%9A%E5%B0%91-%E4%B8%8B%E8%BD%BD%E5%85%AC%E5%BC%80%E5%85%8D%E8%B4%B9%E7%9A%84ppt-pdf-doc-txt%E7%AD%89%E6%96%87%E4%BB%B6)
