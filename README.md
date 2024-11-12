@@ -1,3 +1,4 @@
+- [electric-sql/pglite: Lightweight WASM Postgres with real-time, reactive bindings.](https://github.com/electric-sql/pglite)
 - [11111111111 Try markmap](https://markmap.js.org/repl#?d=https%3A%2F%2Fgithub.com%2Fwardmon%2Fosmosmemod%2Fraw%2Frefs%2Fheads%2Fmain%2FREADME.md)
 
 # About
