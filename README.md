@@ -1,3 +1,4 @@
+- [90DaysOfDevOps/2022/zh_cn/Days/day49.md at main · MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps/tree/main/2022/zh_cn)
 - [robinmoisson/staticrypt: Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.](https://github.com/robinmoisson/staticrypt)
 - [electric-sql/pglite: Lightweight WASM Postgres with real-time, reactive bindings.](https://github.com/electric-sql/pglite)
 - [11111111111 Try markmap](https://markmap.js.org/repl#?d=https%3A%2F%2Fgithub.com%2Fwardmon%2Fosmosmemod%2Fraw%2Frefs%2Fheads%2Fmain%2FREADME.md)
