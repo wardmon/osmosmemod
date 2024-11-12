@@ -1,3 +1,4 @@
+- [Replit – Build software faster](https://replit.com/)
 - [【网站自荐】一个远程工作聚合网站，支持国内远程的岗位聚集地 · Issue #5108 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5108)
 - [jstoppa - Repositories](https://github.com/jstoppa?tab=repositories)
 - [Free PostgreSQL Playground](https://pgplayground.com/)
