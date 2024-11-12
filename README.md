@@ -1,3 +1,4 @@
+- [【网站自荐】一个远程工作聚合网站，支持国内远程的岗位聚集地 · Issue #5108 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5108)
 - [jstoppa - Repositories](https://github.com/jstoppa?tab=repositories)
 - [Free PostgreSQL Playground](https://pgplayground.com/)
 - [dyc87112/SpringBoot-Learning: 《Spring Boot基础教程》，2.x版本持续连载中！点击下方链接直达教程目录！](https://github.com/dyc87112/SpringBoot-Learning)
