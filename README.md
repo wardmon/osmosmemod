@@ -1,3 +1,4 @@
+- [flytkgl/PDFQFZ: PDF加盖骑缝章的小工具](https://github.com/flytkgl/PDFQFZ)
 - [90DaysOfDevOps/2022/zh_cn/Days/day49.md at main · MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps/tree/main/2022/zh_cn)
 - [robinmoisson/staticrypt: Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.](https://github.com/robinmoisson/staticrypt)
 - [electric-sql/pglite: Lightweight WASM Postgres with real-time, reactive bindings.](https://github.com/electric-sql/pglite)
