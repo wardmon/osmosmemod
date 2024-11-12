@@ -1,3 +1,4 @@
+- [sissbruecker/linkding: Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.](https://github.com/sissbruecker/linkding)
 - [gitbrent/PptxGenJS: Create PowerPoint presentations with a powerful, concise JavaScript API.](https://github.com/gitbrent/PptxGenJS)
 - [gitbrent/PptxGenJS: Create PowerPoint presentations with a powerful, concise JavaScript API.](https://github.com/gitbrent/PptxGenJS)
 - [flytkgl/PDFQFZ: PDF加盖骑缝章的小工具](https://github.com/flytkgl/PDFQFZ)
