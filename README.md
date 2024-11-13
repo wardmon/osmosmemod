@@ -1,3 +1,4 @@
+- [🎛️ Command Line Options - SeleniumBase Docs](https://seleniumbase.io/help_docs/customizing_test_runs/)
 - [SeleniumBase | Reliable Test Automation](https://seleniumbase.io/help_docs/chinese/)
 - [🤖 GitHub CI - SeleniumBase Docs](https://seleniumbase.io/integrations/github/workflows/ReadMe/)
 - [seleniumbase/SeleniumBase: 📊 Python's all-in-one framework for web crawling, scraping, testing, and reporting. Supports pytest. UC Mode provides stealth. Includes many tools.](https://github.com/seleniumbase/SeleniumBase)
