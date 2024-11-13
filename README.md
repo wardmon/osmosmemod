@@ -1,3 +1,4 @@
+- [loft-sh/devpod: Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.](https://github.com/loft-sh/devpod)
 - [Supporting tools and services](https://devcontainers.github.io/supporting.html)
 - [🎛️ Command Line Options - SeleniumBase Docs](https://seleniumbase.io/help_docs/customizing_test_runs/)
 - [SeleniumBase | Reliable Test Automation](https://seleniumbase.io/help_docs/chinese/)
