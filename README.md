@@ -1,3 +1,4 @@
+- [1111111111 LGUG2Z/komorebi: A tiling window manager for Windows 🍉](https://github.com/LGUG2Z/komorebi)
 - [git-ecosystem/git-credential-manager: Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.](https://github.com/git-ecosystem/git-credential-manager)
 - [Gnucash/gnucash: GnuCash Double-Entry Accounting Program.](https://github.com/Gnucash/gnucash)
 - [Gnucash/gnucash: GnuCash Double-Entry Accounting Program.](https://github.com/Gnucash/gnucash)
