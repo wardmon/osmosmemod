@@ -1,3 +1,4 @@
+- [codingforentrepreneurs/Scrape-Websites-with-Python-FastAPI-Celery-NoSQL: Learn how to scrape websites with Python, Selenium, Requests HTML, Celery, FastAPI, & NoSQL with Cassandra via AstraDB.](https://github.com/codingforentrepreneurs/Scrape-Websites-with-Python-FastAPI-Celery-NoSQL)
 - [min2bro/WebScraping: Web Scraping and Data Analysis with Selenium and Python](https://github.com/min2bro/WebScraping)
 - [Deepnote](https://deepnote.com/workspace/my-workspace-7587-71aa1e6f-72b8-4cdf-91d3-56234b18807f/project/Scrape-Websites-with-Python-FastAPI-Celery-NoSQL-733b024c-2991-4a16-a43a-292077d9d685/notebook/b6240122b17e464eb21d3a5561072cdf)
 - [min2bro/WebScraping: Web Scraping and Data Analysis with Selenium and Python](https://github.com/min2bro/WebScraping)
