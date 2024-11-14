@@ -1,3 +1,4 @@
+- [Selenium with Python — Selenium Python Bindings 2 documentation](https://selenium-python.readthedocs.io/)
 - [Cloud Web Scraper | Scrapy Cloud | Zyte](https://www.zyte.com/scrapy-cloud/)
 - [wd_wd ∙ Zyte](https://app.zyte.com/o/735339)
 - [Harries/springboot-demo: a simple springboot demo with some components for example: redis,solr,rockmq and so on.](https://github.com/Harries/springboot-demo)
