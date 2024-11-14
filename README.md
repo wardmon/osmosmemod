@@ -1,3 +1,4 @@
+- [min2bro/WebScraping: Web Scraping and Data Analysis with Selenium and Python](https://github.com/min2bro/WebScraping)
 - [Zeeshanahmad4/Tweets-Scraper-twitter-Selenium: Recently twitter has stopped giving thier Apis to everyone, So i write simple Python script using selenium to scrap  all the tweets from a user and store into a csv file](https://github.com/Zeeshanahmad4/Tweets-Scraper-twitter-Selenium)
 - [harrywang/scrapy-selenium-demo: a demo of scrapy + selenium](https://github.com/harrywang/scrapy-selenium-demo)
 - [telunyang/python_web_scraping: Web scraping (網路爬蟲)](https://github.com/telunyang/python_web_scraping)
