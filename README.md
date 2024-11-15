@@ -1,3 +1,4 @@
+- [linux-kernel-labs-zh/docs-linux-kernel-labs-zh-cn: Linux 内核实验（Linux kernel labs）中文翻译](https://github.com/linux-kernel-labs-zh/docs-linux-kernel-labs-zh-cn)
 - [sunface/rust-by-practice: Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.](https://github.com/sunface/rust-by-practice)
 - [microg/GmsCore: Free implementation of Play Services](https://github.com/microg/GmsCore)
 - [mainmatter/100-exercises-to-learn-rust: A self-paced course to learn Rust, one exercise at a time.](https://github.com/mainmatter/100-exercises-to-learn-rust)
