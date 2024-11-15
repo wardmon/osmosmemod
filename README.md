@@ -1,3 +1,4 @@
+- [ericchiang/pup: Parsing HTML at the command line](https://github.com/ericchiang/pup)
 - [List of Chromium Command Line Switches «  Peter Beverloo](https://peter.sh/experiments/chromium-command-line-switches/)
 - [【网站自荐】iframe 生成器 - 专业级 iframe 可视化配置工具，让内容嵌入变得简单、安全、专业。通过直观的界面轻松配置 iframe，从响应式布局到企业级安全控制，一站式解决所有嵌入需求。 · Issue #5499 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5499)
 - [【开源自荐】kkTerminal - A terminal for Web SSH connection · Issue #5503 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5503)
