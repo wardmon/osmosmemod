@@ -1,3 +1,4 @@
+- [Hacker News RSS](https://hnrss.github.io/)
 - [【推荐】基于 Pandoc 的在线文档格式转换器 · Issue #1435 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/1435)
 - [ericchiang/pup: Parsing HTML at the command line](https://github.com/ericchiang/pup)
 - [List of Chromium Command Line Switches «  Peter Beverloo](https://peter.sh/experiments/chromium-command-line-switches/)
