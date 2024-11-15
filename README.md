@@ -1,3 +1,4 @@
+- [Introduction · Reverse Engineering](https://0xinfection.github.io/reversing/)
 - [Introducing Edge Scripting: A better way to build and run applications at the edge!](https://bunny.net/blog/introducing-bunny-edge-scripting-a-better-way-to-build-and-deploy-applications-at-the-edge/)
 - [1111111111 LGUG2Z/komorebi: A tiling window manager for Windows 🍉](https://github.com/LGUG2Z/komorebi)
 - [git-ecosystem/git-credential-manager: Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.](https://github.com/git-ecosystem/git-credential-manager)
