@@ -1,3 +1,4 @@
+- [Git Exercises](https://gitexercises.fracz.com/)
 - [actionsflow/actionsflow: The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions](https://github.com/actionsflow/actionsflow)
 - [Hacker News RSS](https://hnrss.github.io/)
 - [【推荐】基于 Pandoc 的在线文档格式转换器 · Issue #1435 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/1435)
