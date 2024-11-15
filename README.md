@@ -1,3 +1,4 @@
+- [Open-source comments](https://lisakov.com/projects/open-source-comments/)
 - [Git Exercises](https://gitexercises.fracz.com/)
 - [actionsflow/actionsflow: The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions](https://github.com/actionsflow/actionsflow)
 - [Hacker News RSS](https://hnrss.github.io/)
