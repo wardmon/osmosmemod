@@ -1,3 +1,4 @@
+- [执行 JS 脚本 - by ifwhale - 动作信息 - Quicker](https://getquicker.net/Sharedaction?code=843e2f82-c26b-4bff-78c5-08db0be35f89)
 - [NumCalc Tutorial](http://numcalc.com/)
 - [buku/bukuserver at master · jarun/buku](https://github.com/jarun/buku/tree/master/bukuserver#readme)
 - [linux-kernel-labs-zh/docs-linux-kernel-labs-zh-cn: Linux 内核实验（Linux kernel labs）中文翻译](https://github.com/linux-kernel-labs-zh/docs-linux-kernel-labs-zh-cn)
