@@ -1,3 +1,4 @@
+- [【开源自荐】kkTerminal - A terminal for Web SSH connection · Issue #5503 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5503)
 - [Introduction · Reverse Engineering](https://0xinfection.github.io/reversing/)
 - [Introducing Edge Scripting: A better way to build and run applications at the edge!](https://bunny.net/blog/introducing-bunny-edge-scripting-a-better-way-to-build-and-deploy-applications-at-the-edge/)
 - [1111111111 LGUG2Z/komorebi: A tiling window manager for Windows 🍉](https://github.com/LGUG2Z/komorebi)
