@@ -1,3 +1,4 @@
+- [opendatalab/MinerU: A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。](https://github.com/opendatalab/MinerU)
 - [Apifox - API接口市场_API接口大全_免费API接口共享平台](https://apifox.com/)
 - [GitHub API Root - GitHub API](/)
 - [python pypiwin32 错误 pywintypes.com_error: (-2147221005, ‘无效的类字符串‘, None, None)_python调用 win32的ensuredispatch报错(-2147221005, '无效的类-CSDN博客](https://blog.csdn.net/awxm5698/article/details/107085941)
