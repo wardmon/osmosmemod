@@ -1,3 +1,4 @@
+- [opendatalab/labelU: Data annotation toolbox supports image, audio and video data.](https://github.com/opendatalab/labelU)
 - [opendatalab/MinerU: A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。](https://github.com/opendatalab/MinerU)
 - [Apifox - API接口市场_API接口大全_免费API接口共享平台](https://apifox.com/)
 - [GitHub API Root - GitHub API](/)
