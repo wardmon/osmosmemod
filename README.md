@@ -1,3 +1,4 @@
+- [godkingjay/selenium-twitter-scraper: This is a Twitter Scraper which uses Selenium for scraping tweets. It is capable of scraping tweets from home, user profile, hashtag, query or search, and advanced searches.](https://github.com/godkingjay/selenium-twitter-scraper)
 - [applewu/selenium-exercises: Examples for Selenium IDE and Webdriver](https://github.com/applewu/selenium-exercises)
 - [opendatalab/labelU: Data annotation toolbox supports image, audio and video data.](https://github.com/opendatalab/labelU)
 - [opendatalab/MinerU: A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。](https://github.com/opendatalab/MinerU)
