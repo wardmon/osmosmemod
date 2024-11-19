@@ -1,3 +1,4 @@
+- [111111111111111ZetCode all tutorials](https://zetcode.com/all/)
 - [janbodnar - Repositories](https://github.com/janbodnar?tab=repositories)
 - [janbodnar/Java-Advanced: Examples for Advanced Java course](https://github.com/janbodnar/Java-Advanced)
 - [ZetCode all tutorials](https://zetcode.com/all/)
