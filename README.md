@@ -1,3 +1,4 @@
+- [advanced-java-tutorials/README.md at master · JJBRT/advanced-java-tutorials](https://github.com/JJBRT/advanced-java-tutorials/blob/master/README.md)
 - [Java-Skolenie/arrays.md at main · janbodnar/Java-Skolenie · GitHub](https://kkgithub.com/janbodnar/Java-Skolenie/blob/main/arrays.md)
 - [GitHub - janbodnar/Spring-Boot-JdbcTemplate: Sources from the ZetCode's Spring Boot JdbcTemplate example](https://kkgithub.com/janbodnar/Spring-Boot-JdbcTemplate)
 - [11111111111janbodnar - Repositories](https://kkgithub.com/janbodnar?page=2&tab=repositories)
