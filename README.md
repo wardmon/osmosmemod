@@ -1,3 +1,4 @@
+- [ZetCode all tutorials](https://zetcode.com/all/)
 - [python-geeks repositories](https://github.com/python-geeks/Automation-scripts)
 - [11111111111 GitHub - snyk-labs/exploit-workshop: A step by step workshop to exploit various vulnerabilities in Node.js and Java applications](https://kkgithub.com/snyk-labs/exploit-workshop)
 - [GitHub - sahilpatel0x01/Onedrive-to-GitHub-photo-uploader: A Python tool that automates downloading photos from OneDrive and uploading them to a GitHub repository. Perfect for exploring cloud-to-cloud transfers and API automation, with GitHub's free 100 MB file limit in mind.](https://kkgithub.com/sahilpatel0x01/Onedrive-to-GitHub-photo-uploader)
