@@ -1,3 +1,4 @@
+- [yanghaiji/Advanced-books: Java 核心技术,并发设计模式，数据结构与算法，SpringBoot ,OAuth2.0源码分析，Mysql进阶篇,Git 高级操作，Netty 教程，Redis设计与实战,Flink入门教程，Kafka入门与架构分析,Linux入门与Shell编程,DDD架构设计，ETL Keetle，ElasticSearch 希望更多的小伙伴一起加入共同维护，持续更新中！](https://github.com/yanghaiji/Advanced-books)
 - [AjayGhimire1998/Java---Basic-to-Advanced---Concept-Coding---Notes: These notes are of important topics discussed by Concept&Coding in his Java: Basic to Advanced Course. These notes are in downloadable pdf format.](https://github.com/AjayGhimire1998/Java---Basic-to-Advanced---Concept-Coding---Notes)
 - [advanced-java-tutorials/README.md at master · JJBRT/advanced-java-tutorials](https://github.com/JJBRT/advanced-java-tutorials/blob/master/README.md)
 - [Java-Skolenie/arrays.md at main · janbodnar/Java-Skolenie · GitHub](https://kkgithub.com/janbodnar/Java-Skolenie/blob/main/arrays.md)
