@@ -1,3 +1,4 @@
+- [janbodnar/Java-Advanced: Examples for Advanced Java course](https://github.com/janbodnar/Java-Advanced)
 - [ZetCode all tutorials](https://zetcode.com/all/)
 - [python-geeks repositories](https://github.com/python-geeks/Automation-scripts)
 - [11111111111 GitHub - snyk-labs/exploit-workshop: A step by step workshop to exploit various vulnerabilities in Node.js and Java applications](https://kkgithub.com/snyk-labs/exploit-workshop)
