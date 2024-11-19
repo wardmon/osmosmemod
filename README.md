@@ -1,3 +1,4 @@
+- [AjayGhimire1998/Java---Basic-to-Advanced---Concept-Coding---Notes: These notes are of important topics discussed by Concept&Coding in his Java: Basic to Advanced Course. These notes are in downloadable pdf format.](https://github.com/AjayGhimire1998/Java---Basic-to-Advanced---Concept-Coding---Notes)
 - [advanced-java-tutorials/README.md at master · JJBRT/advanced-java-tutorials](https://github.com/JJBRT/advanced-java-tutorials/blob/master/README.md)
 - [Java-Skolenie/arrays.md at main · janbodnar/Java-Skolenie · GitHub](https://kkgithub.com/janbodnar/Java-Skolenie/blob/main/arrays.md)
 - [GitHub - janbodnar/Spring-Boot-JdbcTemplate: Sources from the ZetCode's Spring Boot JdbcTemplate example](https://kkgithub.com/janbodnar/Spring-Boot-JdbcTemplate)
