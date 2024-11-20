@@ -1,3 +1,4 @@
+- [cipher387/osint_stuff_tool_collection: A collection of several hundred online tools for OSINT](https://github.com/cipher387/osint_stuff_tool_collection)
 - [ZXing Decoder Online](https://zxing.org/w/decode.jspx)
 - [Barcode Reader. Free Online Web Application](https://online-barcode-reader.inliteresearch.com/)
 - [Sites Like - Find and share similar websites on siteslike](https://www.siteslike.com/)
