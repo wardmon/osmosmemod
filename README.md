@@ -1,3 +1,4 @@
+- [jivoi/awesome-osint: :scream: A curated list of amazingly awesome OSINT](https://github.com/jivoi/awesome-osint)
 - [mateors/javascript: Javascript fundamentals & advance topics](https://github.com/mateors/javascript)
 - [guanhai562/Java-Interview-Advanced: 中华石杉--互联网Java进阶面试训练营](https://github.com/guanhai562/Java-Interview-Advanced)
 - [yanghaiji/Advanced-books: Java 核心技术,并发设计模式，数据结构与算法，SpringBoot ,OAuth2.0源码分析，Mysql进阶篇,Git 高级操作，Netty 教程，Redis设计与实战,Flink入门教程，Kafka入门与架构分析,Linux入门与Shell编程,DDD架构设计，ETL Keetle，ElasticSearch 希望更多的小伙伴一起加入共同维护，持续更新中！](https://github.com/yanghaiji/Advanced-books)
