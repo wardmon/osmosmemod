@@ -1,3 +1,4 @@
+- [Barcode Reader. Free Online Web Application](https://online-barcode-reader.inliteresearch.com/)
 - [Sites Like - Find and share similar websites on siteslike](https://www.siteslike.com/)
 - [jivoi/awesome-osint: :scream: A curated list of amazingly awesome OSINT](https://github.com/jivoi/awesome-osint)
 - [mateors/javascript: Javascript fundamentals & advance topics](https://github.com/mateors/javascript)
