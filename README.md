@@ -1,3 +1,4 @@
+- [javascript - 如何解决Chrome访问网址失败location.href被修改为的问题？ - SegmentFault 思否](https://segmentfault.com/q/1010000023317386)
 - [bocchilorenzo/ntscraper: Scrape from Twitter using Nitter instances](https://github.com/bocchilorenzo/ntscraper)
 - [d60/twikit: Twitter API Scraper | Without an API key | Twitter Internal API | Free | Twitter scraper | Twitter Bot](https://github.com/d60/twikit)
 - [Python | Jetify Docs](https://www.jetify.com/docs/devbox/devbox_examples/languages/python/)
