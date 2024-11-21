@@ -1,3 +1,4 @@
+- [bocchilorenzo/ntscraper: Scrape from Twitter using Nitter instances](https://github.com/bocchilorenzo/ntscraper)
 - [d60/twikit: Twitter API Scraper | Without an API key | Twitter Internal API | Free | Twitter scraper | Twitter Bot](https://github.com/d60/twikit)
 - [Python | Jetify Docs](https://www.jetify.com/docs/devbox/devbox_examples/languages/python/)
 - [zedeus/nitter: Alternative Twitter front-end](https://github.com/zedeus/nitter)
