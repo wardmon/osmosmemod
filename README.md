@@ -1,3 +1,4 @@
+- [LlamaOCR.com – Document to markdown](https://llamaocr.com/)
 - [Instances](https://kkgithub.com/zedeus/nitter/wiki/Instances)
 - [Farside](https://farside.link/)
 - [javascript - 如何解决Chrome访问网址失败location.href被修改为的问题？ - SegmentFault 思否](https://segmentfault.com/q/1010000023317386)
