@@ -1,3 +1,4 @@
+- [GitHub - shimohq/chinese-programmer-wrong-pronunciation: 中国程序员容易发音错误的单词](https://kkgithub.com/shimohq/chinese-programmer-wrong-pronunciation)
 - [GitHub - fengyuanchen/distpicker: ⚠️ [Deprecated] No longer maintained. A simple jQuery plugin for picking provinces, cities and districts of China. (中国 / 省市区 / 三级联动 / 地址选择器)](https://kkgithub.com/fengyuanchen/distpicker)
 - [GitHub - bfritscher/carnac: A utility to give some insight into how you use your keyboard](https://kkgithub.com/bfritscher/carnac)
 - [neosmart/paste: A Windows utility that simply dumps the clipboard data to stdout](https://github.com/neosmart/paste)
