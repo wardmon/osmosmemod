@@ -1,3 +1,4 @@
+- [GitHub - fengyuanchen/load-scripts: Dynamic scripts loading for modern browsers.](https://kkgithub.com/fengyuanchen/load-scripts)
 - [GitHub - fengyuanchen/photo-editor: A simple photo editing application.](https://kkgithub.com/fengyuanchen/photo-editor)
 - [Photo Editor](https://fengyuanchen.github.io/photo-editor/)
 - [GitHub - shimohq/chinese-programmer-wrong-pronunciation: 中国程序员容易发音错误的单词](https://kkgithub.com/shimohq/chinese-programmer-wrong-pronunciation)
