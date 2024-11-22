@@ -1,3 +1,4 @@
+- [Keyboard shortcuts in Microsoft Edge - Microsoft Support](https://support.microsoft.com/en-us/microsoft-edge/keyboard-shortcuts-in-microsoft-edge-50d3edab-30d9-c7e4-21ce-37fe2713cfad)
 - [lcl.host](https://lcl.host/)
 - [GitHub - anchordotdev/cli](https://kkgithub.com/anchordotdev/cli)
 - [WeeJeWel/node-google-backup: A Command-Line Utility to automatically backup Google Mail, Calendar & Contacts to local files.](https://github.com/WeeJeWel/node-google-backup)
