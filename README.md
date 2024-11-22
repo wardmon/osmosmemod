@@ -1,3 +1,4 @@
+- [funbox/optimizt: CLI image optimization tool](https://github.com/funbox/optimizt)
 - [GitHub - fengyuanchen/simpleui: A simple UI framework for building simple web projects.](https://kkgithub.com/fengyuanchen/simpleui)
 - [Simple UI](https://fengyuanchen.github.io/simpleui/#getting-started)
 - [Simple UI](https://fengyuanchen.github.io/simpleui/#buttons)
