@@ -1,3 +1,4 @@
+- [PasteEx/README_CN.md at master · huiyadanli/PasteEx](https://github.com/huiyadanli/PasteEx/blob/master/README_CN.md)
 - [Calligrapher.ai: Realistic computer-generated handwriting](https://www.calligrapher.ai/)
 - [xwmx/nb: CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.](https://github.com/xwmx/nb)
 - [funbox/optimizt: CLI image optimization tool](https://github.com/funbox/optimizt)
