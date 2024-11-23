@@ -1,3 +1,4 @@
+- [Ugly Avatar](https://txstc55.github.io/ugly-avatar/)
 - [Avaiga/taipy: Turns Data and AI algorithms into production-ready web applications in no time.](https://github.com/Avaiga/taipy)
 - [GitHub - nalgeon/codapi: Interactive code examples for documentation, education and fun](https://kkgithub.com/nalgeon/codapi)
 - [GitHub - jart/cosmopolitan: build-once run-anywhere c library](https://kkgithub.com/jart/cosmopolitan)
