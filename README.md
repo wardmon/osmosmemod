@@ -1,3 +1,4 @@
+- [guofei9987/text_blind_watermark: 文本盲水印：把信息隐匿到文本中，put invisible blind watermark into a text.](https://github.com/guofei9987/text_blind_watermark)
 - [GitHub - judge0/judge0: 🔥 The most advanced open-source online code execution system in the world.](https://kkgithub.com/judge0/judge0)
 - [Ugly Avatar](https://txstc55.github.io/ugly-avatar/)
 - [Avaiga/taipy: Turns Data and AI algorithms into production-ready web applications in no time.](https://github.com/Avaiga/taipy)
