@@ -1,3 +1,4 @@
+- [GitHub - ollama/ollama: Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.](https://kkgithub.com/ollama/ollama)
 - [exadel-inc/CompreFace: Leading free and open-source face recognition system](https://github.com/exadel-inc/CompreFace)
 - [PasteEx/README_CN.md at master · huiyadanli/PasteEx](https://github.com/huiyadanli/PasteEx/blob/master/README_CN.md)
 - [Calligrapher.ai: Realistic computer-generated handwriting](https://www.calligrapher.ai/)
