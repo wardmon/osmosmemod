@@ -1,3 +1,4 @@
+- [ghostscript 使用教程 - CSDN文库](https://wenku.csdn.net/answer/7xedaeyi75)
 - [第9章 - 使用pdftk](https://zxyle.github.io/PDF-Explained/chapter9.html)
 - [GitHub - zxyle/PDF-Explained: 《PDF 解析》](https://kkgithub.com/zxyle/PDF-Explained)
 - [guofei9987/text_blind_watermark: 文本盲水印：把信息隐匿到文本中，put invisible blind watermark into a text.](https://github.com/guofei9987/text_blind_watermark)
