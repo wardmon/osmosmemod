@@ -1,3 +1,4 @@
+- [GitHub - magnific0/wondershaper: Command-line utility for limiting an adapter's bandwidth](https://kkgithub.com/magnific0/wondershaper)
 - [GitHub - ekzhang/sshx: Fast, collaborative live terminal sharing over the web](https://kkgithub.com/ekzhang/sshx)
 - [sshx · share collaborative terminals](https://sshx.io/)
 - [GitHub - horsicq/Detect-It-Easy: Program for determining types of files for Windows, Linux and MacOS.](https://kkgithub.com/horsicq/Detect-It-Easy)
