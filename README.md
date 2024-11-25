@@ -1,3 +1,4 @@
+- [kingyiusuen/image-to-latex: Convert images of LaTex math equations into LaTex code.](https://github.com/kingyiusuen/image-to-latex)
 - [Components](https://ui.aceternity.com/components)
 - [ChatGPT](https://xqdoo00o.github.io/chatgpt-web/)
 - [xqdoo00o/chatgpt-web: Pure Javascript ChatGPT demo based on OpenAI API](https://github.com/xqdoo00o/chatgpt-web)
