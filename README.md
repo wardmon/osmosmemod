@@ -1,3 +1,4 @@
+- [Components](https://ui.aceternity.com/components)
 - [ChatGPT](https://xqdoo00o.github.io/chatgpt-web/)
 - [xqdoo00o/chatgpt-web: Pure Javascript ChatGPT demo based on OpenAI API](https://github.com/xqdoo00o/chatgpt-web)
 - [Tablib: Pythonic Tabular Datasets — Tablib 3.7.0 documentation](https://tablib.readthedocs.io/en/stable/)
