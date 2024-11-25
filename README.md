@@ -1,3 +1,4 @@
+- [GitHub - eastlakeside/awesome-productivity-cn: 绝妙的个人生产力（Awesome Productivity - Chinese version）](https://kkgithub.com/eastlakeside/awesome-productivity-cn)
 - [kingyiusuen/image-to-latex: Convert images of LaTex math equations into LaTex code.](https://github.com/kingyiusuen/image-to-latex)
 - [Components](https://ui.aceternity.com/components)
 - [ChatGPT](https://xqdoo00o.github.io/chatgpt-web/)
