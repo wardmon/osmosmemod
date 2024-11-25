@@ -1,3 +1,4 @@
+- [xqdoo00o/chatgpt-web: Pure Javascript ChatGPT demo based on OpenAI API](https://github.com/xqdoo00o/chatgpt-web)
 - [Tablib: Pythonic Tabular Datasets — Tablib 3.7.0 documentation](https://tablib.readthedocs.io/en/stable/)
 - [Releases · horsicq/DIE-engine](https://kkgithub.com/horsicq/DIE-engine/releases)
 - [GitHub - magnific0/wondershaper: Command-line utility for limiting an adapter's bandwidth](https://kkgithub.com/magnific0/wondershaper)
