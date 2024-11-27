@@ -1,3 +1,4 @@
+- [Excel+扫描枪制作简易的库存管理系统 - 腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/news/1263125)
 - [data-science-complete-tutorial/1. Introduction to Numpy.ipynb at master · edyoda/data-science-complete-tutorial](https://github.com/edyoda/data-science-complete-tutorial/blob/master/1.%20Introduction%20to%20Numpy.ipynb)
 - [GitHub - eastlakeside/awesome-productivity-cn: 绝妙的个人生产力（Awesome Productivity - Chinese version）](https://kkgithub.com/eastlakeside/awesome-productivity-cn)
 - [kingyiusuen/image-to-latex: Convert images of LaTex math equations into LaTex code.](https://github.com/kingyiusuen/image-to-latex)
