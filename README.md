@@ -1,3 +1,4 @@
+- [#python数据可视化](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzk0NTY0MjM0Mg==&action=getalbum&album_id=3375928794900905988&scene=173&subscene=&sessionid=svr_73dc31ad607&enterid=1732679432&from_msgid=2247486470&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
 - [Excel如何快速比较两个工作表的数据差异？ - 腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/news/999009)
 - [Excel+扫描枪制作简易的库存管理系统 - 腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/news/1263125)
 - [data-science-complete-tutorial/1. Introduction to Numpy.ipynb at master · edyoda/data-science-complete-tutorial](https://github.com/edyoda/data-science-complete-tutorial/blob/master/1.%20Introduction%20to%20Numpy.ipynb)
