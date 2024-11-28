@@ -1,3 +1,4 @@
+- [HT524/500LineorLess_CN: 500 line or less 中文翻译计划。](https://github.com/HT524/500LineorLess_CN)
 - [TurboWay/bigdata_analyse: 大数据分析项目](https://github.com/TurboWay/bigdata_analyse)
 - [GetFolderFromRepo/getFolderFromRepo.py at master · AliabbasMerchant/GetFolderFromRepo · GitHub](https://kkgithub.com/AliabbasMerchant/GetFolderFromRepo/blob/master/getFolderFromRepo.py)
 - [ScreeGo - 开源、可自托管，在线多人屏幕分享工具 - 小众软件](https://www.appinn.com/screego-server/)
