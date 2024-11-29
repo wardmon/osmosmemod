@@ -1,3 +1,4 @@
+- [TurboWay/pydemo: 记录一些日常用的 python demo](https://github.com/TurboWay/pydemo)
 - [HT524/500LineorLess_CN: 500 line or less 中文翻译计划。](https://github.com/HT524/500LineorLess_CN)
 - [TurboWay/bigdata_analyse: 大数据分析项目](https://github.com/TurboWay/bigdata_analyse)
 - [GetFolderFromRepo/getFolderFromRepo.py at master · AliabbasMerchant/GetFolderFromRepo · GitHub](https://kkgithub.com/AliabbasMerchant/GetFolderFromRepo/blob/master/getFolderFromRepo.py)
