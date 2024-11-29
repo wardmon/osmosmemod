@@ -1,3 +1,4 @@
+- [wincatcher/Copy-Text-With-Url-Plugin: Copy selected text and append the URL of the page.](https://github.com/wincatcher/Copy-Text-With-Url-Plugin)
 - [【网站自荐】"看见概率论" - 通过生动有趣的交互式可视化演示，让抽象的数学概念变得可见且易懂，助您掌握概率统计的核心思想，深入理解大数定理、贝叶斯定理和凯利公式等经典概率论知识。 · Issue #5595 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5595)
 - [【浏览器插件自荐】UICloner：一键克隆任意网页UI组件，生成代码 · Issue #5587 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5587)
 - [This Website is Hosted on Bluesky](https://danielmangum.com/posts/this-website-is-hosted-on-bluesky/)
