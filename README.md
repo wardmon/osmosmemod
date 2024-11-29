@@ -1,3 +1,4 @@
+- [nginx 日志分析可视化【批处理】_大数据_Utopia](http://blog.turboway.top/article/bigdata_practice_batch/)
 - [TurboWay/bigdata_practice: 大数据分析可视化实践](https://github.com/TurboWay/bigdata_practice)
 - [TurboWay/glidedsky: glidedsky 通关笔记](https://github.com/TurboWay/glidedsky)
 - [Web QR](https://www.webqr.com/index.html)
