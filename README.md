@@ -1,3 +1,4 @@
+- [【浏览器插件自荐】UICloner：一键克隆任意网页UI组件，生成代码 · Issue #5587 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5587)
 - [This Website is Hosted on Bluesky](https://danielmangum.com/posts/this-website-is-hosted-on-bluesky/)
 - [DataX/mysqlreader/doc/mysqlreader.md at master · alibaba/DataX](https://github.com/alibaba/DataX/blob/master/mysqlreader/doc/mysqlreader.md)
 - [alibaba/DataX: DataX是阿里云DataWorks数据集成的开源版本。](https://github.com/alibaba/DataX)
