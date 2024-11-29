@@ -1,3 +1,4 @@
+- [Web QR](https://www.webqr.com/index.html)
 - [TurboWay/big_screen: 数据大屏可视化](https://github.com/TurboWay/big_screen)
 - [LazarSoft/jsqrcode: Javascript QRCode scanner](https://github.com/LazarSoft/jsqrcode)
 - [TurboWay/pydemo: 记录一些日常用的 python demo](https://github.com/TurboWay/pydemo)
