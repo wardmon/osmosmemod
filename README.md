@@ -1,3 +1,4 @@
+- [GitHub - Sven-Bo/excel-vlookup-in-pandas](https://bgithub.xyz/Sven-Bo/excel-vlookup-in-pandas)
 - [GitHub - xmaniu/Excel-Python: 《对比Excel，轻松学习Python数据分析》学习笔记及练习代码](https://bgithub.xyz/xmaniu/Excel-Python)
 - [GitHub - LemenChao/PythonFromDAToDS: 图书《Python编程：从数据分析到数据科学》的配套资源](https://bgithub.xyz/LemenChao/PythonFromDAToDS)
 - [pandas-data-analyse/temp222.py at master · caiyunbin/pandas-data-analyse · GitHub](https://bgithub.xyz/caiyunbin/pandas-data-analyse/blob/master/temp222.py)
