@@ -1,3 +1,4 @@
+- [GitHub - DeepSpace2/StyleFrame: A library that wraps pandas and openpyxl and allows easy styling of dataframes in excel](https://bgithub.xyz/DeepSpace2/StyleFrame)
 - [GitHub - ChanMenglin/PandasVersusExcel: Python数据分析入门，数据分析师入门](https://bgithub.xyz/ChanMenglin/PandasVersusExcel)
 - [SajalTimilsina/Python-CVS-File-Analysis: In this repository, I am trying to explore python file processing functions and libraries likes pandas, numpy etc.](https://github.com/SajalTimilsina/Python-CVS-File-Analysis)
 - [Reading-CVS-Files-with-Pandas/17-Sep-2022.ipynb at main · bhupendra1522/Reading-CVS-Files-with-Pandas · GitHub](https://kkgithub.com/bhupendra1522/Reading-CVS-Files-with-Pandas/blob/main/17-Sep-2022.ipynb)
