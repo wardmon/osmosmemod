@@ -1,3 +1,4 @@
+- [GitHub - Anil-matcha/Chat-With-Excel: Chat with your tabular data. No need of remembering any formulas or learning pandas. Train machine learning models in natural language](https://bgithub.xyz/Anil-matcha/Chat-With-Excel)
 - [GitHub - DeepSpace2/StyleFrame: A library that wraps pandas and openpyxl and allows easy styling of dataframes in excel](https://bgithub.xyz/DeepSpace2/StyleFrame)
 - [GitHub - ChanMenglin/PandasVersusExcel: Python数据分析入门，数据分析师入门](https://bgithub.xyz/ChanMenglin/PandasVersusExcel)
 - [SajalTimilsina/Python-CVS-File-Analysis: In this repository, I am trying to explore python file processing functions and libraries likes pandas, numpy etc.](https://github.com/SajalTimilsina/Python-CVS-File-Analysis)
