@@ -1,3 +1,4 @@
+- [GitHub - LemenChao/PythonFromDAToDS: 图书《Python编程：从数据分析到数据科学》的配套资源](https://bgithub.xyz/LemenChao/PythonFromDAToDS)
 - [pandas-data-analyse/temp222.py at master · caiyunbin/pandas-data-analyse · GitHub](https://bgithub.xyz/caiyunbin/pandas-data-analyse/blob/master/temp222.py)
 - [pandas_basic_data_analysis_tutorial/Jupyter Toolbox for Data Anlaysis.ipynb at master · dom-devel/pandas_basic_data_analysis_tutorial · GitHub](https://bgithub.xyz/dom-devel/pandas_basic_data_analysis_tutorial/blob/master/Jupyter%20Toolbox%20for%20Data%20Anlaysis.ipynb?short_path=a9c6368)
 - [GitHub - Anil-matcha/Chat-With-Excel: Chat with your tabular data. No need of remembering any formulas or learning pandas. Train machine learning models in natural language](https://bgithub.xyz/Anil-matcha/Chat-With-Excel)
