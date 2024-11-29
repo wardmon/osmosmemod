@@ -1,3 +1,4 @@
+- [TurboWay/glidedsky: glidedsky 通关笔记](https://github.com/TurboWay/glidedsky)
 - [Web QR](https://www.webqr.com/index.html)
 - [TurboWay/big_screen: 数据大屏可视化](https://github.com/TurboWay/big_screen)
 - [LazarSoft/jsqrcode: Javascript QRCode scanner](https://github.com/LazarSoft/jsqrcode)
