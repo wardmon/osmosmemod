@@ -1,3 +1,4 @@
+- [GitHub - spyder-ide/spyder: Official repository for Spyder - The Scientific Python Development Environment](https://kkgithub.com/spyder-ide/spyder)
 - [数据科学家必备神器：Spyder](https://zhuanlan.zhihu.com/p/67080268)
 - [GitHub - Sven-Bo/excel-vlookup-in-pandas](https://bgithub.xyz/Sven-Bo/excel-vlookup-in-pandas)
 - [GitHub - xmaniu/Excel-Python: 《对比Excel，轻松学习Python数据分析》学习笔记及练习代码](https://bgithub.xyz/xmaniu/Excel-Python)
