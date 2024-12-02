@@ -1,3 +1,4 @@
+- [【新提醒】安装包仅4MB的免费中文版pdf虚拟打印机 dopdf7.3X64 - 吾爱破解 - 52pojie.cn](https://www.52pojie.cn/thread-1987388-1-1.html)
 - [GitHub - spyder-ide/spyder: Official repository for Spyder - The Scientific Python Development Environment](https://kkgithub.com/spyder-ide/spyder)
 - [数据科学家必备神器：Spyder](https://zhuanlan.zhihu.com/p/67080268)
 - [GitHub - Sven-Bo/excel-vlookup-in-pandas](https://bgithub.xyz/Sven-Bo/excel-vlookup-in-pandas)
