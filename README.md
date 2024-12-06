@@ -1,3 +1,4 @@
+- [bryanbraun/lit-element-demo: A demo app for exploring a web-component-based React alternative](https://github.com/bryanbraun/lit-element-demo)
 - [ES modules in production: my experience so far](https://www.bryanbraun.com/2020/10/23/es-modules-in-production-my-experience-so-far/)
 - [GoogleChrome/proxy-polyfill: Proxy object polyfill](https://github.com/GoogleChrome/proxy-polyfill)
 - [Andy-set-studio/beedle: A tiny library inspired by Redux & Vuex to help you manage state in your JavaScript apps](https://github.com/Andy-set-studio/beedle)
