@@ -1,3 +1,4 @@
+- [【工具自荐】Bylo.ai: 免费的 AI 图像生成器 · Issue #5630 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5630)
 - [ubicloud/ubicloud: Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, and IAM services in public beta.](https://github.com/ubicloud/ubicloud)
 - [【工具自荐】Easy Resizer - 批量调整图片的尺寸大小 · Issue #5612 · ruanyf/weekly](https://kkgithub.com/ruanyf/weekly/issues/5612)
 - [【开源自荐】🚀一款轻量级云原生监控报警管理系统（运维研发必备能力） · Issue #5627 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5627)
