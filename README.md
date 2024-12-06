@@ -1,3 +1,4 @@
+- [ubicloud/ubicloud: Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, and IAM services in public beta.](https://github.com/ubicloud/ubicloud)
 - [【工具自荐】Easy Resizer - 批量调整图片的尺寸大小 · Issue #5612 · ruanyf/weekly](https://kkgithub.com/ruanyf/weekly/issues/5612)
 - [【开源自荐】🚀一款轻量级云原生监控报警管理系统（运维研发必备能力） · Issue #5627 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5627)
 - [111111111111 xzitlou/jsontr.ee: Effortlessly visualize JSON structures as dynamic tree diagrams](https://github.com/xzitlou/jsontr.ee)
