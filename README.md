@@ -1,3 +1,4 @@
+- [[自荐]开源项目：Running page 打造个人跑步主页 · Issue #1469 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/1469)
 - [111111111111 Twttr API](https://rapidapi.com/davethebeast/api/twitter241/playground/apiendpoint_dbbb0bec-8b8a-4e75-80a7-374417957bf5)
 - [yuanqing/vdx: :film_strip: An intuitive CLI for processing video, powered by FFmpeg](https://github.com/yuanqing/vdx)
 - [yuanqing/vdx: :film_strip: An intuitive CLI for processing video, powered by FFmpeg](https://github.com/yuanqing/vdx)
