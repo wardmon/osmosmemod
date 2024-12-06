@@ -1,3 +1,4 @@
+- [OnionAISearch](https://onionai.so/)
 - [【产品自荐】AI聚合搜索引擎OnionAI · Issue #5616 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5616)
 - [【工具自荐】Bylo.ai: 免费的 AI 图像生成器 · Issue #5630 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5630)
 - [ubicloud/ubicloud: Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, and IAM services in public beta.](https://github.com/ubicloud/ubicloud)
