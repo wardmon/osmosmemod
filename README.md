@@ -1,3 +1,4 @@
+- [Andy-set-studio/beedle: A tiny library inspired by Redux & Vuex to help you manage state in your JavaScript apps](https://github.com/Andy-set-studio/beedle)
 - [深入浅出 JavaScript 的模块化：从 CommonJS 到 ES Modules-CSDN博客](https://blog.csdn.net/mmc123125/article/details/144241400)
 - [Build A State Management System With Vanilla JavaScript | CSS-Tricks](https://css-tricks.com/build-a-state-management-system-with-vanilla-javascript/)
 - [Andy-set-studio/vanilla-js-state-management: A state management system built with vanilla JavaScript with a little demo included](https://github.com/Andy-set-studio/vanilla-js-state-management)
