@@ -1,3 +1,4 @@
+- [bryanbraun (Bryan Braun)](https://github.com/bryanbraun)
 - [A Future Without Webpack](https://www.pika.dev/blog/pika-web-a-future-without-webpack)
 - [Intro to Lit Tutorial – Lit](https://lit.dev/tutorials/intro-to-lit/)
 - [LitElement ——快速、轻量级的Web Components——H5组件下拉刷新，上拉加载更多LitElemen - 掘金](https://juejin.cn/post/6844903923581452295)
