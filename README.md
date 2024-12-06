@@ -1,3 +1,4 @@
+- [Bookmarklets construction set - Create bookmarklets online](http://js.do/blog/bookmarklets/)
 - [javascriptkit - Bing](https://cn.bing.com/search?q=javascriptkit&cvid=fbd1c52318734af1af2b8b8603de4933&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQNIBCDQ3NThqMGoxqAIAsAIA&FORM=ANAB01&adppc=EdgeStart&PC=EDGEBRV)
 - [lien.js](https://sharkle.com/lien/lien.js)
 - [Sharkle!](https://sharkle.com)
