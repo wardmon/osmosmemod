@@ -1,3 +1,4 @@
+- [React DOM Confetti](https://daniel-lundin.github.io/react-dom-confetti/)
 - [bryanbraun/alchemist: A simple, incomplete javascript game, built as a personal javascript exercise.](https://github.com/bryanbraun/alchemist)
 - [bryanbraun/alchemist: A simple, incomplete javascript game, built as a personal javascript exercise.](https://github.com/bryanbraun/alchemist)
 - [bryanbraun (Bryan Braun)](https://github.com/bryanbraun)
