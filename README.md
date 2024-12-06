@@ -1,3 +1,4 @@
+- [【开源自荐】🚀一款轻量级云原生监控报警管理系统（运维研发必备能力） · Issue #5627 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5627)
 - [111111111111 xzitlou/jsontr.ee: Effortlessly visualize JSON structures as dynamic tree diagrams](https://github.com/xzitlou/jsontr.ee)
 - [1111111111111 JSON Formatter, Validator & Viewer Online | JSON Tree | JSONtr.ee](https://jsontr.ee/)
 - [使用numpy的金融函数来看看投资的神奇公式_numpy.rate(nper, pmt, pv, fv)-CSDN博客](https://blog.csdn.net/benjorsun/article/details/115907760)
