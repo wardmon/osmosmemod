@@ -1,3 +1,4 @@
+- [ES modules in production: my experience so far](https://www.bryanbraun.com/2020/10/23/es-modules-in-production-my-experience-so-far/)
 - [GoogleChrome/proxy-polyfill: Proxy object polyfill](https://github.com/GoogleChrome/proxy-polyfill)
 - [Andy-set-studio/beedle: A tiny library inspired by Redux & Vuex to help you manage state in your JavaScript apps](https://github.com/Andy-set-studio/beedle)
 - [深入浅出 JavaScript 的模块化：从 CommonJS 到 ES Modules-CSDN博客](https://blog.csdn.net/mmc123125/article/details/144241400)
