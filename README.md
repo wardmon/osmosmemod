@@ -1,4 +1,5 @@
 - [Alt-React](https://www.bryanbraun.com/2019/09/11/alt-react/)
+- [Alt-React](https://www.bryanbraun.com/2019/09/11/alt-react/)
 - [Web scraping with JS](https://qoob.cc/web-scraping/)
 - [OnionAISearch](https://onionai.so/)
 - [【产品自荐】AI聚合搜索引擎OnionAI · Issue #5616 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5616)
