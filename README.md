@@ -1,3 +1,4 @@
+- [Chapter 1. Getting Started — Esprima master documentation](https://esprima.readthedocs.io/en/latest/getting-started.html)
 - [bryanbraun/jTutor: Real-time javascript programming feedback in the browser.](https://github.com/bryanbraun/jTutor)
 - [Nokia acquires Rapid technology and team! 🚀](https://rapidapi.com/hub)
 - [React DOM Confetti](https://daniel-lundin.github.io/react-dom-confetti/)
