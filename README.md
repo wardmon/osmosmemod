@@ -1,3 +1,4 @@
+- [How searching for a bundle-free React led me to web components](https://www.bryanbraun.com/2020/08/31/how-searching-for-a-bundle-free-react-led-me-to-web-components/)
 - [Playground – Lit](https://lit.dev/playground/)
 - [lit/lit-element: LEGACY REPO. This repository is for maintenance of the legacy LitElement library. The LitElement base class is now part of the Lit library, which is developed in the lit monorepo.](https://github.com/lit/lit-element)
 - [bryanbraun/propagate: A series of demos about Javascript Events](https://github.com/bryanbraun/propagate)
