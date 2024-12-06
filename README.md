@@ -1,3 +1,4 @@
+- [Build A State Management System With Vanilla JavaScript | CSS-Tricks](https://css-tricks.com/build-a-state-management-system-with-vanilla-javascript/)
 - [Andy-set-studio/vanilla-js-state-management: A state management system built with vanilla JavaScript with a little demo included](https://github.com/Andy-set-studio/vanilla-js-state-management)
 - [Alt-React](https://www.bryanbraun.com/2019/09/11/alt-react/)
 - [Alt-React](https://www.bryanbraun.com/2019/09/11/alt-react/)
