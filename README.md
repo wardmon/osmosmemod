@@ -1,3 +1,4 @@
+- [A minimalist development workflow using ES modules and esinstall](https://www.bryanbraun.com/2021/08/27/a-minimalist-development-workflow-using-es-modules-and-esinstall/)
 - [bryanbraun/lit-element-demo: A demo app for exploring a web-component-based React alternative](https://github.com/bryanbraun/lit-element-demo)
 - [ES modules in production: my experience so far](https://www.bryanbraun.com/2020/10/23/es-modules-in-production-my-experience-so-far/)
 - [GoogleChrome/proxy-polyfill: Proxy object polyfill](https://github.com/GoogleChrome/proxy-polyfill)
