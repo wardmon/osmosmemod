@@ -1,3 +1,4 @@
+- [A Future Without Webpack](https://www.pika.dev/blog/pika-web-a-future-without-webpack)
 - [Intro to Lit Tutorial – Lit](https://lit.dev/tutorials/intro-to-lit/)
 - [LitElement ——快速、轻量级的Web Components——H5组件下拉刷新，上拉加载更多LitElemen - 掘金](https://juejin.cn/post/6844903923581452295)
 - [How searching for a bundle-free React led me to web components](https://www.bryanbraun.com/2020/08/31/how-searching-for-a-bundle-free-react-led-me-to-web-components/)
