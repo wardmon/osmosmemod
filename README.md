@@ -1,3 +1,4 @@
+- [lit/lit-element: LEGACY REPO. This repository is for maintenance of the legacy LitElement library. The LitElement base class is now part of the Lit library, which is developed in the lit monorepo.](https://github.com/lit/lit-element)
 - [bryanbraun/propagate: A series of demos about Javascript Events](https://github.com/bryanbraun/propagate)
 - [bryanbraun/esinstall-demo](https://github.com/bryanbraun/esinstall-demo)
 - [A minimalist development workflow using ES modules and esinstall](https://www.bryanbraun.com/2021/08/27/a-minimalist-development-workflow-using-es-modules-and-esinstall/)
