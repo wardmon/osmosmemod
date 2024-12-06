@@ -1,4 +1,5 @@
 - [bryanbraun/alchemist: A simple, incomplete javascript game, built as a personal javascript exercise.](https://github.com/bryanbraun/alchemist)
+- [bryanbraun/alchemist: A simple, incomplete javascript game, built as a personal javascript exercise.](https://github.com/bryanbraun/alchemist)
 - [bryanbraun (Bryan Braun)](https://github.com/bryanbraun)
 - [A Future Without Webpack](https://www.pika.dev/blog/pika-web-a-future-without-webpack)
 - [Intro to Lit Tutorial – Lit](https://lit.dev/tutorials/intro-to-lit/)
