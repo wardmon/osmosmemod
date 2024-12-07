@@ -1,3 +1,4 @@
+- [codenickycode/sequencer64: A 64-step React JS drum sequencer](https://github.com/codenickycode/sequencer64)
 - [diodechain/diode_client: Diode client written in GO that runs the Blockquick™ algorithm and a socks server to transmit data through diode ztna network.](https://github.com/diodechain/diode_client)
 - [Bookmarklets construction set - Create bookmarklets online](http://js.do/blog/bookmarklets/)
 - [javascriptkit - Bing](https://cn.bing.com/search?q=javascriptkit&cvid=fbd1c52318734af1af2b8b8603de4933&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQNIBCDQ3NThqMGoxqAIAsAIA&FORM=ANAB01&adppc=EdgeStart&PC=EDGEBRV)
