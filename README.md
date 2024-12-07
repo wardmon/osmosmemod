@@ -1,3 +1,4 @@
+- [gotify/api-docs: External Swagger Documentation for Gotify](https://github.com/gotify/api-docs)
 - [chromium浏览器伪造sni工具网页版 - 科学上网 技术分享](https://bulianglin.com/archives/snibypass.html)
 - [DiG GUI - DiG Online, DiG Web Interface, DiG DNS, Google Dig, Online Dig, Dig Tool](https://www.diggui.com/)
 - [通过配置Chromium系列浏览器启动参数以解决DNS污染与SNI阻断 - NiceBowl的博客](https://nicebowl.fun/24_8)
