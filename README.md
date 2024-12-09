@@ -1,3 +1,4 @@
+- [joyqi/sfz: 专门用于给图片加水印打码的工具，完全基于浏览器本地API，无任何网络请求（特别适合身份证等敏感证件）](https://github.com/joyqi/sfz)
 - [huiyadanli/RevokeMsgPatcher: :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）](https://github.com/huiyadanli/RevokeMsgPatcher)
 - [zhucaidan/block-ips: Linux VPS一键屏蔽指定国家所有的IP访问](https://github.com/zhucaidan/block-ips)
 - [zhucaidan/swap.sh: Linux VPS一键添加/删除Swap虚拟内存](https://github.com/zhucaidan/swap.sh)
