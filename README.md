@@ -1,3 +1,4 @@
+- [allinurl/goaccess: GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.](https://github.com/allinurl/goaccess)
 - [Netflixxp/script: 小内存vps优化](https://github.com/Netflixxp/script)
 - [Netflixxp/jcnf-box: 这是个人常用的服务器指令和一键脚本](https://github.com/Netflixxp/jcnf-box)
 - [宝塔&aapanel破解 - 搜狗搜索](https://www.sogou.com/web?ie=UTF-8&query=%E5%AE%9D%E5%A1%94%26aapanel%E7%A0%B4%E8%A7%A3)
