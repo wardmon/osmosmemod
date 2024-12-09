@@ -1,3 +1,4 @@
+- [ToyoDAdoubiBackup/doubi: 一个逗比写的各种逗比脚本~](https://github.com/ToyoDAdoubiBackup/doubi)
 - [other_script/bt_7.7_happy/bt_happy.sh at master · Isaac315/other_script](https://github.com/Isaac315/other_script/blob/master/bt_7.7_happy/bt_happy.sh)
 - [netchx/netch: A simple proxy client](https://github.com/netchx/netch)
 - [aapanel(宝塔海外版 - 搜狗搜索](https://www.sogou.com/web?ie=UTF-8&query=aapanel(%E5%AE%9D%E5%A1%94%E6%B5%B7%E5%A4%96%E7%89%88)
