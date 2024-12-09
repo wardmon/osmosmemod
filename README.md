@@ -1,4 +1,5 @@
 - [python 数据处理文章导航](https://mp.weixin.qq.com/s/67AAkc3TuF2MiEQSLI7LXA)
+- [python 数据处理文章导航](https://mp.weixin.qq.com/s/67AAkc3TuF2MiEQSLI7LXA)
 - [DD脚本. - Bing](https://cn.bing.com/search?q=DD%E8%84%9A%E6%9C%AC.&qs=n&form=QBRE&sp=-1&lq=0&pq=dd%E8%84%9A%E6%9C%AC&sc=15-4&sk=&cvid=C9358298809C4D0FB6D03EA7A94522B9&ghsh=0&ghacc=0&ghpl=)
 - [Chrome Extension TypeScript Starter 使用教程-CSDN博客](https://blog.csdn.net/gitblog_00187/article/details/141246038)
 - [b言b语](https://bb.daibor.com/)
