@@ -1,3 +1,4 @@
+- [huiyadanli/RevokeMsgPatcher: :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）](https://github.com/huiyadanli/RevokeMsgPatcher)
 - [zhucaidan/block-ips: Linux VPS一键屏蔽指定国家所有的IP访问](https://github.com/zhucaidan/block-ips)
 - [zhucaidan/swap.sh: Linux VPS一键添加/删除Swap虚拟内存](https://github.com/zhucaidan/swap.sh)
 - [ToyoDAdoubiBackup/doubi: 一个逗比写的各种逗比脚本~](https://github.com/ToyoDAdoubiBackup/doubi)
