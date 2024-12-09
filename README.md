@@ -1,3 +1,4 @@
+- [Discover Random Websites | Explore the Internets Hidden Gems](https://random-websites.com/)
 - [11111111111111111 Alt-React](https://www.bryanbraun.com/2019/09/11/alt-react/)
 - [gotify/api-docs: External Swagger Documentation for Gotify](https://github.com/gotify/api-docs)
 - [chromium浏览器伪造sni工具网页版 - 科学上网 技术分享](https://bulianglin.com/archives/snibypass.html)
