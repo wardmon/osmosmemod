@@ -1,3 +1,4 @@
+- [jimlee2048/nonsense.fun_tasker: 在Android上向废话胶囊（b言b语）发送内容的简单 Tasker 工程。https://sspai.com/post/60024](https://github.com/jimlee2048/nonsense.fun_tasker)
 - [一站式 iframe 生成器 | 专业的嵌入内容可视化配置工具](https://iframegenerator.top/)
 - [Codrops - Fueling web creativity](https://tympanus.net/codrops/)
 - [opt-luo/DemoHouse: Collection best of Web Demos](https://github.com/opt-luo/DemoHouse)
