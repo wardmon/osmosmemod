@@ -1,3 +1,4 @@
+- [Chrome Extension TypeScript Starter 使用教程-CSDN博客](https://blog.csdn.net/gitblog_00187/article/details/141246038)
 - [b言b语](https://bb.daibor.com/)
 - [11111111 DrawLink - Transform URLs into Beautiful Visual Cards](https://drawl.ink/?template=receipt#/https://github.com/daibor/nonsense.fun?tab=readme-ov-file)
 - [jimlee2048/nonsense.fun_tasker: 在Android上向废话胶囊（b言b语）发送内容的简单 Tasker 工程。https://sspai.com/post/60024](https://github.com/jimlee2048/nonsense.fun_tasker)
