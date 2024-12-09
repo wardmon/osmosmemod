@@ -1,3 +1,4 @@
+- [zhucaidan/swap.sh: Linux VPS一键添加/删除Swap虚拟内存](https://github.com/zhucaidan/swap.sh)
 - [ToyoDAdoubiBackup/doubi: 一个逗比写的各种逗比脚本~](https://github.com/ToyoDAdoubiBackup/doubi)
 - [other_script/bt_7.7_happy/bt_happy.sh at master · Isaac315/other_script](https://github.com/Isaac315/other_script/blob/master/bt_7.7_happy/bt_happy.sh)
 - [netchx/netch: A simple proxy client](https://github.com/netchx/netch)
