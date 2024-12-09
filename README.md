@@ -1,3 +1,4 @@
+- [daibor/nonsense.fun: 废话胶囊，你说话的地方 #保卫表达#](https://github.com/daibor/nonsense.fun)
 - [fuxuemingzhu/Leetcode-Solution-All: 1000篇通俗易懂且高质量的 LeetCode 解析，动画题解，套路分析，模板分享](https://github.com/fuxuemingzhu/Leetcode-Solution-All)
 - [整理一些常用的脚本（持续更新中）-爱极客专注分享](https://www.iigeek.com/archives/496)
 - [Zeli - 用中文阅读Hacker News和AI论文](https://zeli.app/zh)
