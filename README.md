@@ -1,3 +1,4 @@
+- [Netflixxp/jcnf-box: 这是个人常用的服务器指令和一键脚本](https://github.com/Netflixxp/jcnf-box)
 - [宝塔&aapanel破解 - 搜狗搜索](https://www.sogou.com/web?ie=UTF-8&query=%E5%AE%9D%E5%A1%94%26aapanel%E7%A0%B4%E8%A7%A3)
 - [joyqi/sfz: 专门用于给图片加水印打码的工具，完全基于浏览器本地API，无任何网络请求（特别适合身份证等敏感证件）](https://github.com/joyqi/sfz)
 - [huiyadanli/RevokeMsgPatcher: :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）](https://github.com/huiyadanli/RevokeMsgPatcher)
