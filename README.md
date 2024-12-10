@@ -1,3 +1,4 @@
+- [joh6nn/shrepl: posix shell port of repl](https://github.com/joh6nn/shrepl)
 - [stloma/freud: TUI REST client to analyze API endpoints](https://github.com/stloma/freud)
 - [fportantier/habu: Hacking Toolkit](https://github.com/fportantier/habu)
 - [imomaliev/ptrepl: Run command as REPL with completion(based on prompt_toolkit)](https://github.com/imomaliev/ptrepl)
