@@ -1,3 +1,4 @@
+- [Service Worker - Chrome Platform Status](https://chromestatus.com/feature/6561526227927040)
 - [Minimal viable service worker](https://adactio.com/journal/13540)
 - [Basic Service Worker Sample](https://googlechrome.github.io/samples/service-worker/basic/index.html)
 - [samples/service-worker/basic at gh-pages · GoogleChrome/samples](https://github.com/GoogleChrome/samples/tree/gh-pages/service-worker/basic)
