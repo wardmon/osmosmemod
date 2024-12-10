@@ -1,3 +1,4 @@
+- [Basic Service Worker Sample](https://googlechrome.github.io/samples/service-worker/basic/index.html)
 - [samples/service-worker/basic at gh-pages · GoogleChrome/samples](https://github.com/GoogleChrome/samples/tree/gh-pages/service-worker/basic)
 - [jakearchibald.com/static-build/posts/2014/05/service-worker-first-draft/index.md at main · jakearchibald/jakearchibald.com](https://github.com/jakearchibald/jakearchibald.com/blob/main/static-build/posts/2014/05/service-worker-first-draft/index.md)
 - [Service Worker - first draft published](https://jakearchibald.com/2014/service-worker-first-draft/)
