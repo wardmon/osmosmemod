@@ -1,3 +1,4 @@
+- [ServiceWorker: A Basic Guide to BackgroundSync](https://ponyfoo.com/articles/backgroundsync)
 - [homam/service-workers-example: Almost any web page can work offline](https://github.com/homam/service-workers-example)
 - [service-workers-example/resources.md at master · homam/service-workers-example · GitHub](https://kkgithub.com/homam/service-workers-example/blob/master/resources.md)
 - [jakearchibald/trained-to-thrill: Trains! Yey!](https://github.com/jakearchibald/trained-to-thrill)
