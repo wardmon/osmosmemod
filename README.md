@@ -1,3 +1,4 @@
+- [Background Sync with Service Workers](https://davidwalsh.name/background-sync)
 - [carmalou (carmalou) / Repositories](https://github.com/carmalou?page=2&tab=repositories)
 - [exploration-service-worker/3.0.background-sync at master · SebangsaHQ/exploration-service-worker](https://github.com/SebangsaHQ/exploration-service-worker/tree/master/3.0.background-sync)
 - [tjoskar/service-worker-exercises: Get started with Service Worker](https://github.com/tjoskar/service-worker-exercises)
