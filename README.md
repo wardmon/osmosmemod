@@ -1,3 +1,4 @@
+- [每日60s早报 - 云综合- 聚合API服务平台](https://api.03c3.cn/doc/1.html)
 - [zb (1280×4661)](https://api.03c3.cn/api/zb)
 - [云综合- 聚合API服务平台](https://api.03c3.cn/)
 - [Speech to Text Online Notepad. Free](https://speechnotes.co/dictate/)
