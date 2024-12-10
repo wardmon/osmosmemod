@@ -1,3 +1,4 @@
+- [Speech to Text Online Notepad. Free](https://speechnotes.co/dictate/)
 - [开源的命令行 GIF 生成工具-VHS – 开源派](http://osp.io/archives/7741)
 - [Best BrowserScan Fingerprint Detection Tool - Improve your online privacy security](https://www.browserscan.net)
 - [allinurl/goaccess: GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.](https://github.com/allinurl/goaccess)
