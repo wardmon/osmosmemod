@@ -1,3 +1,4 @@
+- [A-kirami/nonebot-plugin-moyu: nonebot2 摸鱼日历](https://github.com/A-kirami/nonebot-plugin-moyu)
 - [techotaku39/nonebot-plugin-60s: 每天60秒读懂世界](https://github.com/techotaku39/nonebot-plugin-60s)
 - [python获取公众号每日早报 - 冷筱宇的小窝-生活中的点滴](https://www.789dl.cn/84.html)
 - [每天60秒读懂世界 | 小竣博客](https://www.jun.la/60snews/)
