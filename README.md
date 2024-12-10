@@ -1,3 +1,4 @@
+- [jakearchibald/isserviceworkerready: Tracking the status of ServiceWorker in browsers](https://github.com/jakearchibald/isserviceworkerready)
 - [Angular - Getting started with service workers](https://angular.dev/ecosystem/service-workers/getting-started)
 - [Background Sync with Service Workers](https://davidwalsh.name/background-sync)
 - [carmalou (carmalou) / Repositories](https://github.com/carmalou?page=2&tab=repositories)
