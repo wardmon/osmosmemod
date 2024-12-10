@@ -1,3 +1,4 @@
+- [TalAter/awesome-service-workers: :nut_and_bolt: A collection of awesome resources for learning Service Workers](https://github.com/TalAter/awesome-service-workers)
 - [ServiceWorker/explainer.md at main · w3c/ServiceWorker](https://github.com/w3c/ServiceWorker/blob/main/explainer.md)
 - [ServiceWorker: A Basic Guide to BackgroundSync](https://ponyfoo.com/articles/backgroundsync)
 - [homam/service-workers-example: Almost any web page can work offline](https://github.com/homam/service-workers-example)
