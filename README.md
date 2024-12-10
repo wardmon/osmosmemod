@@ -1,3 +1,4 @@
+- [stloma/freud: TUI REST client to analyze API endpoints](https://github.com/stloma/freud)
 - [fportantier/habu: Hacking Toolkit](https://github.com/fportantier/habu)
 - [imomaliev/ptrepl: Run command as REPL with completion(based on prompt_toolkit)](https://github.com/imomaliev/ptrepl)
 - [python-prompt-toolkit/PROJECTS.rst at master · prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit/blob/master/PROJECTS.rst)
