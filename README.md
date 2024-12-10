@@ -1,3 +1,4 @@
+- [Python-prompt-toolkit: 为Python构建强大的交互式命令行应用的库](https://mp.weixin.qq.com/s?src=11&timestamp=1733799240&ver=5679&signature=82AsLbh6BtxFLmodHcjSEPZhYuhxW6Gj1m2*NfXv4Pexzbb3QgZD0sZ9oeotycmyiFkBQvNTJJOHwyrP4Us20JBWiTerQuVJQRv5dMrkv5EENLYQQ*WkHs1rEiweKujK&new=1)
 - [ALAPI](https://www.alapi.cn/)
 - [A-kirami/nonebot-plugin-moyu: nonebot2 摸鱼日历](https://github.com/A-kirami/nonebot-plugin-moyu)
 - [techotaku39/nonebot-plugin-60s: 每天60秒读懂世界](https://github.com/techotaku39/nonebot-plugin-60s)
