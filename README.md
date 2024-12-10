@@ -1,3 +1,4 @@
+- [ServiceWorker/explainer.md at main · w3c/ServiceWorker](https://github.com/w3c/ServiceWorker/blob/main/explainer.md)
 - [ServiceWorker: A Basic Guide to BackgroundSync](https://ponyfoo.com/articles/backgroundsync)
 - [homam/service-workers-example: Almost any web page can work offline](https://github.com/homam/service-workers-example)
 - [service-workers-example/resources.md at master · homam/service-workers-example · GitHub](https://kkgithub.com/homam/service-workers-example/blob/master/resources.md)
