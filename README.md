@@ -1,3 +1,4 @@
+- [Angular - Getting started with service workers](https://angular.dev/ecosystem/service-workers/getting-started)
 - [Background Sync with Service Workers](https://davidwalsh.name/background-sync)
 - [carmalou (carmalou) / Repositories](https://github.com/carmalou?page=2&tab=repositories)
 - [exploration-service-worker/3.0.background-sync at master · SebangsaHQ/exploration-service-worker](https://github.com/SebangsaHQ/exploration-service-worker/tree/master/3.0.background-sync)
