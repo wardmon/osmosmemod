@@ -1,3 +1,4 @@
+- [c-bata/go-prompt: Building powerful interactive prompts in Go, inspired by python-prompt-toolkit.](https://github.com/c-bata/go-prompt)
 - [joh6nn/shrepl: posix shell port of repl](https://github.com/joh6nn/shrepl)
 - [stloma/freud: TUI REST client to analyze API endpoints](https://github.com/stloma/freud)
 - [fportantier/habu: Hacking Toolkit](https://github.com/fportantier/habu)
