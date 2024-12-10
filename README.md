@@ -1,3 +1,4 @@
+- [The ABS programing language](https://www.abs-lang.org/playground/)
 - [chriswalz/bit: Bit is a modern Git CLI](https://github.com/chriswalz/bit)
 - [c-bata/go-prompt: Building powerful interactive prompts in Go, inspired by python-prompt-toolkit.](https://github.com/c-bata/go-prompt)
 - [joh6nn/shrepl: posix shell port of repl](https://github.com/joh6nn/shrepl)
