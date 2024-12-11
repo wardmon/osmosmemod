@@ -1,3 +1,4 @@
+- [一个CTF学习、项目、工具知识仓库​](https://mp.weixin.qq.com/s?src=11&timestamp=1733889823&ver=5681&signature=-egSO4QxjSoQRJobHwk-PuKwGlMdqqMbk*sTcXajgthgo78WuwCub86VPZEHOZRfsiTkOc0DXaSMc8EqqQ-HH*ZiCk7oJdwRLM7V6bFVOnRtOMCr8iZs4NKlmtGuz-1d&new=1)
 - [vitalysim/Awesome-Hacking-Resources: A collection of hacking / penetration testing resources to make you better!](https://github.com/vitalysim/Awesome-Hacking-Resources)
 - [30天渗透测试练习计划（2024 第一部分）](https://mp.weixin.qq.com/s/Tp5YytaZ0n2Ne2TWXQ-PlA)
 - [portable-rsync-with-ssh-for-windows/bin at master · small-tech/portable-rsync-with-ssh-for-windows](https://github.com/small-tech/portable-rsync-with-ssh-for-windows/tree/master/bin)
