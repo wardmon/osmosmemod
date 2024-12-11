@@ -1,3 +1,4 @@
+- [30天渗透测试练习计划（2024 第一部分）](https://mp.weixin.qq.com/s/Tp5YytaZ0n2Ne2TWXQ-PlA)
 - [portable-rsync-with-ssh-for-windows/bin at master · small-tech/portable-rsync-with-ssh-for-windows](https://github.com/small-tech/portable-rsync-with-ssh-for-windows/tree/master/bin)
 - [cygwin/cygwin-install-action: GitHub action to install Cygwin](https://github.com/cygwin/cygwin-install-action)
 - [microemacs/.github/workflows/cygwin.yml at master · mittelmark/microemacs](https://github.com/mittelmark/microemacs/blob/master/.github/workflows/cygwin.yml)
