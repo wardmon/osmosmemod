@@ -1,3 +1,4 @@
+- [LeaVerou/multirange: A tiny polyfill for HTML5 multi-handle sliders](https://github.com/LeaVerou/multirange)
 - [Multirange: A tiny polyfill for HTML5 multi-handle sliders.](https://projects.verou.me/multirange/)
 - [Named Colours and their equivalents](https://codepo8.github.io/named-css-colours-dataset/)
 - [LeaVerou/markapp: Building apps by authoring HTML](https://github.com/LeaVerou/markapp)
