@@ -1,3 +1,4 @@
+- [stefanjudis/tiny-helpers: A collection of useful online web development tools](https://github.com/stefanjudis/tiny-helpers)
 - [phuocng/1loc: What's your favorite JavaScript single LOC (line of code)?](https://github.com/phuocng/1loc)
 - [MicrosoftDocs/edge-developer: Developer documentation for Edge.](https://github.com/MicrosoftDocs/edge-developer)
 - [captainbrosset/devtools-tips: A collection of useful cross-browser DevTools tips](https://github.com/captainbrosset/devtools-tips)
