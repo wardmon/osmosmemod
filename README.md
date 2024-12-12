@@ -1,3 +1,4 @@
+- [chazkii/chromewhip: Scriptable Google Chrome™ as a HTTP service + asyncio driver](https://github.com/chazkii/chromewhip)
 - [scrapinghub/splash: Lightweight, scriptable browser as a service with an HTTP API](https://github.com/scrapinghub/splash)
 - [splash/docs/kernel.rst at 6dc78f592ca2234997135c084c6bddab5303f9aa · scrapinghub/splash](https://github.com/scrapinghub/splash/blob/6dc78f592ca2234997135c084c6bddab5303f9aa/docs/api.rst#id28)
 - [splash/docs/kernel.rst at 6dc78f592ca2234997135c084c6bddab5303f9aa · scrapinghub/splash](https://github.com/scrapinghub/splash/blob/6dc78f592ca2234997135c084c6bddab5303f9aa/docs/kernel.rst)
