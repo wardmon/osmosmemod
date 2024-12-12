@@ -1,3 +1,4 @@
+- [pwa-builder/PWABuilder-CLI: Node.js tool for App Generation](https://github.com/pwa-builder/PWABuilder-CLI)
 - [pwa-builder/pwabuilder-lib: PWABuilder Core Library](https://github.com/pwa-builder/pwabuilder-lib)
 - [codepo8/TheJSQuiz: Test your JavaScript skills with this interactive quiz!](https://github.com/codepo8/TheJSQuiz)
 - [Making A Simple Site Work Offline With ServiceWorker | CSS-Tricks](https://css-tricks.com/serviceworker-for-offline/)
