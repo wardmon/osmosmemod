@@ -1,3 +1,4 @@
+- [cyrus-and/chrome-remote-interface: Chrome Debugging Protocol interface for Node.js](https://github.com/cyrus-and/chrome-remote-interface)
 - [Dear Console,… - a collection of code snippets to use in the browser console](https://codepo8.github.io/dearconsole/)
 - [littlejiancc/chromedpdemo: chromedp爬取微信公众号](https://github.com/littlejiancc/chromedpdemo)
 - [GitHub - jxhczhl/JsRpc: 远程调用(rpc)浏览器方法，免去抠代码补环境](https://kkgithub.com/jxhczhl/JsRpc)
