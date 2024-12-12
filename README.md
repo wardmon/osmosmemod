@@ -1,3 +1,4 @@
+- [codepo8/details-summary-github-pages: A GitHub Pages HTML include that allows you to use details/summary to collapse and expand sections](https://github.com/codepo8/details-summary-github-pages)
 - [codepo8/github-page-pwa: A template to offer GitHub pages as a PWA with offline functionality](https://github.com/codepo8/github-page-pwa)
 - [11111111111 aprilahijriyan/cidipi: Low-level client for interacting with Chrome Devtools Protocol (CDP) for Python.](https://github.com/aprilahijriyan/cidipi)
 - [codepo8/dearconsole: A collection of snippets to use in the browser console](https://github.com/codepo8/dearconsole)
