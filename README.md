@@ -1,3 +1,4 @@
+- [codepo8/github-page-pwa: A template to offer GitHub pages as a PWA with offline functionality](https://github.com/codepo8/github-page-pwa)
 - [11111111111 aprilahijriyan/cidipi: Low-level client for interacting with Chrome Devtools Protocol (CDP) for Python.](https://github.com/aprilahijriyan/cidipi)
 - [codepo8/dearconsole: A collection of snippets to use in the browser console](https://github.com/codepo8/dearconsole)
 - [edge-developer/microsoft-edge/devtools-protocol-chromium/index.md at main · MicrosoftDocs/edge-developer](https://github.com/MicrosoftDocs/edge-developer/blob/main/microsoft-edge/devtools-protocol-chromium/index.md)
