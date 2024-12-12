@@ -1,3 +1,4 @@
+- [sachinchoolur/lightgallery-desktop: A modern, electron and nodejs based image viewer for Mac, Windows and Linux.](https://github.com/sachinchoolur/lightgallery-desktop)
 - [LeaVerou/multirange: A tiny polyfill for HTML5 multi-handle sliders](https://github.com/LeaVerou/multirange)
 - [Multirange: A tiny polyfill for HTML5 multi-handle sliders.](https://projects.verou.me/multirange/)
 - [Named Colours and their equivalents](https://codepo8.github.io/named-css-colours-dataset/)
