@@ -1,3 +1,4 @@
+- [aiocdp: 是一个用于异步处理CDP（Chrome DevTools Protocol）请求的Python库](https://mp.weixin.qq.com/s/_6faFsmzR8DbEG3D0UlSQw)
 - [How to debug mobile websites on Android devices with Inspect - Inspect Documentation](https://docs.inspect.dev/guides/android)
 - [cyrus-and/chrome-remote-interface: Chrome Debugging Protocol interface for Node.js](https://github.com/cyrus-and/chrome-remote-interface)
 - [cyrus-and/chrome-remote-interface: Chrome Debugging Protocol interface for Node.js](https://github.com/cyrus-and/chrome-remote-interface)
