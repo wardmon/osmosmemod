@@ -1,3 +1,4 @@
+- [davrous/BingTTSClientJSLib: JavaScript library to call Bing Text-To-Speech API](https://github.com/davrous/BingTTSClientJSLib)
 - [Home / PWABuilder](https://www.pwabuilder.com/)
 - [pwa-builder/PWABuilder-CLI: Node.js tool for App Generation](https://github.com/pwa-builder/PWABuilder-CLI)
 - [pwa-builder/pwabuilder-lib: PWABuilder Core Library](https://github.com/pwa-builder/pwabuilder-lib)
