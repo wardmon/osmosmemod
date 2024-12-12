@@ -1,3 +1,4 @@
+- [codepo8/github-toggle: A bookmarklet to toggle between Repo and GitHub pages](https://github.com/codepo8/github-toggle)
 - [GitHub Toggle](https://codepo8.github.io/github-toggle/)
 - [stefanjudis/tiny-helpers: A collection of useful online web development tools](https://github.com/stefanjudis/tiny-helpers)
 - [phuocng/1loc: What's your favorite JavaScript single LOC (line of code)?](https://github.com/phuocng/1loc)
