@@ -1,3 +1,4 @@
+- [littlejiancc/chromedpdemo: chromedp爬取微信公众号](https://github.com/littlejiancc/chromedpdemo)
 - [GitHub - jxhczhl/JsRpc: 远程调用(rpc)浏览器方法，免去抠代码补环境](https://kkgithub.com/jxhczhl/JsRpc)
 - [SwanHub - 创新的AI开源社区](https://swanhub.co/)
 - [Python黑客攻防（七）运用sqlmap对sqli-labs进行SQL注入_用sqlmap做sqlilabs-CSDN博客](https://blog.csdn.net/qq_43681532/article/details/107375442)
