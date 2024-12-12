@@ -1,3 +1,4 @@
+- [11111111111 aprilahijriyan/cidipi: Low-level client for interacting with Chrome Devtools Protocol (CDP) for Python.](https://github.com/aprilahijriyan/cidipi)
 - [codepo8/dearconsole: A collection of snippets to use in the browser console](https://github.com/codepo8/dearconsole)
 - [edge-developer/microsoft-edge/devtools-protocol-chromium/index.md at main · MicrosoftDocs/edge-developer](https://github.com/MicrosoftDocs/edge-developer/blob/main/microsoft-edge/devtools-protocol-chromium/index.md)
 - [Cannot attach to default Edge with DevTools Protocol but Chrome can](https://answers.microsoft.com/en-us/microsoftedge/forum/all/cannot-attach-to-default-edge-with-devtools/f401a689-a64f-4ffa-8b0b-6fa1b918fb86)
