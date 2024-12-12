@@ -1,3 +1,4 @@
+- [captainbrosset/devtools-tips: A collection of useful cross-browser DevTools tips](https://github.com/captainbrosset/devtools-tips)
 - [bgrins/devtools-snippets: A collection of helpful snippets to use inside of browser devtools](https://github.com/bgrins/devtools-snippets)
 - [Microsoft Edge Demos](https://microsoftedge.github.io/Demos/)
 - [codepo8/details-summary-github-pages: A GitHub Pages HTML include that allows you to use details/summary to collapse and expand sections](https://github.com/codepo8/details-summary-github-pages)
