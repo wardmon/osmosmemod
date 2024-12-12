@@ -1,3 +1,4 @@
+- [phuocng/1loc: What's your favorite JavaScript single LOC (line of code)?](https://github.com/phuocng/1loc)
 - [MicrosoftDocs/edge-developer: Developer documentation for Edge.](https://github.com/MicrosoftDocs/edge-developer)
 - [captainbrosset/devtools-tips: A collection of useful cross-browser DevTools tips](https://github.com/captainbrosset/devtools-tips)
 - [bgrins/devtools-snippets: A collection of helpful snippets to use inside of browser devtools](https://github.com/bgrins/devtools-snippets)
