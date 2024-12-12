@@ -1,3 +1,4 @@
+- [getify/featuretests.io: JavaScript Feature Tests... as a service](https://github.com/getify/featuretests.io)
 - [MicrosoftDX/Vorlonjs: A new, open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript. Powered by node.js and socket.io](https://github.com/MicrosoftDX/Vorlonjs)
 - [jaredreich/notie: 🔔 a clean and simple notification, input, and selection suite for javascript, with no dependencies](https://github.com/jaredreich/notie)
 - [sachinchoolur/lightgallery-desktop: A modern, electron and nodejs based image viewer for Mac, Windows and Linux.](https://github.com/sachinchoolur/lightgallery-desktop)
