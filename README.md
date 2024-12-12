@@ -1,3 +1,4 @@
+- [jaredreich/notie: 🔔 a clean and simple notification, input, and selection suite for javascript, with no dependencies](https://github.com/jaredreich/notie)
 - [sachinchoolur/lightgallery-desktop: A modern, electron and nodejs based image viewer for Mac, Windows and Linux.](https://github.com/sachinchoolur/lightgallery-desktop)
 - [LeaVerou/multirange: A tiny polyfill for HTML5 multi-handle sliders](https://github.com/LeaVerou/multirange)
 - [Multirange: A tiny polyfill for HTML5 multi-handle sliders.](https://projects.verou.me/multirange/)
