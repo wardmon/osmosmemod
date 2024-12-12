@@ -1,3 +1,4 @@
+- [How to debug mobile websites on Android devices with Inspect - Inspect Documentation](https://docs.inspect.dev/guides/android)
 - [cyrus-and/chrome-remote-interface: Chrome Debugging Protocol interface for Node.js](https://github.com/cyrus-and/chrome-remote-interface)
 - [cyrus-and/chrome-remote-interface: Chrome Debugging Protocol interface for Node.js](https://github.com/cyrus-and/chrome-remote-interface)
 - [Dear Console,… - a collection of code snippets to use in the browser console](https://codepo8.github.io/dearconsole/)
