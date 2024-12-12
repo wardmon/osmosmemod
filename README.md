@@ -1,3 +1,4 @@
+- [Cannot attach to default Edge with DevTools Protocol but Chrome can](https://answers.microsoft.com/en-us/microsoftedge/forum/all/cannot-attach-to-default-edge-with-devtools/f401a689-a64f-4ffa-8b0b-6fa1b918fb86)
 - [创建 DevTools 扩展，添加自定义工具选项卡和面板 - Microsoft Edge Developer documentation](https://learn.microsoft.com/zh-cn/microsoft-edge/extensions-chromium/developer-guide/devtools-extension)
 - [cyrus-and/chrome-remote-interface: Chrome Debugging Protocol interface for Node.js](https://github.com/cyrus-and/chrome-remote-interface)
 - [chazkii/chromewhip: Scriptable Google Chrome™ as a HTTP service + asyncio driver](https://github.com/chazkii/chromewhip)
