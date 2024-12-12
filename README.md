@@ -1,3 +1,4 @@
+- [codepo8/TheJSQuiz: Test your JavaScript skills with this interactive quiz!](https://github.com/codepo8/TheJSQuiz)
 - [Making A Simple Site Work Offline With ServiceWorker | CSS-Tricks](https://css-tricks.com/serviceworker-for-offline/)
 - [chriscoyier/Simple-Offline-Site](https://github.com/chriscoyier/Simple-Offline-Site)
 - [codepo8/github-toggle: A bookmarklet to toggle between Repo and GitHub pages](https://github.com/codepo8/github-toggle)
