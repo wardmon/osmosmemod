@@ -1,3 +1,4 @@
+- [深入浅出 CDP (Chrome DevTools Protocol)](https://mp.weixin.qq.com/s/ZU7bBNT823Gq-TikQ98vbQ)
 - [Quick Start - ichrome](https://clericpy.github.io/ichrome/quickstart/)
 - [cdp 远程调试方案](https://mp.weixin.qq.com/s/32CRaeZUvYtV5J37VajWUw)
 - [111111111111111 wanwu/devtools-pro: A web remote debugging tools, based on Chrome DevTools](https://github.com/wanwu/devtools-pro)
