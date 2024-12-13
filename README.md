@@ -1,3 +1,4 @@
+- [cdp 远程调试方案](https://mp.weixin.qq.com/s/32CRaeZUvYtV5J37VajWUw)
 - [111111111111111 wanwu/devtools-pro: A web remote debugging tools, based on Chrome DevTools](https://github.com/wanwu/devtools-pro)
 - [sadnoodles/chromeremote: A tool for Chrome remote dev debugging.](https://github.com/sadnoodles/chromeremote)
 - [minektur/chrome_remote_shell](https://github.com/minektur/chrome_remote_shell)
