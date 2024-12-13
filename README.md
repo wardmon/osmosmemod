@@ -1,3 +1,4 @@
+- [ClericPy/ichrome: Chrome controller for Humans, based on Chrome Devtools Protocol(CDP) and python3.7+.](https://github.com/ClericPy/ichrome)
 - [深入浅出 CDP (Chrome DevTools Protocol)](https://mp.weixin.qq.com/s/ZU7bBNT823Gq-TikQ98vbQ)
 - [Quick Start - ichrome](https://clericpy.github.io/ichrome/quickstart/)
 - [cdp 远程调试方案](https://mp.weixin.qq.com/s/32CRaeZUvYtV5J37VajWUw)
