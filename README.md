@@ -1,3 +1,4 @@
+- [py-jsrpc/client.js at main · sixgad/py-jsrpc · GitHub](https://kkgithub.com/sixgad/py-jsrpc/blob/main/client.js)
 - [python开发jsrpc服务与演示](https://paker.net.cn/blog/33-%E5%AE%9E%E6%88%98%EF%BC%9Apython%E5%BC%80%E5%8F%91jsrpc%E6%9C%8D%E5%8A%A1%E4%B8%8E%E6%BC%94%E7%A4%BA/article.html)
 - [ClericPy/ichrome: Chrome controller for Humans, based on Chrome Devtools Protocol(CDP) and python3.7+.](https://github.com/ClericPy/ichrome)
 - [深入浅出 CDP (Chrome DevTools Protocol)](https://mp.weixin.qq.com/s/ZU7bBNT823Gq-TikQ98vbQ)
