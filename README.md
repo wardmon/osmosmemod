@@ -1,3 +1,4 @@
+- [gmarik/cdp-proxy: cdp-proxy is a mitm style HTTP proxy and middleware leveraging Chrome DevTools for UI, written in Go.](https://github.com/gmarik/cdp-proxy)
 - [bashi/cdp: A Chrome DevTools Protocol client](https://github.com/bashi/cdp)
 - [Cdp-proxy: Chrome DevTools proxy and middleware for Go](https://www.gmarik.info/blog/2019/cdp-proxy-chrome-devtools-proxy-middleware-golang/)
 - [JsRpcEX/main.py at main · Y5neKO/JsRpcEX](https://github.com/Y5neKO/JsRpcEX/blob/main/main.py)
