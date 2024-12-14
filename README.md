@@ -1,3 +1,4 @@
+- [JsRpcEX/main.py at main · Y5neKO/JsRpcEX](https://github.com/Y5neKO/JsRpcEX/blob/main/main.py)
 - [JSRPC/rpc.js at main · 71n9/JSRPC · GitHub](https://kkgithub.com/71n9/JSRPC/blob/main/rpc.js)
 - [How to inject JavaScript using JavaScript](https://www.hilson.io/blog/injecting-js-using-js/)
 - [py-jsrpc/client.js at main · sixgad/py-jsrpc · GitHub](https://kkgithub.com/sixgad/py-jsrpc/blob/main/client.js)
