@@ -1,3 +1,4 @@
+- [Cdp-proxy: Chrome DevTools proxy and middleware for Go](https://www.gmarik.info/blog/2019/cdp-proxy-chrome-devtools-proxy-middleware-golang/)
 - [JsRpcEX/main.py at main · Y5neKO/JsRpcEX](https://github.com/Y5neKO/JsRpcEX/blob/main/main.py)
 - [JSRPC/rpc.js at main · 71n9/JSRPC · GitHub](https://kkgithub.com/71n9/JSRPC/blob/main/rpc.js)
 - [How to inject JavaScript using JavaScript](https://www.hilson.io/blog/injecting-js-using-js/)
