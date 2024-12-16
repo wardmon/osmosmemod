@@ -1,3 +1,4 @@
+- [GitHub - jsoverson/jsconsole: JavaScript console/repl styled after chrome devtools.](https://kkgithub.com/jsoverson/jsconsole)
 - [利用远程调试获取Chromium内核浏览器Cookie-CSDN博客](https://blog.csdn.net/qq_38154820/article/details/131693226)
 - [websocat/moreexamples.md at master · vi/websocat](https://github.com/vi/websocat/blob/master/moreexamples.md)
 - [一个可用来调试weboscket的命令行工具](https://mp.weixin.qq.com/s/R6e9JWp6GTDDbgStGtDNdg)
