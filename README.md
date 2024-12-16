@@ -1,3 +1,4 @@
+- [[Web远程wsshd]CentOS6.4搭建配置wssh - 谢佳东/馨予希 - 博客园](https://www.cnblogs.com/Richard-xie/p/3504941.html)
 - [Getting started](https://websockets.readthedocs.io/en/stable/intro/index.html)
 - [aluzzardi/wssh: SSH to WebSockets Bridge](https://github.com/aluzzardi/wssh)
 - [przor3n/ChromeCommandLinePilot: Chrome extension, websocket server and client that allow controlling chrome tabs from command line or vim or whatever editor you use](https://github.com/przor3n/ChromeCommandLinePilot)
