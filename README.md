@@ -1,3 +1,4 @@
+- [imofftoseethewizard/Chromed: A Websocket-based backdoor into Chrome and Chromium browsers](https://github.com/imofftoseethewizard/Chromed)
 - [thlorenz/chromium-remote-debugging-proxy: A proxy that sits in between a chromium devtools frontend and the remote chromium being debugged and logs requests, responses and websocket messages that are exchanged.](https://github.com/thlorenz/chromium-remote-debugging-proxy)
 - [vConsole/doc/tutorial.md at dev · Tencent/vConsole](https://github.com/Tencent/vConsole/blob/dev/doc/tutorial.md)
 - [Tencent/vConsole: A lightweight, extendable front-end developer tool for mobile web page.](https://github.com/Tencent/vConsole)
