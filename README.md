@@ -1,3 +1,4 @@
+- [一个可用来调试weboscket的命令行工具](https://mp.weixin.qq.com/s/R6e9JWp6GTDDbgStGtDNdg)
 - [vi/websocat: Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions](https://github.com/vi/websocat)
 - [bayandin/devtools-proxy: Multiplexing proxy for Chrome DevTools. Fully compatible with Selenium and ChromeDriver](https://github.com/bayandin/devtools-proxy)
 - [ichrome](https://clericpy.github.io/ichrome/)
