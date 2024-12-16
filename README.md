@@ -1,3 +1,4 @@
+- [przor3n/ChromeCommandLinePilot: Chrome extension, websocket server and client that allow controlling chrome tabs from command line or vim or whatever editor you use](https://github.com/przor3n/ChromeCommandLinePilot)
 - [dmorgan81/chrome-websocket-server](https://github.com/dmorgan81/chrome-websocket-server)
 - [imofftoseethewizard/Chromed: A Websocket-based backdoor into Chrome and Chromium browsers](https://github.com/imofftoseethewizard/Chromed)
 - [thlorenz/chromium-remote-debugging-proxy: A proxy that sits in between a chromium devtools frontend and the remote chromium being debugged and logs requests, responses and websocket messages that are exchanged.](https://github.com/thlorenz/chromium-remote-debugging-proxy)
