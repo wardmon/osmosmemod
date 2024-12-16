@@ -1,3 +1,4 @@
+- [przor3n/ChromeCommandLinePilot: Chrome extension, websocket server and client that allow controlling chrome tabs from command line or vim or whatever editor you use](https://github.com/przor3n/ChromeCommandLinePilot)
 - [lchi/freshy-server: A page refresh tool for web developers.  This project runs the server side, which sends notifications to browsers via a websocket.  See https://github.com/lchi/freshy-chrome-extension for the Chrome extension.](https://github.com/lchi/freshy-server)
 - [GoogleChrome/chrome-extensions-samples: Chrome Extensions Samples](https://github.com/GoogleChrome/chrome-extensions-samples)
 - [przor3n/ChromeCommandLinePilot: Chrome extension, websocket server and client that allow controlling chrome tabs from command line or vim or whatever editor you use](https://github.com/przor3n/ChromeCommandLinePilot)
