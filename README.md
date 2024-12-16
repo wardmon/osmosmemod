@@ -1,3 +1,4 @@
+- [GoogleChrome/chrome-extensions-samples: Chrome Extensions Samples](https://github.com/GoogleChrome/chrome-extensions-samples)
 - [przor3n/ChromeCommandLinePilot: Chrome extension, websocket server and client that allow controlling chrome tabs from command line or vim or whatever editor you use](https://github.com/przor3n/ChromeCommandLinePilot)
 - [dmorgan81/chrome-websocket-server](https://github.com/dmorgan81/chrome-websocket-server)
 - [imofftoseethewizard/Chromed: A Websocket-based backdoor into Chrome and Chromium browsers](https://github.com/imofftoseethewizard/Chromed)
