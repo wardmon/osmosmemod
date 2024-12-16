@@ -1,3 +1,4 @@
+- [vi/websocat: Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions](https://github.com/vi/websocat)
 - [bayandin/devtools-proxy: Multiplexing proxy for Chrome DevTools. Fully compatible with Selenium and ChromeDriver](https://github.com/bayandin/devtools-proxy)
 - [ichrome](https://clericpy.github.io/ichrome/)
 - [gmarik/cdp-proxy: cdp-proxy is a mitm style HTTP proxy and middleware leveraging Chrome DevTools for UI, written in Go.](https://github.com/gmarik/cdp-proxy)
