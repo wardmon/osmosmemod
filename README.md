@@ -1,3 +1,4 @@
+- [Developer-SSL-Certificates/MacOS at master · PatrickKalkman/Developer-SSL-Certificates](https://github.com/PatrickKalkman/Developer-SSL-Certificates/blob/master/MacOS/generate-cert.sh)
 - [解决 https 证书续签烦恼——自签证书及信任自签 CA 完整攻略_软件应用_什么值得买](https://post.smzdm.com/p/admdzd9d/)
 - [CA签发证书与Nginx配置Https证书 - 羊37 - 博客园](https://www.cnblogs.com/yang37/p/17942749)
 - [SSL中，公钥、私钥、证书(pem、crt、cer、key、csr)的后缀名都是些啥？_ssl key cert-CSDN博客](https://blog.csdn.net/hd243608836/article/details/127441701)
