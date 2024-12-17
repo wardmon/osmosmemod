@@ -1,3 +1,4 @@
+- [docker启动nginx的ssl配置 - 王者归来！ - 博客园](https://www.cnblogs.com/mingweiyard/p/11535286.html)
 - [GitHub - deadelus/docker-https-local-server: Dockerized local server with ssl, nginx and mysql](https://kkgithub.com/deadelus/docker-https-local-server)
 - [Developer-SSL-Certificates/MacOS at master · PatrickKalkman/Developer-SSL-Certificates](https://github.com/PatrickKalkman/Developer-SSL-Certificates/blob/master/MacOS/generate-cert.sh)
 - [解决 https 证书续签烦恼——自签证书及信任自签 CA 完整攻略_软件应用_什么值得买](https://post.smzdm.com/p/admdzd9d/)
