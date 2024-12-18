@@ -1,3 +1,4 @@
+- [通过 Python + Chrome cURL 重放 HTTP 请求 - Clericpy's Blog](https://clericpy.github.io/blog/posts/20191024220923/)
 - [Clericpy's Blog](https://clericpy.github.io/blog/)
 - [morebuiltins/doc.md at master · ClericPy/morebuiltins](https://github.com/ClericPy/morebuiltins/blob/master/doc.md)
 - [docker启动nginx的ssl配置 - 王者归来！ - 博客园](https://www.cnblogs.com/mingweiyard/p/11535286.html)
