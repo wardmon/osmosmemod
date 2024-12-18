@@ -1,3 +1,4 @@
+- [探索Python应用分发的新利器：Shiv_shiv 使用-CSDN博客](https://blog.csdn.net/east196/article/details/143947239)
 - [ClericPy/shiv-package-tutorial: Show how to shiv your product into one-file for distribution. Deprecated, use zipapps instead](https://github.com/ClericPy/shiv-package-tutorial)
 - [ClericPy/newspaper: Python Newspaper Timeline](https://github.com/ClericPy/newspaper)
 - [spyoungtech/ahk: Python wrapper for AutoHotkey with full type support. Harness the automation power of AutoHotkey with the beauty of Python.](https://github.com/spyoungtech/ahk)
