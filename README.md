@@ -1,3 +1,4 @@
+- [FAQ — Splash 3.5 documentation](https://splash.readthedocs.io/en/stable/faq.html)
 - [Splash and Jupyter — Splash 3.5 documentation](https://splash.readthedocs.io/en/stable/kernel.html)
 - [minektur/chrome_remote_shell](https://github.com/minektur/chrome_remote_shell)
 - [Python学习笔记-Zipapp打包可执行文件 - Jruing - 博客园](https://www.cnblogs.com/jruing/p/18542249)
