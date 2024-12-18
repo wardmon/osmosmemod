@@ -1,3 +1,4 @@
+- [chazkii/chromewhip: Scriptable Google Chrome™ as a HTTP service + asyncio driver](https://github.com/chazkii/chromewhip)
 - [FAQ — Splash 3.5 documentation](https://splash.readthedocs.io/en/stable/faq.html)
 - [Splash and Jupyter — Splash 3.5 documentation](https://splash.readthedocs.io/en/stable/kernel.html)
 - [minektur/chrome_remote_shell](https://github.com/minektur/chrome_remote_shell)
