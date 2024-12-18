@@ -1,3 +1,4 @@
+- [ClericPy/shiv-package-tutorial: Show how to shiv your product into one-file for distribution. Deprecated, use zipapps instead](https://github.com/ClericPy/shiv-package-tutorial)
 - [ClericPy/newspaper: Python Newspaper Timeline](https://github.com/ClericPy/newspaper)
 - [spyoungtech/ahk: Python wrapper for AutoHotkey with full type support. Harness the automation power of AutoHotkey with the beauty of Python.](https://github.com/spyoungtech/ahk)
 - [ClericPy/Autohotkey-to-Python: run autohotkey code in python with autohotkey.dll](https://github.com/ClericPy/Autohotkey-to-Python)
