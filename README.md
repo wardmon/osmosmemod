@@ -1,3 +1,4 @@
+- [【网站自荐】在浏览器里共享自己的屏幕给朋友！无需下载，非常好用 · Issue #5657 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5657)
 - [Understanding Concurrency, Parallelism and JS |
 rugu](https://www.rugu.dev/en/blog/concurrency-and-parallelism/)
 - [D2 Playground](https://play.d2lang.com)
