@@ -1,3 +1,4 @@
+- [How Bash completion works](https://tuzz.tech/blog/how-bash-completion-works)
 - [https://hoanhan.co/2-minute-rule](https://hoanhan.co/2-minute-rule)
 - [https://blog.alispit.tel/create-a-git-diff-in-markdown/](https://blog.alispit.tel/create-a-git-diff-in-markdown/)
 - [GitHub Weekly](https://iohub.inshub.cn/#/)
