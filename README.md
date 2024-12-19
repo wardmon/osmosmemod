@@ -1,3 +1,4 @@
+- [m31coding/fuzzy-search: A fast, accurate and multilingual fuzzy search library for the frontend.](https://github.com/m31coding/fuzzy-search)
 - [dvcoolarun/web2pdf: 🔄 CLI to convert Webpages to PDFs 🚀](https://github.com/dvcoolarun/web2pdf)
 - [https://www.ytpics.com/](https://www.ytpics.com/)
 - [【开源自荐】PMAtron - 让结合现代技术的 phpMyAdmin 化身为你的mysql数据管理利器 · Issue #5666 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5666)
