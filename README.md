@@ -1,3 +1,4 @@
+- [Hijacking HTML canvas and PNG images to store arbitrary text data     | Igor Kromin](https://www.igorkromin.net/index.php/2018/09/06/hijacking-html-canvas-and-png-images-to-store-arbitrary-text-data/)
 - [idealo/imagededup: 😎 Finding duplicate images made easy!](https://github.com/idealo/imagededup)
 - [Crontab.guru - The cron schedule expression generator](https://crontab.guru/)
 - [Converting callbacks to promises | Zell Liew](https://zellwk.com/blog/converting-callbacks-to-promises/)
