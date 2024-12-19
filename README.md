@@ -1,3 +1,4 @@
+- [Crontab.guru - The cron schedule expression generator](https://crontab.guru/)
 - [Converting callbacks to promises | Zell Liew](https://zellwk.com/blog/converting-callbacks-to-promises/)
 - [How Bash completion works](https://tuzz.tech/blog/how-bash-completion-works)
 - [https://hoanhan.co/2-minute-rule](https://hoanhan.co/2-minute-rule)
