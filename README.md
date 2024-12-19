@@ -1,3 +1,4 @@
+- [GitHub - tecladocode/rest-apis-flask-python: Projects and e-book for our course, REST APIs with Flask and Python](https://kkgithub.com/tecladocode/rest-apis-flask-python)
 - [mdibaiee/awesome-lite-websites: A list of awesome lightweight websites without all the bloat](https://github.com/mdibaiee/awesome-lite-websites)
 - [Redirect Detective - Discover where those redirects really go to](https://redirectdetective.com/)
 - [Hijacking HTML canvas and PNG images to store arbitrary text data     | Igor Kromin](https://www.igorkromin.net/index.php/2018/09/06/hijacking-html-canvas-and-png-images-to-store-arbitrary-text-data/)
