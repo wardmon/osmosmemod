@@ -1,3 +1,4 @@
+- [https://blog.alispit.tel/create-a-git-diff-in-markdown/](https://blog.alispit.tel/create-a-git-diff-in-markdown/)
 - [GitHub Weekly](https://iohub.inshub.cn/#/)
 - [【开源推荐】一个分享开源产品，想法的网站。 · Issue #5701 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5701)
 - [【网站自荐】面向英语学习者的新闻分级阅读网站 · Issue #5699 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5699)
