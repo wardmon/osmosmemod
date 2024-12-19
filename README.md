@@ -1,3 +1,4 @@
+- [https://hoanhan.co/2-minute-rule](https://hoanhan.co/2-minute-rule)
 - [https://blog.alispit.tel/create-a-git-diff-in-markdown/](https://blog.alispit.tel/create-a-git-diff-in-markdown/)
 - [GitHub Weekly](https://iohub.inshub.cn/#/)
 - [【开源推荐】一个分享开源产品，想法的网站。 · Issue #5701 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5701)
