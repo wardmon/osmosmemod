@@ -1,3 +1,4 @@
+- [【网站自荐】面向英语学习者的新闻分级阅读网站 · Issue #5699 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5699)
 - [m31coding/fuzzy-search: A fast, accurate and multilingual fuzzy search library for the frontend.](https://github.com/m31coding/fuzzy-search)
 - [dvcoolarun/web2pdf: 🔄 CLI to convert Webpages to PDFs 🚀](https://github.com/dvcoolarun/web2pdf)
 - [https://www.ytpics.com/](https://www.ytpics.com/)
