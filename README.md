@@ -1,3 +1,4 @@
+- [idealo/imagededup: 😎 Finding duplicate images made easy!](https://github.com/idealo/imagededup)
 - [Crontab.guru - The cron schedule expression generator](https://crontab.guru/)
 - [Converting callbacks to promises | Zell Liew](https://zellwk.com/blog/converting-callbacks-to-promises/)
 - [How Bash completion works](https://tuzz.tech/blog/how-bash-completion-works)
