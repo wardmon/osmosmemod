@@ -1,3 +1,4 @@
+- [ml-tooling/best-of-jupyter: 🏆 A ranked list of awesome Jupyter Notebook, Hub and Lab projects (extensions, kernels, tools). Updated weekly.](https://github.com/ml-tooling/best-of-jupyter)
 - [best-of-lists/best-of: 🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.](https://github.com/best-of-lists/best-of)
 - [man-group/PyBloqs: A flexible framework for visualizing data and automated creation of reports.](https://github.com/man-group/PyBloqs)
 - [GitHub - tecladocode/rest-apis-flask-python: Projects and e-book for our course, REST APIs with Flask and Python](https://kkgithub.com/tecladocode/rest-apis-flask-python)
