@@ -1,3 +1,4 @@
+- [PageSpy](https://pagespy.jikejishu.com/#/devtools?address=aec89720-14e2-4f80-80a4-166ec1fcb45e.local#Page)
 - [index.html - nodebox - CodeSandbox](https://codesandbox.io/p/sandbox/page-spy-with-react-k3pzzt?file=%2Fpublic%2Findex.html)
 - [HuolalaTech/page-spy-web: Debug remotely and easily like chrome devtools.](https://github.com/HuolalaTech/page-spy-web)
 - [grafana/xk6-browser: The browser module adds support for browser automation and end-to-end web testing via the Chrome Devtools Protocol to k6.](https://github.com/grafana/xk6-browser)
