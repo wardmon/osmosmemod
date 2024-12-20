@@ -1,3 +1,4 @@
+- [leonardomso/33-js-concepts: 📜 33 JavaScript concepts every developer should know.](https://github.com/leonardomso/33-js-concepts)
 - [WebPerl](https://webperl.zero-g.net/)
 - [imgproxy/imgproxy: Fast and secure standalone server for resizing and converting remote images](https://github.com/imgproxy/imgproxy)
 - [[第 82 期] ZZKIA: 诺基亚短信图片生成器 · Issue #897 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/897)
