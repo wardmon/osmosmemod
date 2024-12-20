@@ -1,3 +1,4 @@
+- [What benefit do we get by thinking of objects as "sending messages to each other"?](https://softwareengineering.stackexchange.com/questions/417896/what-benefit-do-we-get-by-thinking-of-objects-as-sending-messages-to-each-other)
 - [Customizing pandoc to generate beautiful pdf and epub from markdown](https://learnbyexample.github.io/customizing-pandoc/)
 - [learnbyexample - Overview](https://github.com/learnbyexample)
 - [Hika AI - Free AI Knowledge Search](https://hika.fyi/search?topic_id=d568c491d31f4c4fac290fdd1e1056ab)
