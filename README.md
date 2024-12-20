@@ -1,3 +1,4 @@
+- [Hika AI - Free AI Knowledge Search](https://hika.fyi/search?topic_id=d568c491d31f4c4fac290fdd1e1056ab)
 - [颜色代码表 - 专业的在线颜色代码转换配色工具网站](https://www.ysdaima.com/)
 - [gsidhu/buzee-tauri: A superfast full-text search application](https://github.com/gsidhu/buzee-tauri)
 - [mfontanini/presenterm: A markdown terminal slideshow tool](https://github.com/mfontanini/presenterm)
