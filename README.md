@@ -1,3 +1,4 @@
+- [imgproxy/imgproxy: Fast and secure standalone server for resizing and converting remote images](https://github.com/imgproxy/imgproxy)
 - [[第 82 期] ZZKIA: 诺基亚短信图片生成器 · Issue #897 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/897)
 - [Intercept, debug & build with HTTP](https://httptoolkit.com/)
 - [What benefit do we get by thinking of objects as "sending messages to each other"?](https://softwareengineering.stackexchange.com/questions/417896/what-benefit-do-we-get-by-thinking-of-objects-as-sending-messages-to-each-other)
