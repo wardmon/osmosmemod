@@ -1,3 +1,4 @@
+- [Customizing pandoc to generate beautiful pdf and epub from markdown](https://learnbyexample.github.io/customizing-pandoc/)
 - [learnbyexample - Overview](https://github.com/learnbyexample)
 - [Hika AI - Free AI Knowledge Search](https://hika.fyi/search?topic_id=d568c491d31f4c4fac290fdd1e1056ab)
 - [颜色代码表 - 专业的在线颜色代码转换配色工具网站](https://www.ysdaima.com/)
