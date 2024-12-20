@@ -1,3 +1,4 @@
+- [我们为你精选了一份Jupyter/IPython笔记本集合 !（附大量资源链接）-上篇](https://mp.weixin.qq.com/s/5pS4nu3zMLZY6fOBPl7bFA)
 - [erebe/wstunnel: Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available](https://github.com/erebe/wstunnel)
 - [Jupyter Widgets — Jupyter Widgets 8.1.5 documentation](https://ipywidgets.readthedocs.io/en/stable/)
 - [wkeeling/selenium-wire: Extends Selenium's Python bindings to give you the ability to inspect requests made by the browser.](https://github.com/wkeeling/selenium-wire)
