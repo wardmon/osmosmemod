@@ -1,3 +1,4 @@
+- [Jupyter Widgets — Jupyter Widgets 8.1.5 documentation](https://ipywidgets.readthedocs.io/en/stable/)
 - [wkeeling/selenium-wire: Extends Selenium's Python bindings to give you the ability to inspect requests made by the browser.](https://github.com/wkeeling/selenium-wire)
 - [PageSpy](https://pagespy.jikejishu.com/#/devtools?address=aec89720-14e2-4f80-80a4-166ec1fcb45e.local#Page)
 - [index.html - nodebox - CodeSandbox](https://codesandbox.io/p/sandbox/page-spy-with-react-k3pzzt?file=%2Fpublic%2Findex.html)
