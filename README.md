@@ -1,3 +1,4 @@
+- [Intercept, debug & build with HTTP](https://httptoolkit.com/)
 - [What benefit do we get by thinking of objects as "sending messages to each other"?](https://softwareengineering.stackexchange.com/questions/417896/what-benefit-do-we-get-by-thinking-of-objects-as-sending-messages-to-each-other)
 - [Customizing pandoc to generate beautiful pdf and epub from markdown](https://learnbyexample.github.io/customizing-pandoc/)
 - [learnbyexample - Overview](https://github.com/learnbyexample)
