@@ -1,3 +1,4 @@
+- [erebe/wstunnel: Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available](https://github.com/erebe/wstunnel)
 - [Jupyter Widgets — Jupyter Widgets 8.1.5 documentation](https://ipywidgets.readthedocs.io/en/stable/)
 - [wkeeling/selenium-wire: Extends Selenium's Python bindings to give you the ability to inspect requests made by the browser.](https://github.com/wkeeling/selenium-wire)
 - [PageSpy](https://pagespy.jikejishu.com/#/devtools?address=aec89720-14e2-4f80-80a4-166ec1fcb45e.local#Page)
