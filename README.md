@@ -1,3 +1,4 @@
+- [example_app - Jupyter Notebook](https://notebooks.gesis.org/binder/jupyter/user/oschuett-appmode-qi51mm9d/notebooks/example_app.ipynb)
 - [nteract/papermill: 📚 Parameterize, execute, and analyze notebooks](https://github.com/nteract/papermill)
 - [Invictify/Jupter-Notebook-REST-API: Run your jupyter notebooks as a REST API endpoint. This isn't a jupyter server but rather just a way to run your notebooks as a REST API Endpoint.](https://github.com/Invictify/Jupter-Notebook-REST-API)
 - [jtpio/ipylab: Control JupyterLab from Python Notebooks with Jupyter Widgets 🧪 ☢️ 🐍](https://github.com/jtpio/ipylab)
