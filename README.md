@@ -1,3 +1,4 @@
+- [voila-dashboards/voila: Voilà turns Jupyter notebooks into standalone web applications](https://github.com/voila-dashboards/voila)
 - [datitran/jupyter2slides: Cloud Native Presentation Slides with Jupyter Notebook + Reveal.js](https://github.com/datitran/jupyter2slides)
 - [nbinteract](https://www.samlau.me/nbinteract/)
 - [Voilà Gallery](https://voila-gallery.org/)
