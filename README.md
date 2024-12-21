@@ -1,3 +1,4 @@
+- [nicole-brewer/awesome-jupyter-widgets: A curated list of awesome Jupyter widget packages and projects](https://github.com/nicole-brewer/awesome-jupyter-widgets)
 - [jupyter-naas/naas: Low-code Python library to safely use notebooks in production: schedule workflows, generate assets, trigger webhooks, send notifications, build pipelines, manage secrets (Cloud-only)](https://github.com/jupyter-naas/naas)
 - [jupyterhub/jupyter-server-proxy: Jupyter notebook server extension to proxy web services.](https://github.com/jupyterhub/jupyter-server-proxy)
 - [voila-dashboards/voila: Voilà turns Jupyter notebooks into standalone web applications](https://github.com/voila-dashboards/voila)
