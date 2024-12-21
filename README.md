@@ -1,3 +1,4 @@
+- [Data-Science-For-Beginners/1-Introduction/01-defining-data-science/notebook.ipynb at main · microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners/blob/main/1-Introduction/01-defining-data-science/notebook.ipynb)
 - [GitHub - quobit/awesome-python-in-education: A curated list about Python in Education :mortar_board:](https://github.com/quobit/awesome-python-in-education)
 - [pma.serv00.com / mysql4.serv00.com | phpMyAdmin 5.2.1](https://pma.serv00.com/index.php?route=/&route=%2F&server=5)
 - [leonardomso/33-js-concepts: 📜 33 JavaScript concepts every developer should know.](https://github.com/leonardomso/33-js-concepts)
