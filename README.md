@@ -1,3 +1,4 @@
+- [探索跨域新境界：Jupyter HTTP-over-WebSocket项目解析与推荐-CSDN博客](https://blog.csdn.net/gitblog_00243/article/details/141542092)
 - [oschuett/appmode at 95ce6131e82a8e6ded806c39cac5dc7c4fd0b64a](https://github.com/oschuett/appmode/tree/95ce6131e82a8e6ded806c39cac5dc7c4fd0b64a)
 - [example_app - Jupyter Notebook](https://notebooks.gesis.org/binder/jupyter/user/oschuett-appmode-qi51mm9d/notebooks/example_app.ipynb)
 - [nteract/papermill: 📚 Parameterize, execute, and analyze notebooks](https://github.com/nteract/papermill)
