@@ -1,3 +1,4 @@
+- [HanXinzi-AI/awesome-jupyter-resources: a collection of awesome Jupyter Notebook, Hub and Lab projects (extensions, kernels, tools). 热门实用的Jupyter Notebook、Hub和Lab项目（扩展、内核、工具等）集合](https://github.com/HanXinzi-AI/awesome-jupyter-resources)
 - [deathbeds/jupyterlab-deck: Lightweight presentations for JupyterLab](https://github.com/deathbeds/jupyterlab-deck)
 - [jupyterlab-deck — jupyterlab-deck 0.2.0 documentation](https://jupyterlab-deck.readthedocs.io/en/stable/)
 - [open-in-nbviewer/bookmarklet/nbviewer_bookmarklet.js at master · jiffyclub/open-in-nbviewer](https://github.com/jiffyclub/open-in-nbviewer/blob/master/bookmarklet/nbviewer_bookmarklet.js)
