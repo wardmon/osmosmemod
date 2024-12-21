@@ -1,3 +1,4 @@
+- [nbinteract](https://www.samlau.me/nbinteract/)
 - [Voilà Gallery](https://voila-gallery.org/)
 - [voila-dashboards/voila: Voilà turns Jupyter notebooks into standalone web applications](https://github.com/voila-dashboards/voila)
 - [googlecolab/jupyter_http_over_ws](https://github.com/googlecolab/jupyter_http_over_ws)
