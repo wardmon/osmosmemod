@@ -1,3 +1,4 @@
+- [deathbeds/jupyterlab-deck: Lightweight presentations for JupyterLab](https://github.com/deathbeds/jupyterlab-deck)
 - [jupyterlab-deck — jupyterlab-deck 0.2.0 documentation](https://jupyterlab-deck.readthedocs.io/en/stable/)
 - [open-in-nbviewer/bookmarklet/nbviewer_bookmarklet.js at master · jiffyclub/open-in-nbviewer](https://github.com/jiffyclub/open-in-nbviewer/blob/master/bookmarklet/nbviewer_bookmarklet.js)
 - [Data-Science-For-Beginners/1-Introduction/01-defining-data-science/notebook.ipynb at main · microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners/blob/main/1-Introduction/01-defining-data-science/notebook.ipynb)
