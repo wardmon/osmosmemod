@@ -1,3 +1,4 @@
+- [Turn your Jupyter Notebook into interactive Presentation Slides using Anaconda](https://digitalhumanities.hkust.edu.hk/tutorials/turn-your-jupyter-notebook-into-interactive-presentation-slides-using-anaconda/)
 - [astefanutti/decktape: PDF exporter for HTML presentations](https://github.com/astefanutti/decktape)
 - [mikeroyal/Jupyter-Guide: Jupyter Guide](https://github.com/mikeroyal/Jupyter-Guide)
 - [nicole-brewer/awesome-jupyter-widgets: A curated list of awesome Jupyter widget packages and projects](https://github.com/nicole-brewer/awesome-jupyter-widgets)
