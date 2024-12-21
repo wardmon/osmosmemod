@@ -1,3 +1,4 @@
+- [jupyter-naas/naas: Low-code Python library to safely use notebooks in production: schedule workflows, generate assets, trigger webhooks, send notifications, build pipelines, manage secrets (Cloud-only)](https://github.com/jupyter-naas/naas)
 - [jupyterhub/jupyter-server-proxy: Jupyter notebook server extension to proxy web services.](https://github.com/jupyterhub/jupyter-server-proxy)
 - [voila-dashboards/voila: Voilà turns Jupyter notebooks into standalone web applications](https://github.com/voila-dashboards/voila)
 - [datitran/jupyter2slides: Cloud Native Presentation Slides with Jupyter Notebook + Reveal.js](https://github.com/datitran/jupyter2slides)
