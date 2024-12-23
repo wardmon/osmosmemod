@@ -1,3 +1,4 @@
+- [Deploy BinderHub on a single Ubuntu server | Lord of the penguins | Killercoda](https://killercoda.com/manics/scenario/binderhub-in-a-box)
 - [Slidev](https://sli.dev/guide/)
 - [GitHub - webpro/reveal-md: reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file](https://kkgithub.com/webpro/reveal-md)
 - [GitHub - sgibson91/binderhub-deploy: Deploy a BinderHub from scratch on Microsoft Azure](https://kkgithub.com/sgibson91/binderhub-deploy)
