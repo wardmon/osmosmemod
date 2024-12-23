@@ -1,3 +1,4 @@
+- [https://binder.curvenote.dev/](https://binder.curvenote.dev/)
 - [Sample Binder Repositories — Binder 0.1b documentation](https://mybinder.readthedocs.io/en/latest/examples/sample_repos.html)
 - [ploomber/jupysql: Better SQL in Jupyter. 📊](https://github.com/ploomber/jupysql)
 - [conda/README.md at main · binder-examples/conda · GitHub](https://kkgithub.com/binder-examples/conda/blob/main/README.md)
