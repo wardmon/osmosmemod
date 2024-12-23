@@ -1,3 +1,4 @@
+- [Explore awesome AI & data apps](https://platform.ploomber.io/explore)
 - [FastHTML Gallery](https://gallery.fastht.ml/)
 - [FastHTML Gallery](https://gallery.fastht.ml/split/dynamic_user_interface_(htmx)/web_sockets)
 - [fasthtml/examples at main · AnswerDotAI/fasthtml](https://kkgithub.com/AnswerDotAI/fasthtml/tree/main/examples)
