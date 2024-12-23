@@ -1,3 +1,4 @@
+- [manics - Repositories](https://github.com/manics?page=8&tab=repositories)
 - [GitHub - manics/repo2shellscript: A plugin for repo2docker that outputs a directory with a shell-script and required files](https://kkgithub.com/manics/repo2shellscript)
 - [Python 解决“Could not build wheels for _ which use PEP 517 and cannot be installed directly”的问题|极客教程](https://geek-docs.com/python/python-ask-answer/401_python_could_not_build_wheels_for___which_use_pep_517_and_cannot_be_installed_directly_easy_solution.html)
 - [python-prompt-toolkit/examples/ssh/asyncssh-server.py at master · prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit/blob/master/examples/ssh/asyncssh-server.py)
