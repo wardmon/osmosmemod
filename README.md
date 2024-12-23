@@ -1,3 +1,4 @@
+- [manics/binderhub-ci-repos-minimal-dockerfile](https://github.com/manics/binderhub-ci-repos-minimal-dockerfile)
 - [manics/killercoda-scenarios: Killercoda scenarios](https://github.com/manics/killercoda-scenarios)
 - [manics - Repositories](https://github.com/manics?page=8&tab=repositories)
 - [GitHub - manics/repo2shellscript: A plugin for repo2docker that outputs a directory with a shell-script and required files](https://kkgithub.com/manics/repo2shellscript)
