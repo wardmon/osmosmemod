@@ -1,3 +1,4 @@
+- [GitHub - webpro/reveal-md: reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file](https://kkgithub.com/webpro/reveal-md)
 - [GitHub - sgibson91/binderhub-deploy: Deploy a BinderHub from scratch on Microsoft Azure](https://kkgithub.com/sgibson91/binderhub-deploy)
 - [manics/conda-websockify: A Conda package for Websockify](https://github.com/manics/conda-websockify)
 - [manics/repo2docker-action: GitHub Action for repo2docker](https://github.com/manics/repo2docker-action)
