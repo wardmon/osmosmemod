@@ -1,3 +1,4 @@
+- [manics/conda-websockify: A Conda package for Websockify](https://github.com/manics/conda-websockify)
 - [manics/repo2docker-action: GitHub Action for repo2docker](https://github.com/manics/repo2docker-action)
 - [jupyter-server/jupyter_server: The backend—i.e. core services, APIs, and REST endpoints—to Jupyter web applications.](https://github.com/jupyter-server/jupyter_server)
 - [manics/binderhub-ci-repos-minimal-dockerfile](https://github.com/manics/binderhub-ci-repos-minimal-dockerfile)
