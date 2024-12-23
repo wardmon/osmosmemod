@@ -1,3 +1,4 @@
+- [jupyter-server/jupyter_server: The backend—i.e. core services, APIs, and REST endpoints—to Jupyter web applications.](https://github.com/jupyter-server/jupyter_server)
 - [manics/binderhub-ci-repos-minimal-dockerfile](https://github.com/manics/binderhub-ci-repos-minimal-dockerfile)
 - [manics/killercoda-scenarios: Killercoda scenarios](https://github.com/manics/killercoda-scenarios)
 - [manics - Repositories](https://github.com/manics?page=8&tab=repositories)
