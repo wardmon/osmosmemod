@@ -1,3 +1,4 @@
+- [fasthtml/examples at main · AnswerDotAI/fasthtml](https://kkgithub.com/AnswerDotAI/fasthtml/tree/main/examples)
 - [gridstack/gridstack.js: Build interactive dashboards in minutes.](https://github.com/gridstack/gridstack.js)
 - [doc/doc/intro.md at main · ploomber/doc](https://github.com/ploomber/doc/blob/main/doc/intro.md)
 - [GitHub - jupyterhub/binderhub: Run your code in the cloud, with technology so advanced, it feels like magic!](https://kkgithub.com/jupyterhub/binderhub)
