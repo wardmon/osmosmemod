@@ -1,3 +1,4 @@
+- [Jupyter Notebook 恢复历史执行信息与存储执行结果 - Jeremy Feng](https://fengchao.pro/blog/jupyter-notebook-store-result/)
 - [wardmon/jupyter2slides](https://github.com/wardmon/jupyter2slides)
 - [Download Buzee | Buzee](https://buzee.co/download/)
 - [hkust-dh/jupyter-slides-demo: This serves as a demo to showcase how to host your website on GitHub Pages.](https://github.com/hkust-dh/jupyter-slides-demo)
