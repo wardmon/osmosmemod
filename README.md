@@ -1,3 +1,4 @@
+- [doc/doc/intro.md at main · ploomber/doc](https://github.com/ploomber/doc/blob/main/doc/intro.md)
 - [GitHub - jupyterhub/binderhub: Run your code in the cloud, with technology so advanced, it feels like magic!](https://kkgithub.com/jupyterhub/binderhub)
 - [https://binder.curvenote.dev/](https://binder.curvenote.dev/)
 - [Sample Binder Repositories — Binder 0.1b documentation](https://mybinder.readthedocs.io/en/latest/examples/sample_repos.html)
