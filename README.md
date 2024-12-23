@@ -1,3 +1,4 @@
+- [HanXinzi-AI/awesome-python-resources: a collection of awesome Python open-source libraries & tools. 热门实用的Python开源库和工具集合](https://github.com/HanXinzi-AI/awesome-python-resources)
 - [Explore awesome AI & data apps](https://platform.ploomber.io/explore)
 - [FastHTML Gallery](https://gallery.fastht.ml/)
 - [FastHTML Gallery](https://gallery.fastht.ml/split/dynamic_user_interface_(htmx)/web_sockets)
