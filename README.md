@@ -1,3 +1,4 @@
+- [Download Buzee | Buzee](https://buzee.co/download/)
 - [hkust-dh/jupyter-slides-demo: This serves as a demo to showcase how to host your website on GitHub Pages.](https://github.com/hkust-dh/jupyter-slides-demo)
 - [Turn your Jupyter Notebook into interactive Presentation Slides using Anaconda](https://digitalhumanities.hkust.edu.hk/tutorials/turn-your-jupyter-notebook-into-interactive-presentation-slides-using-anaconda/)
 - [astefanutti/decktape: PDF exporter for HTML presentations](https://github.com/astefanutti/decktape)
