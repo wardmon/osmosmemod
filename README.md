@@ -1,3 +1,4 @@
+- [ploomber/jupysql: Better SQL in Jupyter. 📊](https://github.com/ploomber/jupysql)
 - [conda/README.md at main · binder-examples/conda · GitHub](https://kkgithub.com/binder-examples/conda/blob/main/README.md)
 - [Deploying Voilà — voila 0.5.8 documentation](https://voila.readthedocs.io/en/stable/deploy.html)
 - [Get started with Binder — Binder 0.1b documentation](https://mybinder.readthedocs.io/en/latest/introduction.html#preparing-a-repository-for-binder)
