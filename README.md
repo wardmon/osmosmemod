@@ -1,3 +1,4 @@
+- [jxhczhl/JsRpc: 远程调用(rpc)浏览器方法，免去抠代码补环境](https://github.com/jxhczhl/JsRpc)
 - [pyTCP2WS/lib/TCPServer.py at master · dorneanu/pyTCP2WS · GitHub](https://kkgithub.com/dorneanu/pyTCP2WS/blob/master/lib/TCPServer.py)
 - [GitHub - dorneanu/pyTCP2WS: Creates a bridge between TCP sockets and WebSockets using JSON data](https://kkgithub.com/dorneanu/pyTCP2WS)
 - [python-websocket-server/examples/javascript_chat_client.html at master · kloddant/python-websocket-server · GitHub](https://kkgithub.com/kloddant/python-websocket-server/blob/master/examples/javascript_chat_client.html)
