@@ -1,3 +1,4 @@
+- [Python “asyncio.run() 无法在正在运行的事件循环中调用”在使用 Jupyter Notebook 时|极客教程](https://geek-docs.com/python/python-ask-answer/76_python_asynciorun_cannot_be_called_from_a_running_event_loop_when_using_jupyter_notebook.html)
 - [GitHub - facebook/PathPicker: PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.](https://kkgithub.com/facebook/PathPicker)
 - [ryanmcgrath/twython: Actively maintained, pure Python wrapper for the Twitter API. Supports both normal and streaming Twitter APIs.](https://github.com/ryanmcgrath/twython)
 - [利用websockify将websocket通信转换成tcp-CSDN博客](https://blog.csdn.net/albertsh/article/details/134981708)
