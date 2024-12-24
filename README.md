@@ -1,3 +1,4 @@
+- [Developer console](https://kkgithub.com/joewalnes/websocketd/wiki/Developer-console)
 - [joewalnes/websocketd: Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.](https://github.com/joewalnes/websocketd)
 - [websocket转换 | wmproxy](https://wmproxy.net/guide/websocket-tcp.html#wmproxy-ws-proxy)
 - [GitHub - ruzhila/100-line-code: A collection of learning projects written in 100 lines of code](https://kkgithub.com/ruzhila/100-line-code)
