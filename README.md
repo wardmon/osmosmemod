@@ -1,4 +1,5 @@
 - [python-websocket-server/examples/javascript_chat_client.html at master · kloddant/python-websocket-server · GitHub](https://kkgithub.com/kloddant/python-websocket-server/blob/master/examples/javascript_chat_client.html)
+- [python-websocket-server/examples/javascript_chat_client.html at master · kloddant/python-websocket-server · GitHub](https://kkgithub.com/kloddant/python-websocket-server/blob/master/examples/javascript_chat_client.html)
 - [GitHub - Pithikos/python-websocket-server: A simple fully working websocket-server in Python with no external dependencies](https://kkgithub.com/Pithikos/python-websocket-server)
 - [Mongoose :: Examples :: JSON-RPC over Websocket](https://mongoose.ws/documentation/tutorials/websocket/json-rpc-over-websocket/)
 - [GitHub - BorisPlus/django_websocket_middleware](https://kkgithub.com/BorisPlus/django_websocket_middleware)
