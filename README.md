@@ -1,3 +1,4 @@
+- [GitHub - Pithikos/python-websocket-server: A simple fully working websocket-server in Python with no external dependencies](https://kkgithub.com/Pithikos/python-websocket-server)
 - [Mongoose :: Examples :: JSON-RPC over Websocket](https://mongoose.ws/documentation/tutorials/websocket/json-rpc-over-websocket/)
 - [GitHub - BorisPlus/django_websocket_middleware](https://kkgithub.com/BorisPlus/django_websocket_middleware)
 - [asgi-cgi-handler/tests/httppost.c at main · synodriver/asgi-cgi-handler · GitHub](https://kkgithub.com/synodriver/asgi-cgi-handler/blob/main/tests/httppost.c)
