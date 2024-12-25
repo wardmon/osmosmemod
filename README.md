@@ -1,3 +1,4 @@
+- [使用Python实现基于WebSocket的SSH远程控制台操作指南 - 云原生实践](https://www.oryoy.com/news/shi-yong-python-shi-xian-ji-yu-websocket-de-ssh-yuan-cheng-kong-zhi-tai-cao-zuo-zhi-nan.html)
 - [py-JsRpc/jsrpc/main.py at main · p1s1lver/py-JsRpc · GitHub](https://kkgithub.com/p1s1lver/py-JsRpc/blob/main/jsrpc/main.py)
 - [sixgad/py-jsrpc: python实现一套轻量、协程异步、websocket远程调用服务，js逆向、混淆加密一把梭。](https://github.com/sixgad/py-jsrpc)
 - [python框架Sanic添加任务定时or间隔执行](/python/2022/03/09/python-sanic-add-task.html)
