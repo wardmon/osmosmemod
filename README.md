@@ -1,3 +1,4 @@
+- [py-JsRpc/jsrpc/main.py at main · p1s1lver/py-JsRpc · GitHub](https://kkgithub.com/p1s1lver/py-JsRpc/blob/main/jsrpc/main.py)
 - [sixgad/py-jsrpc: python实现一套轻量、协程异步、websocket远程调用服务，js逆向、混淆加密一把梭。](https://github.com/sixgad/py-jsrpc)
 - [python框架Sanic添加任务定时or间隔执行](/python/2022/03/09/python-sanic-add-task.html)
 - [jxhczhl/JsRpc: 远程调用(rpc)浏览器方法，免去抠代码补环境](https://github.com/jxhczhl/JsRpc)
