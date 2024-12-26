@@ -1,3 +1,4 @@
+- [tomerfiliba-org/rpyc: RPyC (Remote Python Call) - A transparent and symmetric RPC library for python](https://github.com/tomerfiliba-org/rpyc)
 - [GitHub - 71n9/JSRPC: 远程调用JS,实时调用JS,免去补环境的烦恼！](https://kkgithub.com/71n9/JSRPC)
 - [ctn-malone/websocketd-controller: Wrapper to execute command-line interface programs described by json files, using websocketd](https://github.com/ctn-malone/websocketd-controller)
 - [h0ru5/webstat: Netstat WebUI via websocketd](https://github.com/h0ru5/webstat)
