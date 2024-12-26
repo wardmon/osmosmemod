@@ -1,3 +1,4 @@
+- [GitHub - rubensalmeida/pwshboard: websocketd + powershell + javascript = pwshboard](https://github.com/rubensalmeida/pwshboard)
 - [GitHub - ctn-malone/websocketd-controller: Wrapper to execute command-line interface programs described by json files, using websocketd](https://github.com/ctn-malone/websocketd-controller)
 - [Compiler Explorer](https://godbolt.org/)
 - [GitHub - compiler-explorer/compiler-explorer: Run compilers interactively from your web browser and interact with the assembly](https://kkgithub.com/compiler-explorer/compiler-explorer)
