@@ -1,3 +1,4 @@
+- [GitHub - ctn-malone/websocketd-controller: Wrapper to execute command-line interface programs described by json files, using websocketd](https://github.com/ctn-malone/websocketd-controller)
 - [Compiler Explorer](https://godbolt.org/)
 - [GitHub - compiler-explorer/compiler-explorer: Run compilers interactively from your web browser and interact with the assembly](https://kkgithub.com/compiler-explorer/compiler-explorer)
 - [花了两个星期，我终于把 WSGI 整明白了 - 王一白 - 博客园](https://www.cnblogs.com/wongbingming/p/11002978.html)
