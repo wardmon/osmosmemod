@@ -1,3 +1,4 @@
+- [WebSockets](https://www.fullstackpython.com/websockets.html)
 - [encode/starlette: The little ASGI framework that shines. 🌟](https://github.com/encode/starlette)
 - [autobahn-python/examples/asyncio/websocket/echo at master · crossbario/autobahn-python](https://github.com/crossbario/autobahn-python/tree/master/examples)
 - [pvarentsov/iola: 🔄 iola: Command-line socket client with REST API.](https://github.com/pvarentsov/iola)
