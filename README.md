@@ -1,3 +1,4 @@
+- [elpheria/rpc-websockets: JSON-RPC 2.0 implementation over WebSockets for Node.js and JavaScript/TypeScript](https://github.com/elpheria/rpc-websockets)
 - [wsterm/wsterm: Websocket Remote Terminal(Remote debug/Auto sync workspace)](https://github.com/wsterm/wsterm)
 - [Kozea/wdb: An improbable web debugger through WebSockets](https://github.com/Kozea/wdb)
 - [rpyc/demos/boilerplate/ReadMe.md at master · tomerfiliba-org/rpyc · GitHub](https://kkgithub.com/tomerfiliba-org/rpyc/blob/master/demos/boilerplate/ReadMe.md)
