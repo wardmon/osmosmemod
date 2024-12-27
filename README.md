@@ -1,3 +1,4 @@
+- [encode/starlette: The little ASGI framework that shines. 🌟](https://github.com/encode/starlette)
 - [autobahn-python/examples/asyncio/websocket/echo at master · crossbario/autobahn-python](https://github.com/crossbario/autobahn-python/tree/master/examples)
 - [pvarentsov/iola: 🔄 iola: Command-line socket client with REST API.](https://github.com/pvarentsov/iola)
 - [elpheria/rpc-websockets: JSON-RPC 2.0 implementation over WebSockets for Node.js and JavaScript/TypeScript](https://github.com/elpheria/rpc-websockets)
