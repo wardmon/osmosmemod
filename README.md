@@ -1,3 +1,4 @@
+- [herberthamaral/simpletodolist: Todolist with python+django+tornado+jquerymobile+websockets](https://github.com/herberthamaral/simpletodolist)
 - [shinjayne/Tornado-WS-Json-Boilerplate: Tornado WS Json API Server Boilerplate](https://github.com/shinjayne/Tornado-WS-Json-Boilerplate)
 - [gateray/msg-sender: msg-sender是一个基于tornado框架实现的异步消息发送接口，当前支持消息发送微信企业号、玄武短信接口和Email; 接口调用支持http和websocket。遵循MIT开源许可。](https://github.com/gateray/msg-sender)
 - [@tornado.web.asynchronous 版本 - CSDN文库](https://wenku.csdn.net/answer/95d4c841b3094532923a2fb6bb4f7b18)
