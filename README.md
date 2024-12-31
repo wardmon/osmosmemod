@@ -1,3 +1,4 @@
+- [chengts95/tornado-websocket-rest-example: This is a very simple websocket and rest-api example based on tornado](https://github.com/chengts95/tornado-websocket-rest-example)
 - [httpimport - 远程Python包导入工具 支持多源HTTP/S加载 - 懂AI](https://www.dongaigc.com/p/operatorequals/httpimport)
 - [mivade/flasknado: A demo of using Tornado websockets with Flask.](https://github.com/mivade/flasknado)
 - [利用Tornado 对 WebSocket 支持，实现实时通信应用](https://mp.weixin.qq.com/s/P-TW9Jr9jOuevdA-IRqF4g)
