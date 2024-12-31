@@ -1,3 +1,4 @@
+- [gateray/msg-sender: msg-sender是一个基于tornado框架实现的异步消息发送接口，当前支持消息发送微信企业号、玄武短信接口和Email; 接口调用支持http和websocket。遵循MIT开源许可。](https://github.com/gateray/msg-sender)
 - [@tornado.web.asynchronous 版本 - CSDN文库](https://wenku.csdn.net/answer/95d4c841b3094532923a2fb6bb4f7b18)
 - [chengts95/tornado-websocket-rest-example: This is a very simple websocket and rest-api example based on tornado](https://github.com/chengts95/tornado-websocket-rest-example)
 - [httpimport - 远程Python包导入工具 支持多源HTTP/S加载 - 懂AI](https://www.dongaigc.com/p/operatorequals/httpimport)
